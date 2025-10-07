@@ -8,8 +8,8 @@ from docling.document_converter import PdfFormatOption
 from docling.datamodel.pipeline_options import PdfPipelineOptions, TableFormerMode
 
 # ===== CONFIG =====
-PDF_INPUT_DIR = "C:\\Users\\Rouin\\Desktop\\thesisplz\\Misc\\Preprocessing Initial\\orders_test"
-OUTPUT_DIR = "C:\\Users\\Rouin\\Desktop\\thesisplz\\Misc\\Preprocessing Initial\\processed_orders_test"
+PDF_INPUT_DIR = "orders"
+OUTPUT_DIR = "outputs"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Configure PDF pipeline
