@@ -1,0 +1,887 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2025_021r",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18360828694268285377,
+    "filename": "DO_s2025_021r.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.0,
+            "t": 683.7333577473959,
+            "r": 169.0,
+            "b": 652.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "DepEd ORDER No 021 2025",
+      "text": "DepEd ORDER No 021 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 460.3333333333333,
+            "t": 690.0666910807291,
+            "r": 523.0,
+            "b": 675.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JUL 0 3 2025",
+      "text": "JUL 0 3 2025"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.0,
+            "t": 641.0666910807291,
+            "r": 541.6666666666666,
+            "b": 584.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "FUNCTIONAL SUPERVISION OF THE OFFICE OF THE UNDERSECRETARY OF LEGAL AND LEGISLATIVE AFFAIRS (OULLA) OVER LAWYERS OF THE DEPARTMENT OF EDUCATION STATIONED AT REGIONAL AND DIVISION OFFICES",
+      "text": "FUNCTIONAL SUPERVISION OF THE OFFICE OF THE UNDERSECRETARY OF LEGAL AND LEGISLATIVE AFFAIRS (OULLA) OVER LAWYERS OF THE DEPARTMENT OF EDUCATION STATIONED AT REGIONAL AND DIVISION OFFICES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.333333333333336,
+            "t": 571.7333577473958,
+            "r": 543.3333333333334,
+            "b": 498.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "1 Pursuant to the authority granted to the Secretary of the Department of Education (DepEd) under Section 7 Chapter 2, Book IV of the Administrative Code of 1987 the Legal and Legislative Affairs (LLA) strand is mandated to enhance the capacity of the Department to competently prepare, cope with, and address matters with legal implications.",
+      "text": "1 Pursuant to the authority granted to the Secretary of the Department of Education (DepEd) under Section 7 Chapter 2, Book IV of the Administrative Code of 1987 the Legal and Legislative Affairs (LLA) strand is mandated to enhance the capacity of the Department to competently prepare, cope with, and address matters with legal implications.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 487.0666910807292,
+            "r": 542.3333333333334,
+            "b": 385.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            527
+          ]
+        }
+      ],
+      "orig": "2 To uphold the standard of excellence in the conduct of legal affairs and to ensure consistent application of legal policies across all regions and offices, authority of the Secretary, the Office of the Undersecretary for Legal and Legislative Affairs (OULLA) shall have supervision over matters with legal implications. These include, but are not limited the issuance and interpretation; of regulations and policies, rendering of legal opinions, handling of administrative and court cases, and entering into contracts. by to,",
+      "text": "2 To uphold the standard of excellence in the conduct of legal affairs and to ensure consistent application of legal policies across all regions and offices, authority of the Secretary, the Office of the Undersecretary for Legal and Legislative Affairs (OULLA) shall have supervision over matters with legal implications. These include, but are not limited the issuance and interpretation; of regulations and policies, rendering of legal opinions, handling of administrative and court cases, and entering into contracts. by to,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 374.0666910807292,
+            "r": 542.0,
+            "b": 285.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "3 In line with this directive, all Regional Offices and Schools Division Offices are instructed to: (a) adhere to all law-related guidelines issued by OULLA; (b) follow any specific legal direction provided by OULLA on particular issues, if any; and (c) seek OULLA 's clearance prior to the release of all legal opinions, when intended for external release or with policy implications, to ensure consistency with the Departments legal framework and existing policies.",
+      "text": "3 In line with this directive, all Regional Offices and Schools Division Offices are instructed to: (a) adhere to all law-related guidelines issued by OULLA; (b) follow any specific legal direction provided by OULLA on particular issues, if any; and (c) seek OULLA 's clearance prior to the release of all legal opinions, when intended for external release or with policy implications, to ensure consistency with the Departments legal framework and existing policies.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.666666666666664,
+            "t": 274.4000244140625,
+            "r": 541.0,
+            "b": 216.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "4 In turn, OULLA is directed to set out guidelines and work processes regarding its exercise of functional supervisions over DepEd lawyers in the Regional and Division offices OULLA shall regularly obtain directions or clearances from the Office of the Secretary .",
+      "text": "4 In turn, OULLA is directed to set out guidelines and work processes regarding its exercise of functional supervisions over DepEd lawyers in the Regional and Division offices OULLA shall regularly obtain directions or clearances from the Office of the Secretary .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.666666666666664,
+            "t": 203.73335774739587,
+            "r": 540.0,
+            "b": 118.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "5 As such, DepEd lawyers in the Regional and Schools Division Offices shall  functionally report to the Undersecretary for Legal and Legislative Affairs (LLA) The Undersecretary of LLA's functional supervision over the lawyers does not diminish the authority of Regional Directors or Schools Division Superintendents over administrative matters, but strengthens legal consistency and institutional safeguards across all levels.",
+      "text": "5 As such, DepEd lawyers in the Regional and Schools Division Offices shall  functionally report to the Undersecretary for Legal and Legislative Affairs (LLA) The Undersecretary of LLA's functional supervision over the lawyers does not diminish the authority of Regional Directors or Schools Division Superintendents over administrative matters, but strengthens legal consistency and institutional safeguards across all levels.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 499.3333333333333,
+            "t": 63.06669108072913,
+            "r": 574.6666666666666,
+            "b": 52.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "www.deped gov.ph",
+      "text": "www.deped gov.ph"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.0,
+            "t": 811.4000244140625,
+            "r": 303.0,
+            "b": 804.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.1444859396832,
+            "t": 812.7153641943764,
+            "r": 317.1888473936501,
+            "b": 793.4180179670818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "EDUK",
+      "text": "EDUK"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.666666666666666,
+            "t": 66.73335774739587,
+            "r": 213.66666666666666,
+            "b": 54.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig City 1600",
+      "text": "DepEd Complex, Meralco Avenue, Pasig City 1600"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 232.0,
+            "t": 65.06669108072913,
+            "r": 372.0,
+            "b": 55.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "8633-7208/8633-7228/8632-1361",
+      "text": "8633-7208/8633-7228/8632-1361"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 64.4000244140625,
+            "r": 486.0,
+            "b": 53.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.333333333333336,
+            "t": 777.0666910807291,
+            "r": 544.0,
+            "b": 732.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "6 As part of the developing the DepEds legal services, OULLA is directed to facilitate mandatory training programs and skills workshops to the Department lawyers and legal staff aimed at capacity building:",
+      "text": "6 As part of the developing the DepEds legal services, OULLA is directed to facilitate mandatory training programs and skills workshops to the Department lawyers and legal staff aimed at capacity building:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 84.0,
+            "t": 721.7333577473959,
+            "r": 338.0,
+            "b": 703.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "For your strict and immediate compliance.",
+      "text": "For your strict and immediate compliance."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.0,
+            "t": 690.7333577473959,
+            "r": 305.6666666666667,
+            "b": 684.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.3076875873578,
+            "t": 685.1333454745261,
+            "r": 295.6923124126422,
+            "b": 678.3333700202655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.4742522059457,
+            "t": 692.3813381637397,
+            "r": 321.192414460721,
+            "b": 673.4187106643853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "EDUK",
+      "text": "EDUK"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.3333333333333,
+            "t": 678.0666910807291,
+            "r": 479.6666666666667,
+            "b": 664.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SONNY ANGARA",
+      "text": "SONNY ANGARA"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 216.57223510742188,
+            "t": 76.4364013671875,
+            "r": 232.61294555664062,
+            "b": 58.82855224609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 374.19403076171875,
+            "t": 76.6436767578125,
+            "r": 391.7873229980469,
+            "b": 57.84649658203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 486.87310791015625,
+            "t": 73.51092529296875,
+            "r": 574.2470703125,
+            "b": 53.69183349609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 208.12709045410156,
+            "t": 813.5309562683105,
+            "r": 390.0463562011719,
+            "b": 716.9284820556641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 198.99598693847656,
+            "t": 695.2808685302734,
+            "r": 335.69805908203125,
+            "b": 626.8208923339844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 355.935791015625,
+            "t": 715.900993347168,
+            "r": 510.4805908203125,
+            "b": 646.4449462890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    }
+  }
+}

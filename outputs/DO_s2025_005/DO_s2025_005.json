@@ -1,0 +1,5003 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2025_005",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7648249810087520581,
+    "filename": "DO_s2025_005.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/pictures/17"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/groups/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.33333333333333,
+            "t": 660.0666910807291,
+            "r": 177.0,
+            "b": 632.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "DepEd 0 RDER No. 005 2025",
+      "text": "DepEd 0 RDER No. 005 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.0,
+            "t": 623.4000244140625,
+            "r": 523.6666666666666,
+            "b": 596.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "ADDITIONAL IMPLEMENTING GUIDELINES ON THE GRANT OF A TEACHING ALLOWANCE FOR PUBLIC SCHOOL TEACHERS",
+      "text": "ADDITIONAL IMPLEMENTING GUIDELINES ON THE GRANT OF A TEACHING ALLOWANCE FOR PUBLIC SCHOOL TEACHERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.33333333333333,
+            "t": 581.4000244140625,
+            "r": 93.66666666666667,
+            "b": 569.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "To:",
+      "text": "To:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.0,
+            "t": 582.0666910807292,
+            "r": 374.0,
+            "b": 492.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned",
+      "text": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.66666666666667,
+            "t": 481.4000244140625,
+            "r": 532.0,
+            "b": 400.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "1 The Department of Education (DepEd) issues the enclosed Additional Implementing Guidelines on the Grant of a Teaching Allowance for Public School Teachers pursuant to the Implementing Rules and Regulations of Republic Act No 11997 titled An Act Institutionalizing the Grant of a Teaching Allowance for Public School Teachers and Appropriating Funds Therefor otherwise known as the Kabalikat sa Pagtuturo Act.",
+      "text": "1 The Department of Education (DepEd) issues the enclosed Additional Implementing Guidelines on the Grant of a Teaching Allowance for Public School Teachers pursuant to the Implementing Rules and Regulations of Republic Act No 11997 titled An Act Institutionalizing the Grant of a Teaching Allowance for Public School Teachers and Appropriating Funds Therefor otherwise known as the Kabalikat sa Pagtuturo Act.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.0,
+            "t": 391.7333577473958,
+            "r": 533.3333333333334,
+            "b": 349.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "2. This Order provides additional guidelines for the effective implementation of granting the teaching allowance to all qualified public school teachers engaged in the basic education curriculum",
+      "text": "This Order provides additional guidelines for the effective implementation of granting the teaching allowance to all qualified public school teachers engaged in the basic education curriculum",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.0,
+            "t": 340.7333577473958,
+            "r": 532.6666666666666,
+            "b": 283.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "All provisions of DepEd Order (DO) No. 010, s. 2020 (Guidelines on the Grant of Cash Allowance to Teachers) and other related issuances and rules that are inconsistent with this Order and its provisions are repealed, rescinded, or amended accordingly.",
+      "text": "All provisions of DepEd Order (DO) No. 010, s. 2020 (Guidelines on the Grant of Cash Allowance to Teachers) and other related issuances and rules that are inconsistent with this Order and its provisions are repealed, rescinded, or amended accordingly.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.33333333333333,
+            "t": 275.73335774739587,
+            "r": 533.3333333333334,
+            "b": 232.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "4 School Year (SY) 2024-2025 shall be considered a transition period for the implementation of this Order. Strict implementation of this DO shall commence in SY 2025-2026 and SYs thereafter .",
+      "text": "4 School Year (SY) 2024-2025 shall be considered a transition period for the implementation of this Order. Strict implementation of this DO shall commence in SY 2025-2026 and SYs thereafter .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.0,
+            "t": 223.06669108072913,
+            "r": 534.0,
+            "b": 179.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "5. This DO shall be published on the DepEd website, and its certified shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon copies City .",
+      "text": "This DO shall be published on the DepEd website, and its certified shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon copies City .",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.0,
+            "t": 170.4000244140625,
+            "r": 535.0,
+            "b": 113.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "6 For inquiries or concerns, please contact the Bureau of Human Resource and Organizational Development-Employee Welfare Division, Mabini Building, DepEd Central Office, DepEd Complex, Meralco Avenue, Pasig through email at bhrod.ewd@deped.gov.ph or at telephone number (02) 8633-7229. City",
+      "text": "6 For inquiries or concerns, please contact the Bureau of Human Resource and Organizational Development-Employee Welfare Division, Mabini Building, DepEd Central Office, DepEd Complex, Meralco Avenue, Pasig through email at bhrod.ewd@deped.gov.ph or at telephone number (02) 8633-7229. City",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.66666666666666,
+            "t": 52.4000244140625,
+            "r": 384.3333333333333,
+            "b": 39.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "8633-7208/8633-7228/8632-1361",
+      "text": "8633-7208/8633-7228/8632-1361"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 403.6666666666667,
+            "t": 52.73335774739587,
+            "r": 497.6666666666667,
+            "b": 42.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.6666666666667,
+            "t": 804.7333577473959,
+            "r": 305.6666666666667,
+            "b": 798.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.3333333333333,
+            "t": 756.7333577473959,
+            "r": 305.6666666666667,
+            "b": 752.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 443.3333333333333,
+            "t": 688.7333577473959,
+            "r": 508.3333333333333,
+            "b": 670.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "MaR 2 0 2025",
+      "text": "MaR 2 0 2025"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.666666666666668,
+            "t": 50.06669108072913,
+            "r": 225.66666666666666,
+            "b": 36.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig City 1600",
+      "text": "DepEd Complex, Meralco Avenue, Pasig City 1600"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 759.0666910807291,
+            "r": 525.3333333333334,
+            "b": 741.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "7 Immediate dissemination of and strict compliance with this Order is directed.",
+      "text": "7 Immediate dissemination of and strict compliance with this Order is directed.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 360.0,
+            "t": 679.4000244140625,
+            "r": 456.3333333333333,
+            "b": 651.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "SONNY ANGARA Secretarye",
+      "text": "SONNY ANGARA Secretarye"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 447.6666666666667,
+            "t": 608.7333577473959,
+            "r": 457.6666666666667,
+            "b": 602.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 425.5757266638074,
+            "t": 613.2693201117936,
+            "r": 439.4242733361926,
+            "b": 579.5307287163314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 614.0666910807291,
+            "r": 102.33333333333333,
+            "b": 602.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Encl:",
+      "text": "Encl:"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 447.6666666666667,
+            "t": 608.7333577473959,
+            "r": 457.6666666666667,
+            "b": 602.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.33333333333333,
+            "t": 601.7333577473959,
+            "r": 160.0,
+            "b": 589.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "As stated",
+      "text": "As stated"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 575.4000244140625,
+            "r": 130.33333333333334,
+            "b": 563.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.0,
+            "t": 563.0666910807292,
+            "r": 284.3333333333333,
+            "b": 548.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "DepEd Order: (No. 010, s. 2020)",
+      "text": "DepEd Order: (No. 010, s. 2020)"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 537.4000244140625,
+            "r": 281.0,
+            "b": 509.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual Index under the following subjects:",
+      "text": "To be indicated in the Perpetual Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.33333333333333,
+            "t": 498.4000244140625,
+            "r": 263.3333333333333,
+            "b": 421.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "ALLOWANCE EXPENSES FUNDS POLICY RULES AND REGULATIONS TEACHERS",
+      "text": "ALLOWANCE EXPENSES FUNDS POLICY RULES AND REGULATIONS TEACHERS"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.66666666666667,
+            "t": 396.7333577473958,
+            "r": 210.0,
+            "b": 379.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "MCDK MPC, DO Grant of Teaching Allowance 0051 February 28, 2025",
+      "text": "MCDK MPC, DO Grant of Teaching Allowance 0051 February 28, 2025"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 425.5757266638074,
+            "t": 613.2693201117936,
+            "r": 439.4242733361926,
+            "b": 579.5307287163314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 777.0666910807291,
+            "r": 323.6666666666667,
+            "b": 758.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "(Enclosure to DepEd Order No 005 2025)",
+      "text": "(Enclosure to DepEd Order No 005 2025)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 547.0,
+            "t": 821.4000244140625,
+            "r": 557.0,
+            "b": 814.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 519.9487179487179,
+            "t": 815.8102808243189,
+            "r": 547.0512820512821,
+            "b": 809.6564346704728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "AWARAN",
+      "text": "AWARAN"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.33333333333333,
+            "t": 747.0666910807291,
+            "r": 516.6666666666666,
+            "b": 722.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "ADDITIONAL IMPLEMENTING GUIDELINES ON THE GRANT OF A TEACHING ALLOWANCE FOR PUBLIC SCHOOL TEACHERS",
+      "text": "ADDITIONAL IMPLEMENTING GUIDELINES ON THE GRANT OF A TEACHING ALLOWANCE FOR PUBLIC SCHOOL TEACHERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.0,
+            "t": 708.0666910807291,
+            "r": 175.0,
+            "b": 696.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "I RATIONALE",
+      "text": "I RATIONALE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 684.7333577473959,
+            "r": 524.0,
+            "b": 577.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "1_ The rationale behind the Teaching Allowance is rooted in the constant effort of the government to motivate, capacitate, and empower the public school teachers. This allowance serves as a support mechanism to alleviate the financial burden on teachers by   covering  expenses necessary for delivering   quality education and creating a conducive learning environment and ultimately, contributing to the betterment of our society. It is a towards recognizing and valuing the hard work and dedication of all public school teachers, who always go above and beyond their call of duty . step",
+      "text": "1_ The rationale behind the Teaching Allowance is rooted in the constant effort of the government to motivate, capacitate, and empower the public school teachers. This allowance serves as a support mechanism to alleviate the financial burden on teachers by   covering  expenses necessary for delivering   quality education and creating a conducive learning environment and ultimately, contributing to the betterment of our society. It is a towards recognizing and valuing the hard work and dedication of all public school teachers, who always go above and beyond their call of duty . step",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 568.0666910807292,
+            "r": 524.3333333333334,
+            "b": 450.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            656
+          ]
+        }
+      ],
+      "orig": "2 Republic Act No(RA) 11997 titled, \"An Act Institutionalizing the Grant of a Teaching Allowance for Public School Teachers and Appropriating Funds Therefor; otherwise known as the \"Kabalikat sa Pagtuturo Act; \" grants public school teachers monetary allowance for the   purchase of teaching supplies and materials and payment of incidental expenses, including those related to the implementation or conduct of various   learning modalities Under RA 11997, the initial   teaching allowance for School Year (SY) 2024-2025 was set at Thousand Pesos (P5,000.00) per teacher and Ten Thousand Pesos (PlO,0OO.0O) per teacher for SY 2025-2026 and SYs thereafter .",
+      "text": "2 Republic Act No(RA) 11997 titled, \"An Act Institutionalizing the Grant of a Teaching Allowance for Public School Teachers and Appropriating Funds Therefor; otherwise known as the \"Kabalikat sa Pagtuturo Act; \" grants public school teachers monetary allowance for the   purchase of teaching supplies and materials and payment of incidental expenses, including those related to the implementation or conduct of various   learning modalities Under RA 11997, the initial   teaching allowance for School Year (SY) 2024-2025 was set at Thousand Pesos (P5,000.00) per teacher and Ten Thousand Pesos (PlO,0OO.0O) per teacher for SY 2025-2026 and SYs thereafter .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 436.7333577473958,
+            "r": 524.6666666666666,
+            "b": 385.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "3 The issuance of this Order is in accordance with Section 13 of the IRR of RA 11997 which allows DepEd to issue additional implementing details / policies and guidelines necessary for the effective implementation, monitoring, and evaluation of the said Act and its IRR.",
+      "text": "3 The issuance of this Order is in accordance with Section 13 of the IRR of RA 11997 which allows DepEd to issue additional implementing details / policies and guidelines necessary for the effective implementation, monitoring, and evaluation of the said Act and its IRR.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.66666666666667,
+            "t": 371.4000244140625,
+            "r": 146.33333333333334,
+            "b": 359.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "SCOPE",
+      "text": "SCOPE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 347.4000244140625,
+            "r": 524.3333333333334,
+            "b": 252.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            461
+          ]
+        }
+      ],
+      "orig": "1_ This Order shall apply to all qualified DepEd public school teachers, as defined in this IRR, shall be   granted a Teaching Allowance . This includes   guidance counselors, school librarians, industrial arts or vocational instructors, and all other persons performing supervisory and/or administrative functions in all   public District ALS Coordinators, in all public elementary, junior, and senior high schools, and community learning centers are included.",
+      "text": "1_ This Order shall apply to all qualified DepEd public school teachers, as defined in this IRR, shall be   granted a Teaching Allowance . This includes   guidance counselors, school librarians, industrial arts or vocational instructors, and all other persons performing supervisory and/or administrative functions in all   public District ALS Coordinators, in all public elementary, junior, and senior high schools, and community learning centers are included.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.0,
+            "t": 242.06669108072913,
+            "r": 238.66666666666666,
+            "b": 230.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "III. DEFINITON OF TERMS",
+      "text": "III. DEFINITON OF TERMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 218.06669108072913,
+            "r": 515.3333333333334,
+            "b": 200.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "For purposes of this Order, the following terms are defined /understood as follows:",
+      "text": "For purposes of this Order, the following terms are defined /understood as follows:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.66666666666667,
+            "t": 192.4000244140625,
+            "r": 524.0,
+            "b": 136.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "a. Teaching allowance refers to the cash grant to public school teachers for the purchase of tangible or intangible teaching supplies and materials, the payment of incidental expenses, and the implementation or conduct various learning delivery modalities; and given",
+      "text": "Teaching allowance refers to the cash grant to public school teachers for the purchase of tangible or intangible teaching supplies and materials, the payment of incidental expenses, and the implementation or conduct various learning delivery modalities; and given",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.33333333333333,
+            "t": 127.4000244140625,
+            "r": 524.0,
+            "b": 98.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "b. Teaching load refers to the actual classroom teaching hours or minutes rendered by a teacher;",
+      "text": "Teaching load refers to the actual classroom teaching hours or minutes rendered by a teacher;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.33333333333333,
+            "t": 86.4000244140625,
+            "r": 381.6666666666667,
+            "b": 71.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "C. Secretary refers to the Secretary of Education.",
+      "text": "Secretary refers to the Secretary of Education.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.333333333333336,
+            "t": 760.0666910807291,
+            "r": 226.33333333333334,
+            "b": 748.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "IV_ POLICY STATEMENT",
+      "text": "IV_ POLICY STATEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 736.4000244140625,
+            "r": 524.6666666666666,
+            "b": 654.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "1 The DepEd hereby establishes the policy outlined in this Order to institutionalize the grant of a teaching allowance for all public school teachers, as mandated by RA 11997, also known as the \"Kabalikat sa Pagtuturo Act. In the implementation of RA 11997 and its implementing rules and rugulations, the Department of Education aims to ensure that the allocation; distribution, and utilization of the teaching allowance are aligned with the following objectives:",
+      "text": "1 The DepEd hereby establishes the policy outlined in this Order to institutionalize the grant of a teaching allowance for all public school teachers, as mandated by RA 11997, also known as the \"Kabalikat sa Pagtuturo Act. In the implementation of RA 11997 and its implementing rules and rugulations, the Department of Education aims to ensure that the allocation; distribution, and utilization of the teaching allowance are aligned with the following objectives:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.33333333333333,
+            "t": 645.0666910807291,
+            "r": 521.6666666666666,
+            "b": 590.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "a. Support DepEds vision; mission, mandate, and core values providing public school teachers with financial assistance to procure essential teaching materials and cover incidental expenses necessary for effective teaching delivery; by",
+      "text": "Support DepEds vision; mission, mandate, and core values providing public school teachers with financial assistance to procure essential teaching materials and cover incidental expenses necessary for effective teaching delivery; by",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.33333333333333,
+            "t": 579.4000244140625,
+            "r": 521.6666666666666,
+            "b": 537.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "b Enhance the capacity of   teachers to create conducive and adaptive learning environments that meet diverse educational needs through accessible funding for both tangible and intangible resources;",
+      "text": "b Enhance the capacity of   teachers to create conducive and adaptive learning environments that meet diverse educational needs through accessible funding for both tangible and intangible resources;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.66666666666667,
+            "t": 527.7333577473958,
+            "r": 522.3333333333334,
+            "b": 477.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "C Ensure equitable, transparent, and accountable disbursement of funds, with regional and division offices adhering to standardized guidelines in the processing, distribution, and monitoring of the teaching allowance; and",
+      "text": "C Ensure equitable, transparent, and accountable disbursement of funds, with regional and division offices adhering to standardized guidelines in the processing, distribution, and monitoring of the teaching allowance; and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.66666666666667,
+            "t": 462.4000244140625,
+            "r": 521.3333333333334,
+            "b": 395.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "d. Promote a sustainable and proactive approach to teacher support, with an initial allowance of Php 5,000 per teacher for School Year 2024-2025, increasing to 10,000 in School Year 2025-2026 and succeeding years, thereby   fostering continuous professional development and quality education delivery. Php",
+      "text": "Promote a sustainable and proactive approach to teacher support, with an initial allowance of Php 5,000 per teacher for School Year 2024-2025, increasing to 10,000 in School Year 2025-2026 and succeeding years, thereby   fostering continuous professional development and quality education delivery. Php",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 385.7333577473958,
+            "r": 521.3333333333334,
+            "b": 342.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "2 This policy mandates that all offices involved shall strictly comply with the provisions herein, ensuring that mechanisms for the grant of the teaching allowance are executed and in line with existing DepEd regulations. fairly",
+      "text": "2 This policy mandates that all offices involved shall strictly comply with the provisions herein, ensuring that mechanisms for the grant of the teaching allowance are executed and in line with existing DepEd regulations. fairly",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 333.0666910807292,
+            "r": 520.6666666666666,
+            "b": 308.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "V. PROCEDURAL GUIDELINES ON THE PROCESSING OF TEACHING ALLOWANCE",
+      "text": "V. PROCEDURAL GUIDELINES ON THE PROCESSING OF TEACHING ALLOWANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 294.06669108072913,
+            "r": 253.0,
+            "b": 282.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "A. ALLOCATION AND GRANT",
+      "text": "A. ALLOCATION AND GRANT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 269.4000244140625,
+            "r": 520.6666666666666,
+            "b": 188.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "1 Qualified DepEd public school teachers assigned with teaching load regardless of the hours or minutes, within the current school year are entitled to receive the full amount of Teaching Allowance; which shall be given not earlier than the official start of every school year,1 as stipulated in the annual issuance of the official School Calendar, or as may be decided by the Secretary or his /her designated authority in cases of emergency .",
+      "text": "1 Qualified DepEd public school teachers assigned with teaching load regardless of the hours or minutes, within the current school year are entitled to receive the full amount of Teaching Allowance; which shall be given not earlier than the official start of every school year,1 as stipulated in the annual issuance of the official School Calendar, or as may be decided by the Secretary or his /her designated authority in cases of emergency .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 179.06669108072913,
+            "r": 520.3333333333334,
+            "b": 123.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "2 The payment of the pro-rated teaching allowance for teachers covered by Section 1O(a) in relation to Section 9, paragraphs (a) and (b) of the IRR of RA 11997, particularly, (1) those with no teaching load and performing non-teaching functions, duties, and responsibilities within the current school year? and (2) those who are on",
+      "text": "2 The payment of the pro-rated teaching allowance for teachers covered by Section 1O(a) in relation to Section 9, paragraphs (a) and (b) of the IRR of RA 11997, particularly, (1) those with no teaching load and performing non-teaching functions, duties, and responsibilities within the current school year? and (2) those who are on",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.0,
+            "t": 111.73335774739587,
+            "r": 519.3333333333334,
+            "b": 80.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "Sections 3(f) and 7 of the IRR of RA No. 7797 as amended by RA No 11480, provides: \"School Year refers to the period of the year during which learners attend an educational institution. The School Year shall start on the first Monday of June or on a later date not beyond August 31 of the same school year",
+      "text": "Sections 3(f) and 7 of the IRR of RA No. 7797 as amended by RA No 11480, provides: \"School Year refers to the period of the year during which learners attend an educational institution. The School Year shall start on the first Monday of June or on a later date not beyond August 31 of the same school year"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.0,
+            "t": 83.06669108072913,
+            "r": 238.0,
+            "b": 72.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Section 9, paragraph (a), IRR of RA 11997.",
+      "text": "Section 9, paragraph (a), IRR of RA 11997."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 773.0666910807291,
+            "r": 523.3333333333334,
+            "b": 693.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "absence without leave (AWOL), indefinite sick leave, study leave or scholarship within the current school year who resume duty within the current school year,3 and Section 10 (c), those school heads or head teachers initially assigned with no teaching load but who are required to render actual teaching hours or minutes due to the absence or unavailability of a teacher4 , shall be computed based on the following formula:",
+      "text": "absence without leave (AWOL), indefinite sick leave, study leave or scholarship within the current school year who resume duty within the current school year,3 and Section 10 (c), those school heads or head teachers initially assigned with no teaching load but who are required to render actual teaching hours or minutes due to the absence or unavailability of a teacher4 , shall be computed based on the following formula:"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.0,
+            "t": 682.0666910807291,
+            "r": 110.33333333333333,
+            "b": 670.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Table 1",
+      "text": "Table 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 553.4000244140625,
+            "r": 519.6666666666666,
+            "b": 530.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Note: The computation of pro-rated teaching allowance is based on Section 3.5 of DBM-DepEd Joint Circular No. 02, s. 2021",
+      "text": "Note: The computation of pro-rated teaching allowance is based on Section 3.5 of DBM-DepEd Joint Circular No. 02, s. 2021"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 519.0666910807292,
+            "r": 520.0,
+            "b": 463.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "3 For school heads or head teachers initially assigned with no teaching load but who are required to render actual teaching hours or minutes, are required to submit the accomplished electronic School Form 7 (eSF7) as proof of actual teaching hours or minutes rendered to qualify for a pro-rated teaching allowance. they",
+      "text": "3 For school heads or head teachers initially assigned with no teaching load but who are required to render actual teaching hours or minutes, are required to submit the accomplished electronic School Form 7 (eSF7) as proof of actual teaching hours or minutes rendered to qualify for a pro-rated teaching allowance. they",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.0,
+            "t": 454.4000244140625,
+            "r": 522.0,
+            "b": 399.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "4 The payment of the pro-rated teaching allowance for teachers covered by Section 10, paragraph (b) of the IRR of RA 11997, particularly those teachers who are expected to retire within the current school years , shall be computed based on the following formula:",
+      "text": "4 The payment of the pro-rated teaching allowance for teachers covered by Section 10, paragraph (b) of the IRR of RA 11997, particularly those teachers who are expected to retire within the current school years , shall be computed based on the following formula:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 388.7333577473958,
+            "r": 111.0,
+            "b": 376.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Table 2",
+      "text": "Table 2",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 199.73335774739587,
+            "r": 518.6666666666666,
+            "b": 157.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "Schools Division Offices (SDOs) shall submit the lists of eligible personnel to Personnel Unit of the respective Regional Offices (ROs) to facilitate the processing and payment of the Teaching Allowance.",
+      "text": "Schools Division Offices (SDOs) shall submit the lists of eligible personnel to Personnel Unit of the respective Regional Offices (ROs) to facilitate the processing and payment of the Teaching Allowance.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 146.4000244140625,
+            "r": 518.6666666666666,
+            "b": 117.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "6 In cases wherein there will be a deficit in the allocated funds per SDO, the Schools Division Superintendent (SDS), through the RO, shall submit the request",
+      "text": "6 In cases wherein there will be a deficit in the allocated funds per SDO, the Schools Division Superintendent (SDS), through the RO, shall submit the request",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 105.4000244140625,
+            "r": 151.66666666666666,
+            "b": 93.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Ibid , paragraph (b).",
+      "text": "Ibid , paragraph (b)."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 83.06669108072913,
+            "r": 150.0,
+            "b": 71.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Ibid. paragraph (b)",
+      "text": "Ibid. paragraph (b)"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 94.06669108072913,
+            "r": 242.33333333333334,
+            "b": 81.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Section 10, paragraph (c), IRR of Ra 11997",
+      "text": "Section 10, paragraph (c), IRR of Ra 11997"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 513.0,
+            "t": 54.73335774739587,
+            "r": 519.6666666666666,
+            "b": 46.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 772.7333577473959,
+            "r": 521.0,
+            "b": 732.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "for additional funds to the DepEd Central Officer (CO) through the Office of the Execom-in-Charge of Finance and Execom-in-Charge of Human Resource and Organizational Development.",
+      "text": "for additional funds to the DepEd Central Officer (CO) through the Office of the Execom-in-Charge of Finance and Execom-in-Charge of Human Resource and Organizational Development."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.0,
+            "t": 721.4000244140625,
+            "r": 521.0,
+            "b": 667.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "7 . ROs shall submit the Reports on Payment of the Teaching Allowance (RPTA) (Annex A) to the Bureau of Human Resource and Organizational  Development Employee Welfare Division (BHROD-EWD), within thirty (30) calendar after the third, sixth, and tenth month of the SY. days",
+      "text": "7 . ROs shall submit the Reports on Payment of the Teaching Allowance (RPTA) (Annex A) to the Bureau of Human Resource and Organizational  Development Employee Welfare Division (BHROD-EWD), within thirty (30) calendar after the third, sixth, and tenth month of the SY. days",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.0,
+            "t": 654.0666910807291,
+            "r": 521.0,
+            "b": 626.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "8 BHROD-EWD shall consolidate the RPTA and furnish the Finance Service (FS)-Budget Division for monitoring purposes.",
+      "text": "8 BHROD-EWD shall consolidate the RPTA and furnish the Finance Service (FS)-Budget Division for monitoring purposes.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.0,
+            "t": 615.4000244140625,
+            "r": 153.0,
+            "b": 603.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "B. FUNDING",
+      "text": "B. FUNDING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 590.0666910807291,
+            "r": 524.0,
+            "b": 547.1029494611487,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "The funds for the implementation of this policy shall be charged against the annual appropriations under [Teaching] Allowance, Hardship and Reclassification of Positions. Pay ,",
+      "text": "The funds for the implementation of this policy shall be charged against the annual appropriations under [Teaching] Allowance, Hardship and Reclassification of Positions. Pay ,"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 61.0,
+            "t": 538.0666910807292,
+            "r": 293.3333333333333,
+            "b": 525.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "VI. MONITORING AND EVALUATION",
+      "text": "VI. MONITORING AND EVALUATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 514.0666910807292,
+            "r": 524.3333333333334,
+            "b": 468.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "1_ All DepEd offices, including Central, and SDOs along with accountable officials and personnel, shall adhere to existing budgeting, accounting and auditing rules, and regulations regarding the appropriate use of funds for this purpose. Ros, laws,",
+      "text": "1_ All DepEd offices, including Central, and SDOs along with accountable officials and personnel, shall adhere to existing budgeting, accounting and auditing rules, and regulations regarding the appropriate use of funds for this purpose. Ros, laws,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 460.69157623545453,
+            "r": 523.3333333333334,
+            "b": 433.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "2 concerns or clarifications in relation to the implementation of the objectives of this Order shall be directed as follows: Any",
+      "text": "2 concerns or clarifications in relation to the implementation of the objectives of this Order shall be directed as follows: Any",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.0,
+            "t": 423.0666910807292,
+            "r": 524.3333333333334,
+            "b": 396.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "a. Concerns: Addressed to BHROD-EWD and FS-Budget and Accounting Divisions",
+      "text": "Concerns: Addressed to BHROD-EWD and FS-Budget and Accounting Divisions",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.0,
+            "t": 382.0666910807292,
+            "r": 515.0,
+            "b": 367.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "b RO Concerns: Referred to the Regional Administrative and Finance Division",
+      "text": "b RO Concerns: Referred to the Regional Administrative and Finance Division",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.0,
+            "t": 355.4000244140625,
+            "r": 516.6666666666666,
+            "b": 338.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "C. SDO Concerns: Coordinated with the Finance Unit of their respective SDOs.",
+      "text": "SDO Concerns: Coordinated with the Finance Unit of their respective SDOs.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 67.0,
+            "t": 330.7333577473958,
+            "r": 523.3333333333334,
+            "b": 276.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "3 The BHROD-EWD and FS-Budget and Accounting Divisions at CO, Regional Administrative and Finance Divisions, and Finance Units of SDOs shall collaboratively monitor compliance and evaluate the implementation of this Order across all governance levels.",
+      "text": "3 The BHROD-EWD and FS-Budget and Accounting Divisions at CO, Regional Administrative and Finance Divisions, and Finance Units of SDOs shall collaboratively monitor compliance and evaluate the implementation of this Order across all governance levels.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.666666666666664,
+            "t": 251.06669108072913,
+            "r": 180.0,
+            "b": 240.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "VII. REFERENCE",
+      "text": "VII. REFERENCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.0,
+            "t": 227.4000244140625,
+            "r": 522.6666666666666,
+            "b": 198.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "The government issuances related to the grant of Teaching Allowance are the following:",
+      "text": "The government issuances related to the grant of Teaching Allowance are the following:"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.33333333333333,
+            "t": 188.4000244140625,
+            "r": 525.6666666666666,
+            "b": 134.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "a. Republic Act No 11997 Act   Institutionalizing the Grant a for Public School Teachers and Appropriating Funds Therefor' otherwise known as the \"Kabalikat sa Pagtuturo Act\" and its Implementing Rules and Regulations;",
+      "text": "Republic Act No 11997 Act   Institutionalizing the Grant a for Public School Teachers and Appropriating Funds Therefor' otherwise known as the \"Kabalikat sa Pagtuturo Act\" and its Implementing Rules and Regulations;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.0,
+            "t": 123.06669108072913,
+            "r": 524.3333333333334,
+            "b": 96.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "b Department of Education. (2020). DepEd Order No. 10, s. 2020: Guidelines on the Grant of Cash Allowance to Teachers; and",
+      "text": "b Department of Education. (2020). DepEd Order No. 10, s. 2020: Guidelines on the Grant of Cash Allowance to Teachers; and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 512.6666666666666,
+            "t": 56.4000244140625,
+            "r": 523.3333333333334,
+            "b": 45.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 86.0,
+            "t": 771.4000244140625,
+            "r": 525.6666666666666,
+            "b": 731.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "c DBM-DepEd Joint Circular No. 02, 2021 titled, \"Guidelines to Implement DepEd-Office of the Secretary (OSec) Special Provision No. General Appropriations Act (GAA) on Cash Allowance.",
+      "text": "c DBM-DepEd Joint Circular No. 02, 2021 titled, \"Guidelines to Implement DepEd-Office of the Secretary (OSec) Special Provision No. General Appropriations Act (GAA) on Cash Allowance.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 51.333333333333336,
+            "t": 719.7333577473959,
+            "r": 338.3333333333333,
+            "b": 707.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "VIII. EFFECTIVITY / TRANSITORY PROVISION",
+      "text": "VIII. EFFECTIVITY / TRANSITORY PROVISION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 693.7333577473959,
+            "r": 524.6666666666666,
+            "b": 638.7665139396739,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "1 This Order shall take effect immediately upon its approval, issuance, and publications on the DepEd website. Certified of this Order shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP UP Diliman, Quezon copies LC) , City .",
+      "text": "1 This Order shall take effect immediately upon its approval, issuance, and publications on the DepEd website. Certified of this Order shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP UP Diliman, Quezon copies LC) , City .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 630.7333577473959,
+            "r": 523.0,
+            "b": 575.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "2 In light of the release of the Php 5,000 teaching allowance per teacher for SY 2024-2025, this school year shall be considered a transition period. Strict implementation of this Order shall commence in SY 2025-2026 and continue in subsequent school years.",
+      "text": "2 In light of the release of the Php 5,000 teaching allowance per teacher for SY 2024-2025, this school year shall be considered a transition period. Strict implementation of this Order shall commence in SY 2025-2026 and continue in subsequent school years.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 565.7333577473958,
+            "r": 523.3333333333334,
+            "b": 525.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "All provisions of DO No. 10, s. 2020, and other related issuances and rules that are inconsistent with this Order and its provisions are hereby   repealed, rescinded, or amended",
+      "text": "All provisions of DO No. 10, s. 2020, and other related issuances and rules that are inconsistent with this Order and its provisions are hereby   repealed, rescinded, or amended",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 513.3333333333334,
+            "t": 55.06669108072913,
+            "r": 521.3333333333334,
+            "b": 45.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 227.87461853027344,
+            "t": 61.01446533203125,
+            "r": 383.3089599609375,
+            "b": 41.10272216796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 494.8720703125,
+            "t": 94.84576416015625,
+            "r": 585.3663940429688,
+            "b": 43.8538818359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 386.2619934082031,
+            "t": 63.8524169921875,
+            "r": 495.7365417480469,
+            "b": 42.786376953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.4781799316406,
+            "t": 805.9833183288574,
+            "r": 327.5622253417969,
+            "b": 750.4202880859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 331.7950744628906,
+            "t": 738.4882888793945,
+            "r": 517.592529296875,
+            "b": 648.4380798339844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.1699523925781,
+            "t": 614.3578491210938,
+            "r": 417.10601806640625,
+            "b": 547.2665100097656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 420.7845153808594,
+            "t": 609.4913482666016,
+            "r": 480.3219909667969,
+            "b": 549.7389221191406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 496.1515197753906,
+            "t": 76.84521484375,
+            "r": 514.6527099609375,
+            "b": 49.85272216796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 538.091552734375,
+            "t": 70.89886474609375,
+            "r": 552.24267578125,
+            "b": 40.49468994140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 447.1226501464844,
+            "t": 830.3323516845703,
+            "r": 578.8187255859375,
+            "b": 761.5425567626953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 478.71673583984375,
+            "t": 67.61334228515625,
+            "r": 501.9754638671875,
+            "b": 39.49554443359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 471.5018615722656,
+            "t": 63.673095703125,
+            "r": 493.275390625,
+            "b": 44.5025634765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 537.6679077148438,
+            "t": 77.22412109375,
+            "r": 549.0632934570312,
+            "b": 52.0047607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 477.49932861328125,
+            "t": 85.448974609375,
+            "r": 494.9184875488281,
+            "b": 63.54437255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 529.6709594726562,
+            "t": 88.4547119140625,
+            "r": 541.1118774414062,
+            "b": 59.1761474609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 488.1865234375,
+            "t": 80.5125732421875,
+            "r": 543.56005859375,
+            "b": 25.78118896484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 476.2824401855469,
+            "t": 58.24932861328125,
+            "r": 520.1707763671875,
+            "b": 33.6756591796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 398.97344970703125,
+            "t": 529.8315200805664,
+            "r": 444.10595703125,
+            "b": 485.47029876708984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 93.51675415039062,
+            "t": 663.3547821044922,
+            "r": 494.9644775390625,
+            "b": 551.75537109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 102.0,
+              "t": 180.0,
+              "r": 350.3333333333333,
+              "b": 207.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Date of Assumption of Duty from the Date of Opening_of Classes [Class_Days)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 364.6666666666667,
+              "t": 180.33333333333334,
+              "r": 486.0,
+              "b": 208.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Percentage of Teaching_Allowance",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.0,
+              "t": 209.33333333333334,
+              "r": 128.66666666666666,
+              "b": 217.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "a.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 137.0,
+              "t": 206.3713062149558,
+              "r": 262.9826082402547,
+              "b": 222.6286937850442,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Within the first 30 days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.3333333333333,
+              "t": 208.66666666666666,
+              "r": 441.3333333333333,
+              "b": 220.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1009",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.0,
+              "t": 223.33333333333334,
+              "r": 127.33333333333333,
+              "b": 233.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "b",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.66666666666666,
+              "t": 221.70463954828915,
+              "r": 325.0,
+              "b": 250.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "After the first 30 but not more than 90 days days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 412.6666666666667,
+              "t": 230.66666666666666,
+              "r": 438.0,
+              "b": 241.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "809",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.0,
+              "t": 251.33333333333334,
+              "r": 126.66666666666667,
+              "b": 259.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.66666666666666,
+              "t": 247.70292504708618,
+              "r": 332.6666666666667,
+              "b": 276.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "After 90 but not more than 150 days days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 413.3333333333333,
+              "t": 257.3333333333333,
+              "r": 438.0,
+              "b": 268.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "50%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.0,
+              "t": 276.0,
+              "r": 130.0,
+              "b": 286.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "d.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.33333333333334,
+              "t": 274.37130621495584,
+              "r": 339.6666666666667,
+              "b": 290.62869378504416,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "After 150 until the end of the SY days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 411.0,
+              "t": 276.3333333333333,
+              "r": 437.0,
+              "b": 288.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 102.0,
+                "t": 180.0,
+                "r": 350.3333333333333,
+                "b": 207.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Date of Assumption of Duty from the Date of Opening_of Classes [Class_Days)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 102.0,
+                "t": 180.0,
+                "r": 350.3333333333333,
+                "b": 207.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Date of Assumption of Duty from the Date of Opening_of Classes [Class_Days)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 364.6666666666667,
+                "t": 180.33333333333334,
+                "r": 486.0,
+                "b": 208.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Percentage of Teaching_Allowance",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 118.0,
+                "t": 209.33333333333334,
+                "r": 128.66666666666666,
+                "b": 217.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "a.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 137.0,
+                "t": 206.3713062149558,
+                "r": 262.9826082402547,
+                "b": 222.6286937850442,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Within the first 30 days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.3333333333333,
+                "t": 208.66666666666666,
+                "r": 441.3333333333333,
+                "b": 220.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1009",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 118.0,
+                "t": 223.33333333333334,
+                "r": 127.33333333333333,
+                "b": 233.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "b",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.66666666666666,
+                "t": 221.70463954828915,
+                "r": 325.0,
+                "b": 250.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "After the first 30 but not more than 90 days days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 412.6666666666667,
+                "t": 230.66666666666666,
+                "r": 438.0,
+                "b": 241.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "809",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 118.0,
+                "t": 251.33333333333334,
+                "r": 126.66666666666667,
+                "b": 259.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.66666666666666,
+                "t": 247.70292504708618,
+                "r": 332.6666666666667,
+                "b": 276.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "After 90 but not more than 150 days days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 413.3333333333333,
+                "t": 257.3333333333333,
+                "r": 438.0,
+                "b": 268.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "50%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 118.0,
+                "t": 276.0,
+                "r": 130.0,
+                "b": 286.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "d.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 136.33333333333334,
+                "t": 274.37130621495584,
+                "r": 339.6666666666667,
+                "b": 290.62869378504416,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "After 150 until the end of the SY days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 411.0,
+                "t": 276.3333333333333,
+                "r": 437.0,
+                "b": 288.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.80875396728516,
+            "t": 370.9441223144531,
+            "r": 493.637939453125,
+            "b": 221.89019775390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 98.66666666666667,
+              "t": 471.0,
+              "r": 351.3333333333333,
+              "b": 514.6286937850442,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Number of Actuai Teaching Days Served (From the Date of Opening of Classes until the Last of Teaching) Day",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 363.3333333333333,
+              "t": 472.6666666666667,
+              "r": 485.3333333333333,
+              "b": 502.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Percentage of Teaching Allowance",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 134.0,
+              "t": 512.3333333333334,
+              "r": 333.0,
+              "b": 553.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Served more than 150 from the start of classes until the last of teaching days day",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.3333333333333,
+              "t": 514.6666666666666,
+              "r": 440.6666666666667,
+              "b": 525.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1009",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.0,
+              "t": 552.6666666666666,
+              "r": 126.0,
+              "b": 562.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "b",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.0,
+              "t": 551.0379728816225,
+              "r": 336.3333333333333,
+              "b": 579.6268566668605,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Served 150 but not less than 91 days days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 117.33333333333333,
+              "t": 581.3333333333334,
+              "r": 125.33333333333333,
+              "b": 589.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.66666666666666,
+              "t": 578.3333333333334,
+              "r": 329.6666666666667,
+              "b": 606.2935233335271,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Served 90 days but not less than 31 days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 411.6666666666667,
+              "t": 579.6666666666666,
+              "r": 437.0,
+              "b": 591.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "50%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.66666666666666,
+              "t": 605.0,
+              "r": 259.6666666666667,
+              "b": 619.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Served 30 days or less",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 411.0,
+              "t": 606.3333333333334,
+              "r": 437.0,
+              "b": 618.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 98.66666666666667,
+                "t": 471.0,
+                "r": 351.3333333333333,
+                "b": 514.6286937850442,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Number of Actuai Teaching Days Served (From the Date of Opening of Classes until the Last of Teaching) Day",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 98.66666666666667,
+                "t": 471.0,
+                "r": 351.3333333333333,
+                "b": 514.6286937850442,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Number of Actuai Teaching Days Served (From the Date of Opening of Classes until the Last of Teaching) Day",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 363.3333333333333,
+                "t": 472.6666666666667,
+                "r": 485.3333333333333,
+                "b": 502.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Percentage of Teaching Allowance",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 134.0,
+                "t": 512.3333333333334,
+                "r": 333.0,
+                "b": 553.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Served more than 150 from the start of classes until the last of teaching days day",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.3333333333333,
+                "t": 514.6666666666666,
+                "r": 440.6666666666667,
+                "b": 525.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1009",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 118.0,
+                "t": 552.6666666666666,
+                "r": 126.0,
+                "b": 562.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "b",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 136.0,
+                "t": 551.0379728816225,
+                "r": 336.3333333333333,
+                "b": 579.6268566668605,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Served 150 but not less than 91 days days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 117.33333333333333,
+                "t": 581.3333333333334,
+                "r": 125.33333333333333,
+                "b": 589.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.66666666666666,
+                "t": 578.3333333333334,
+                "r": 329.6666666666667,
+                "b": 606.2935233335271,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Served 90 days but not less than 31 days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 411.6666666666667,
+                "t": 579.6666666666666,
+                "r": 437.0,
+                "b": 591.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "50%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.66666666666666,
+                "t": 605.0,
+                "r": 259.6666666666667,
+                "b": 619.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Served 30 days or less",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 411.0,
+                "t": 606.3333333333334,
+                "r": 437.0,
+                "b": 618.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 62.75960922241211,
+            "t": 405.5519714355469,
+            "r": 807.0677490234375,
+            "b": 148.1492919921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.4400024414062
+      },
+      "page_no": 8
+    }
+  }
+}

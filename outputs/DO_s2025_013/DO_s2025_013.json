@@ -1,0 +1,1536 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2025_013",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16298842527198266618,
+    "filename": "DO_s2025_013.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 676.7333577473959,
+            "r": 184.33333333333334,
+            "b": 650.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "DepEd 0 RDER No. 013 s. 2025",
+      "text": "DepEd 0 RDER No. 013 s. 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 454.6666666666667,
+            "t": 685.0666910807291,
+            "r": 518.0,
+            "b": 669.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "APR 2 9 2025",
+      "text": "APR 2 9 2025"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.33333333333333,
+            "t": 639.0666910807291,
+            "r": 531.0,
+            "b": 612.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "ESTABLISHMENT OF THE CENTER FOR ARTIFICIAL INTELLIGENCE RESEARCH FOR THE DEPARTMENT OF EDUCATION",
+      "text": "ESTABLISHMENT OF THE CENTER FOR ARTIFICIAL INTELLIGENCE RESEARCH FOR THE DEPARTMENT OF EDUCATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 601.0666910807291,
+            "r": 99.0,
+            "b": 590.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "To:",
+      "text": "To:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.33333333333333,
+            "t": 600.4000244140625,
+            "r": 294.3333333333333,
+            "b": 527.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents All Others Concerned",
+      "text": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.66666666666667,
+            "t": 515.4000244140625,
+            "r": 534.3333333333334,
+            "b": 463.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "1 The Department of Education (DepEd) recognizes the importance of artificial intelligence (AI) in revolutionizing education; evidence-based research, and industry development to ensure that learners and educators are equipped with the tools, skills, and knowledge needed to thrive in the future of work.",
+      "text": "1 The Department of Education (DepEd) recognizes the importance of artificial intelligence (AI) in revolutionizing education; evidence-based research, and industry development to ensure that learners and educators are equipped with the tools, skills, and knowledge needed to thrive in the future of work.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.33333333333333,
+            "t": 455.0666910807292,
+            "r": 533.3333333333334,
+            "b": 404.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "Aligned with the direction of harnessing AI for the development of the education system, DepEd has   partnered with the Southeast Asian Ministers of Education Organization (SEAMEO) for the establishment of the Education Center for AI Research (ECAIR)",
+      "text": "Aligned with the direction of harnessing AI for the development of the education system, DepEd has   partnered with the Southeast Asian Ministers of Education Organization (SEAMEO) for the establishment of the Education Center for AI Research (ECAIR)",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.66666666666667,
+            "t": 392.0666910807292,
+            "r": 533.6666666666666,
+            "b": 328.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "3 The ECAIR is formed to be a center composed of a specialized pool of highly technical  experts in the fields of data science, artificial intelligence, and emerging technologies: The ECAIR will formulate and develop research, innovation; development, and capacity-building initiatives aimed at advancing AI-driven solutions and applications to support education systems.",
+      "text": "3 The ECAIR is formed to be a center composed of a specialized pool of highly technical  experts in the fields of data science, artificial intelligence, and emerging technologies: The ECAIR will formulate and develop research, innovation; development, and capacity-building initiatives aimed at advancing AI-driven solutions and applications to support education systems.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.66666666666667,
+            "t": 318.06669108072913,
+            "r": 533.3333333333334,
+            "b": 266.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "4 The ECAIR will operate primarily for DepEd, which shall continue to attune its activities towards collaborative efforts with other national and local government agencies including industry partners with the primary objective of capacitating the educational institutions towards innovations through the use of AI tools.",
+      "text": "4 The ECAIR will operate primarily for DepEd, which shall continue to attune its activities towards collaborative efforts with other national and local government agencies including industry partners with the primary objective of capacitating the educational institutions towards innovations through the use of AI tools.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.0,
+            "t": 258.4000244140625,
+            "r": 313.3333333333333,
+            "b": 241.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "5. The responsibilities of ECAIR include:",
+      "text": "The responsibilities of ECAIR include:",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.0,
+            "t": 232.4000244140625,
+            "r": 497.3333333333333,
+            "b": 204.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Integrate AI research and development into educational technologies to improve learning outcomes;",
+      "text": "Integrate AI research and development into educational technologies to improve learning outcomes;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.33333333333333,
+            "t": 197.06669108072913,
+            "r": 497.0,
+            "b": 168.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "b Develop policies and initiatives aimed at fostering the use of AI in schools and other educational institutions;",
+      "text": "b Develop policies and initiatives aimed at fostering the use of AI in schools and other educational institutions;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.0,
+            "t": 157.4000244140625,
+            "r": 497.3333333333333,
+            "b": 119.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Promote research collaborations between educational institutions, tech companies, and AI   experts to advance the country's capacity for educational innovation;",
+      "text": "Promote research collaborations between educational institutions, tech companies, and AI   experts to advance the country's capacity for educational innovation;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.66666666666667,
+            "t": 109.4000244140625,
+            "r": 496.6666666666667,
+            "b": 79.10847259267041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "d Support the responsible, inclusive, and strategic integration of AI into the basic and secondary education system covering areas such as key",
+      "text": "d Support the responsible, inclusive, and strategic integration of AI into the basic and secondary education system covering areas such as key",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 402.3333333333333,
+            "t": 55.4000244140625,
+            "r": 496.3333333333333,
+            "b": 44.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.0,
+            "t": 805.4000244140625,
+            "r": 314.3333333333333,
+            "b": 798.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.0,
+            "t": 756.0666910807291,
+            "r": 314.3333333333333,
+            "b": 751.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 281.2528637223655,
+            "t": 799.8229912699333,
+            "r": 306.08046961096784,
+            "b": 794.3103908915251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.14608746037135,
+            "t": 757.6502277156928,
+            "r": 328.187245872962,
+            "b": 755.8164877790988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "PILIPIN",
+      "text": "PILIPIN"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 240.33333333333334,
+            "t": 746.0666910807291,
+            "r": 376.6666666666667,
+            "b": 729.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Republíc of the 2hílíppíneg",
+      "text": "Republíc of the 2hílíppíneg",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 509.6666666666667,
+            "t": 54.06669108072913,
+            "r": 584.6666666666666,
+            "b": 44.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "WWW. deped gov.ph",
+      "text": "WWW. deped gov.ph"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 58.4000244140625,
+            "r": 224.33333333333334,
+            "b": 45.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig City 1600",
+      "text": "DepEd Complex, Meralco Avenue, Pasig City 1600"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 135.33333333333334,
+            "t": 774.0666910807291,
+            "r": 501.3333333333333,
+            "b": 746.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "policy development; curriculum enhancement; research, and capacity building; and",
+      "text": "policy development; curriculum enhancement; research, and capacity building; and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 119.0,
+            "t": 735.7333577473959,
+            "r": 500.0,
+            "b": 686.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "e Contribute to the alignment of AI curriculum integration and other related AI initiatives with the Philippine Qualifications Framework, to strengthen the coherence of AI learning outcomes with national qualifications and labor market needs.",
+      "text": "e Contribute to the alignment of AI curriculum integration and other related AI initiatives with the Philippine Qualifications Framework, to strengthen the coherence of AI learning outcomes with national qualifications and labor market needs.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 675.0666910807291,
+            "r": 535.3333333333334,
+            "b": 622.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "6 The ECAIR shall be in direct coordination with the Office of the Secretary (OSEC). The Undersecretary and Chief of Staff is designated as the oversight head of the Center and shall monitor its operations, provide strategic alignment, and ensure the effective execution of its tasks consistent with the Departments priorities.",
+      "text": "6 The ECAIR shall be in direct coordination with the Office of the Secretary (OSEC). The Undersecretary and Chief of Staff is designated as the oversight head of the Center and shall monitor its operations, provide strategic alignment, and ensure the effective execution of its tasks consistent with the Departments priorities.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 613.0666910807291,
+            "r": 536.0,
+            "b": 572.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "7 All expenses relative to the implementation of research programs and projects of ECAIR in relation to DepEd programs shall be charged against OSEC funds, subject to the usual accounting and auditing rules and regulations.",
+      "text": "7 All expenses relative to the implementation of research programs and projects of ECAIR in relation to DepEd programs shall be charged against OSEC funds, subject to the usual accounting and auditing rules and regulations.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 563.4000244140625,
+            "r": 534.6666666666666,
+            "b": 510.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "8 This Order does not make ECAIR a governmental office and its employees and officers are not deemed employees of the government or public officers. This Order is issued for proper alignment of initiatives among the strands in the Department vis-a-vis ECAIR, and to provide clarity on ECAIRs relationship with and roles in the Department.",
+      "text": "8 This Order does not make ECAIR a governmental office and its employees and officers are not deemed employees of the government or public officers. This Order is issued for proper alignment of initiatives among the strands in the Department vis-a-vis ECAIR, and to provide clarity on ECAIRs relationship with and roles in the Department.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.33333333333333,
+            "t": 501.4000244140625,
+            "r": 534.0,
+            "b": 449.43799729568497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "9 This Order shall take effect immediately from its approval, issuance, and publication on the DepEd website: Certified copies of this Order shall be registered with the Office of the National Administrative   Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City .",
+      "text": "9 This Order shall take effect immediately from its approval, issuance, and publication on the DepEd website: Certified copies of this Order shall be registered with the Office of the National Administrative   Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 442.0666910807292,
+            "r": 534.6666666666666,
+            "b": 400.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "10 For more information; please contact the Office of the Secretary , 2nd Floor Rizal Building, Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email at osec@deped-gov.ph or telephone number (02) 8687-2922. City",
+      "text": "10 For more information; please contact the Office of the Secretary , 2nd Floor Rizal Building, Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email at osec@deped-gov.ph or telephone number (02) 8687-2922. City",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 82.0,
+            "t": 391.7333577473958,
+            "r": 516.6666666666666,
+            "b": 375.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "1l. Immediate dissemination of and strict compliance with this Order is directed.",
+      "text": "1l. Immediate dissemination of and strict compliance with this Order is directed.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 362.3333333333333,
+            "t": 303.06669108072913,
+            "r": 453.3333333333333,
+            "b": 278.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "SONNY ANGARA Secretary",
+      "text": "SONNY ANGARA Secretary"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 436.3333333333333,
+            "t": 260.73335774739587,
+            "r": 446.3333333333333,
+            "b": 254.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 411.36839167353077,
+            "t": 255.77887776936075,
+            "r": 436.63160832646923,
+            "b": 247.02117105876425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 460.83289176989246,
+            "t": 246.38596297169693,
+            "r": 471.83377489677423,
+            "b": 224.74741918976144,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 255.73335774739587,
+            "r": 137.0,
+            "b": 243.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.33333333333333,
+            "t": 242.4000244140625,
+            "r": 146.0,
+            "b": 231.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "None",
+      "text": "None"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.0,
+            "t": 218.06669108072913,
+            "r": 280.6666666666667,
+            "b": 191.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual Index under the following subjects:",
+      "text": "To be indicated in the Perpetual Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 116.33333333333333,
+            "t": 181.4000244140625,
+            "r": 251.0,
+            "b": 120.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "BUREAUS AND OFFICES EMPLOYEES FUNDS OFFICIALS POLICY",
+      "text": "BUREAUS AND OFFICES EMPLOYEES FUNDS OFFICIALS POLICY"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.0,
+            "t": 94.4000244140625,
+            "r": 183.33333333333334,
+            "b": 78.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "JDMC MPC, DO ECAIR for DcpEd 0113 ~April 14, 2025",
+      "text": "JDMC MPC, DO ECAIR for DcpEd 0113 ~April 14, 2025"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 227.5452423095703,
+            "t": 67.05078125,
+            "r": 243.2659912109375,
+            "b": 49.3741455078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 385.6405029296875,
+            "t": 66.6898193359375,
+            "r": 496.5146484375,
+            "b": 45.44610595703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 279.5393981933594,
+            "t": 807.0033798217773,
+            "r": 337.3691101074219,
+            "b": 750.0433349609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 498.321044921875,
+            "t": 64.21783447265625,
+            "r": 584.8593139648438,
+            "b": 44.32763671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 340.830322265625,
+            "t": 358.37103271484375,
+            "r": 484.279541015625,
+            "b": 310.1644287109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 339.6117248535156,
+            "t": 263.5435791015625,
+            "r": 472.26092529296875,
+            "b": 196.85125732421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    }
+  }
+}

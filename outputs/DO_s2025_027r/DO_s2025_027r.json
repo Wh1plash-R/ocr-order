@@ -1,0 +1,5142 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2025_027r",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16922750831050974873,
+    "filename": "DO_s2025_027r.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/tables/4"
+      },
+      {
+        "$ref": "#/tables/5"
+      },
+      {
+        "$ref": "#/tables/6"
+      },
+      {
+        "$ref": "#/tables/7"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 696.9166666666666,
+            "r": 169.66666666666666,
+            "b": 665.5833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "DepEd 0 RDER No. 027, 2025",
+      "text": "DepEd 0 RDER No. 027, 2025"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.66666666666667,
+            "t": 658.5833333333334,
+            "r": 485.0,
+            "b": 622.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "GUIDELINES ON THE USE OF BALANCES FROM FISCAL YEAR 2025 (REPUBLIC ACT NO. 12116) FUNDS UNDER THE LEARNING SYSTEMS STRAND",
+      "text": "GUIDELINES ON THE USE OF BALANCES FROM FISCAL YEAR 2025 (REPUBLIC ACT NO. 12116) FUNDS UNDER THE LEARNING SYSTEMS STRAND",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.0,
+            "t": 609.5833333333334,
+            "r": 88.0,
+            "b": 598.9166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "To:",
+      "text": "To:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.66666666666667,
+            "t": 609.9166666666666,
+            "r": 355.0,
+            "b": 524.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned",
+      "text": "Undersecretaries Assistant Secretaries Bureau and Service Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 512.25,
+            "r": 521.6666666666666,
+            "b": 473.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "1 The Department of Education (DepEd) issues the enclosed Guidelines on Use of Balances from Fiscal Year 2025 (Republic Act No. 12116) Funds Under the Learning Systems (LS) Strand.",
+      "text": "1 The Department of Education (DepEd) issues the enclosed Guidelines on Use of Balances from Fiscal Year 2025 (Republic Act No. 12116) Funds Under the Learning Systems (LS) Strand.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 464.5833333333333,
+            "r": 521.0,
+            "b": 384.9166666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            490
+          ]
+        }
+      ],
+      "orig": "This Order provides guidelines on the use of balances of unobligated Programs Support Funds (PSFs) downloaded directly released funds to regional offices for the implementation of programs, activities, and projects (PAPs) which shall be discontinued as the PSFs remain unobligated, and the PAPs are no longer deemed aligned with the current priorities of the LS Strand. The unobligated PSFs shall be used for PAPs within the same line item that are identified as urgent and priority. and/or",
+      "text": "This Order provides guidelines on the use of balances of unobligated Programs Support Funds (PSFs) downloaded directly released funds to regional offices for the implementation of programs, activities, and projects (PAPs) which shall be discontinued as the PSFs remain unobligated, and the PAPs are no longer deemed aligned with the current priorities of the LS Strand. The unobligated PSFs shall be used for PAPs within the same line item that are identified as urgent and priority. and/or",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.0,
+            "t": 376.5833333333333,
+            "r": 518.6666666666666,
+            "b": 347.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "3 All   DepEd Orders and other  related issuances, rules and regulations, and provisions inconsistent with this Order are repealed, rescinded, or modified accordingly .",
+      "text": "3 All   DepEd Orders and other  related issuances, rules and regulations, and provisions inconsistent with this Order are repealed, rescinded, or modified accordingly .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 340.9166666666667,
+            "r": 519.6666666666666,
+            "b": 288.2879728816225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "4. This Order shall take effect immediately upon its publication on the DepEd website. Certified copies of this Order shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC) , UP Diliman, Quezon City .",
+      "text": "This Order shall take effect immediately upon its publication on the DepEd website. Certified copies of this Order shall be registered with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC) , UP Diliman, Quezon City .",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 279.25,
+            "r": 519.6666666666666,
+            "b": 237.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "5. For inquiries Or concerns, please contact the Office of the Undersecretary for Learning Systems; Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email at ouct@deped-gov-ph. City,",
+      "text": "For inquiries Or concerns, please contact the Office of the Undersecretary for Learning Systems; Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email at ouct@deped-gov-ph. City,",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 230.25,
+            "r": 501.0,
+            "b": 213.58333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "6 Immediate dissemination of and strict compliance with this Order is directed",
+      "text": "6 Immediate dissemination of and strict compliance with this Order is directed",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 216.0,
+            "t": 194.58333333333337,
+            "r": 373.0,
+            "b": 177.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "By Authority of the Secretary:",
+      "text": "By Authority of the Secretary:"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.0,
+            "t": 144.58333333333337,
+            "r": 273.6666666666667,
+            "b": 129.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Undersecretary and Chief of Staff",
+      "text": "Undersecretary and Chief of Staff"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 333.6666666666667,
+            "t": 155.25,
+            "r": 485.6666666666667,
+            "b": 141.58333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "DR CARMELA C. ORACION",
+      "text": "DR CARMELA C. ORACION"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 337.0,
+            "t": 141.58333333333337,
+            "r": 483.0,
+            "b": 89.58333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Assistant Secretary Officer-in-Charge Office of the Undersecretary for Learning Systems",
+      "text": "Assistant Secretary Officer-in-Charge Office of the Undersecretary for Learning Systems"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.3333333333333,
+            "t": 822.5833333333334,
+            "r": 301.6666666666667,
+            "b": 817.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 268.55278640450007,
+            "t": 817.6889061423334,
+            "r": 293.1138802621666,
+            "b": 812.8110938576666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.8038838648618,
+            "t": 824.8972473423576,
+            "r": 314.8627828018048,
+            "b": 806.2694193243091,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "EDUK",
+      "text": "EDUK"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.7891814893221,
+            "t": 779.8824555320336,
+            "r": 293.2108185106779,
+            "b": 768.6175444679664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "'UBLIKA",
+      "text": "'UBLIKA"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.0,
+            "t": 749.9166666666666,
+            "r": 390.6666666666667,
+            "b": 725.9166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Department of Cuucatíon",
+      "text": "Department of Cuucatíon",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 441.0,
+            "t": 713.9166666666666,
+            "r": 503.0,
+            "b": 699.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SEP 1 8 2025",
+      "text": "SEP 1 8 2025"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 12.333333333333334,
+            "t": 54.91666666666663,
+            "r": 211.66666666666666,
+            "b": 41.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig City 1600",
+      "text": "DepEd Complex, Meralco Avenue, Pasig City 1600"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.0,
+            "t": 53.58333333333337,
+            "r": 370.3333333333333,
+            "b": 40.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "8633-7208/8633-7228/8632-1361",
+      "text": "8633-7208/8633-7228/8632-1361"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 388.6666666666667,
+            "t": 52.91666666666663,
+            "r": 483.0,
+            "b": 39.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.0,
+            "t": 49.58333333333337,
+            "r": 570.6666666666666,
+            "b": 39.58333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "www.deped gov.ph",
+      "text": "www.deped gov.ph"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.66666666666666,
+            "t": 740.6666666666666,
+            "r": 400.6666666666667,
+            "b": 702.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Assistant Secretary Officer-in-Charge Office of the Undersecretary for Finance",
+      "text": "Assistant Secretary Officer-in-Charge Office of the Undersecretary for Finance"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.0,
+            "t": 679.3333333333334,
+            "r": 104.33333333333333,
+            "b": 666.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Encl.:",
+      "text": "Encl.:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.0,
+            "t": 665.3333333333334,
+            "r": 159.0,
+            "b": 652.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "As stated",
+      "text": "As stated"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.0,
+            "t": 641.0,
+            "r": 129.0,
+            "b": 627.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 105.66666666666667,
+            "t": 627.6666666666666,
+            "r": 137.33333333333334,
+            "b": 613.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "None",
+      "text": "None"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 601.6666666666666,
+            "r": 278.6666666666667,
+            "b": 573.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual Index under the following subjects:",
+      "text": "To be indicated in the Perpetual Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 105.0,
+            "t": 563.0,
+            "r": 260.3333333333333,
+            "b": 485.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "EXPENSES FUNDS POLICY PROGRAMS PROJECTS RULES AND REGULATIONS",
+      "text": "EXPENSES FUNDS POLICY PROGRAMS PROJECTS RULES AND REGULATIONS"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 462.0,
+            "r": 320.6666666666667,
+            "b": 445.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "JDMC, MPC, DO Guidelines on the Use of Balances_from FY 2025 [RA 12116L Funds 0312 September 8, 2025",
+      "text": "JDMC, MPC, DO Guidelines on the Use of Balances_from FY 2025 [RA 12116L Funds 0312 September 8, 2025"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.0,
+            "t": 777.25,
+            "r": 311.6666666666667,
+            "b": 756.5833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "(Enclosure DepEd Order No. 027 2025) to",
+      "text": "(Enclosure DepEd Order No. 027 2025) to"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 94.66666666666667,
+            "t": 732.25,
+            "r": 486.6666666666667,
+            "b": 705.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "GUIDELINES ON THE USE OF BALANCES FROM FISCAL YEAR 2025 (REPUBLIC ACT NO. 12116) FUNDS UNDER THE LEARNING",
+      "text": "GUIDELINES ON THE USE OF BALANCES FROM FISCAL YEAR 2025 (REPUBLIC ACT NO. 12116) FUNDS UNDER THE LEARNING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.0,
+            "t": 680.5833333333334,
+            "r": 147.0,
+            "b": 667.9166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "I. RATIONALE",
+      "text": "I. RATIONALE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.333333333333336,
+            "t": 654.5833333333334,
+            "r": 519.6666666666666,
+            "b": 587.9166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "The Philippine Constitution states that '[tJhe State shall protect and promote the right of all citizens to quality education at all levels, and shall take appropriate steps to make such education accessible to all?1 and that \"[tJhe State shall maintain, and support a complete; adequate and integrated system of education relevant to the needs of the people and society. ?\"2",
+      "text": "The Philippine Constitution states that '[tJhe State shall protect and promote the right of all citizens to quality education at all levels, and shall take appropriate steps to make such education accessible to all?1 and that \"[tJhe State shall maintain, and support a complete; adequate and integrated system of education relevant to the needs of the people and society. ?\"2"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.0,
+            "t": 578.25,
+            "r": 519.3333333333334,
+            "b": 484.5833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            531
+          ]
+        }
+      ],
+      "orig": "In line with its continuous efforts to provide equitable and quality basic education, the Department of Education (DepEd or Department) has issued this Order for the use of balances of unobligated Program Support Funds (PSFs) downloaded and/or directly released funds for the Fiscal Year (FY) 2025. This Order is designed to utilize existing unobligated funds for chosen priority projects within the same line item in compliance with the General Appropriations Act for Fiscal Year 2025 and the National Budget Circular No. 595. yet",
+      "text": "In line with its continuous efforts to provide equitable and quality basic education, the Department of Education (DepEd or Department) has issued this Order for the use of balances of unobligated Program Support Funds (PSFs) downloaded and/or directly released funds for the Fiscal Year (FY) 2025. This Order is designed to utilize existing unobligated funds for chosen priority projects within the same line item in compliance with the General Appropriations Act for Fiscal Year 2025 and the National Budget Circular No. 595. yet"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.666666666666664,
+            "t": 475.5833333333333,
+            "r": 519.6666666666666,
+            "b": 380.5833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            547
+          ]
+        }
+      ],
+      "orig": "The primary objective of the planned use of balances of PSFs is to expedite the utilization of resources under the Learning Systems (LS) Strand. In line with this, the reprioritization of funds towards priority programs, activities, projects (PAPs) , ensures that PSFs are directed toward urgent and high-impact needs while strengthening fiscal responsibility . The failure to use these unobligated funds may result in underperformance of programs, missed opportunities to address pressing educational requirements, and delays in service delivery.",
+      "text": "The primary objective of the planned use of balances of PSFs is to expedite the utilization of resources under the Learning Systems (LS) Strand. In line with this, the reprioritization of funds towards priority programs, activities, projects (PAPs) , ensures that PSFs are directed toward urgent and high-impact needs while strengthening fiscal responsibility . The failure to use these unobligated funds may result in underperformance of programs, missed opportunities to address pressing educational requirements, and delays in service delivery."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.333333333333336,
+            "t": 358.5833333333333,
+            "r": 121.66666666666667,
+            "b": 346.5833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "II. SCOPE",
+      "text": "II. SCOPE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.666666666666664,
+            "t": 331.9166666666667,
+            "r": 519.3333333333334,
+            "b": 294.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "This Order SCIVCS as a direclive Regional Offices  (ROs) regarding the use of balances of unobligated funds the FY 2025 for priority PAPs identified by the LS Strand.",
+      "text": "This Order SCIVCS as a direclive Regional Offices  (ROs) regarding the use of balances of unobligated funds the FY 2025 for priority PAPs identified by the LS Strand."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.0,
+            "t": 282.25,
+            "r": 519.3333333333334,
+            "b": 227.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "However, reckoning of these balances shall exclude, subject to further guidelines issued by the Office of the Undersecretary for Learning Systems (OULS) , PSFs already allocated for the Academic Recovery and Accessible Learning (ARAL) Program, under the Joint Memorandum dated 17 July 2025.",
+      "text": "However, reckoning of these balances shall exclude, subject to further guidelines issued by the Office of the Undersecretary for Learning Systems (OULS) , PSFs already allocated for the Academic Recovery and Accessible Learning (ARAL) Program, under the Joint Memorandum dated 17 July 2025."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.666666666666664,
+            "t": 203.91666666666663,
+            "r": 222.0,
+            "b": 191.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "III. DEFINITION OF TERMS",
+      "text": "III. DEFINITION OF TERMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.0,
+            "t": 179.58333333333337,
+            "r": 423.6666666666667,
+            "b": 162.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "For these guidelines, the following terms are operationally defined:",
+      "text": "For these guidelines, the following terms are operationally defined:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 154.58333333333337,
+            "r": 519.0,
+            "b": 123.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "a. Flexible Learning Options (FLO) refers to a menu of   possible learning interventions and pathways responsive to learners needs, context,",
+      "text": "Flexible Learning Options (FLO) refers to a menu of   possible learning interventions and pathways responsive to learners needs, context,",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 98.58333333333337,
+            "r": 245.33333333333334,
+            "b": 87.58333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Article XIV, Sec. 1, 1987 Philippine Constitution.",
+      "text": "Article XIV, Sec. 1, 1987 Philippine Constitution."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 84.91666666666663,
+            "r": 245.33333333333334,
+            "b": 74.91666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Article XIV, Sec. 2, 1987 Philippine Constitution.",
+      "text": "Article XIV, Sec. 2, 1987 Philippine Constitution."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 235.66666666666666,
+            "t": 705.9166666666666,
+            "r": 346.3333333333333,
+            "b": 693.9166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "SYSTEMS STRAND",
+      "text": "SYSTEMS STRAND",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 98.33333333333333,
+            "t": 770.6666666666666,
+            "r": 519.0,
+            "b": 689.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "circumstances, and diversity. It allows for variations in the organization, approaches, and teaching and learning modalities. It is helpful for learners who are at risk of dropping out, children and youth who are out of school, adults who failed to finish basic education; learners with special needs, learners with extreme difficulty in accessing schools, or those who attend overpopulated schools, and learners in an emergency.3",
+      "text": "circumstances, and diversity. It allows for variations in the organization, approaches, and teaching and learning modalities. It is helpful for learners who are at risk of dropping out, children and youth who are out of school, adults who failed to finish basic education; learners with special needs, learners with extreme difficulty in accessing schools, or those who attend overpopulated schools, and learners in an emergency.3"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.0,
+            "t": 681.3333333333334,
+            "r": 519.6666666666666,
+            "b": 637.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "b Program Activity Project (PAP) refers to any work process or group of work processes undertaken to realize the outputs and outcomes of an agency . This is represented by an item of appropriation in the national budget.4",
+      "text": "b Program Activity Project (PAP) refers to any work process or group of work processes undertaken to realize the outputs and outcomes of an agency . This is represented by an item of appropriation in the national budget.4",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 129.66666666666666,
+            "t": 628.0,
+            "r": 472.6666666666667,
+            "b": 535.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "1 Program. A group of activities and projects that contribute to a particular outcome. A program should have the following: 1) unique expected results or outcomes; 2) a clear target population or client group external to the agency; 3) a defined method of intervention to achieve the desired result; and 4) a clear management structure that defines accountabilities.5",
+      "text": "1 Program. A group of activities and projects that contribute to a particular outcome. A program should have the following: 1) unique expected results or outcomes; 2) a clear target population or client group external to the agency; 3) a defined method of intervention to achieve the desired result; and 4) a clear management structure that defines accountabilities.5",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.66666666666667,
+            "t": 527.0,
+            "r": 472.0,
+            "b": 495.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "ii Activity. A work process that contributes to the implementation of a program, sub-program; or project.6",
+      "text": "ii Activity. A work process that contributes to the implementation of a program, sub-program; or project.6",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 121.33333333333333,
+            "t": 486.3333333333333,
+            "r": 470.6666666666667,
+            "b": 445.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "iii. Project. A out within a definite timeframc and intended to result in some predetermined measure of goods and services.7",
+      "text": "Project. A out within a definite timeframc and intended to result in some predetermined measure of goods and services.7",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 434.6666666666667,
+            "r": 518.6666666666666,
+            "b": 356.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "C Program Support Fund (PSF) are the funds provided for program implementation at the regional, schools division, or school level to ensure achievement of the target outputs and outcomes of the program. Funds for this may be directly released through the a) General Appropriations Act or DBM Circular on Release of Funds or b) downloaded through Sub-Allotment Release Order (Sub-ARO)-",
+      "text": "C Program Support Fund (PSF) are the funds provided for program implementation at the regional, schools division, or school level to ensure achievement of the target outputs and outcomes of the program. Funds for this may be directly released through the a) General Appropriations Act or DBM Circular on Release of Funds or b) downloaded through Sub-Allotment Release Order (Sub-ARO)-",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 345.3333333333333,
+            "r": 518.0,
+            "b": 302.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "d. Related PAPs refer to PAPs that contribute to a common particular outcome aligned with the objective of this Order, specifically involving operational requirements or support services essential to program delivery",
+      "text": "Related PAPs refer to PAPs that contribute to a common particular outcome aligned with the objective of this Order, specifically involving operational requirements or support services essential to program delivery",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.66666666666667,
+            "t": 293.33333333333337,
+            "r": 518.0,
+            "b": 237.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "e Unobligated Allotments refers to portions or balances of any allotment free from any obligation OI encumbrance which are still available after the completion or final discontinuance or abandonment of the work, activity or purpose for which the appropriation is authorized 8",
+      "text": "e Unobligated Allotments refers to portions or balances of any allotment free from any obligation OI encumbrance which are still available after the completion or final discontinuance or abandonment of the work, activity or purpose for which the appropriation is authorized 8",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 61.666666666666664,
+            "t": 228.33333333333337,
+            "r": 204.33333333333334,
+            "b": 215.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "IV. POLICY STATEMENT",
+      "text": "IV. POLICY STATEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 62.0,
+            "t": 204.0,
+            "r": 518.6666666666666,
+            "b": 174.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "The DepEd, as part of its commitment to accelerate the delivery of basic education and promote quality education, establishes this Order that shall govern the use of",
+      "text": "The DepEd, as part of its commitment to accelerate the delivery of basic education and promote quality education, establishes this Order that shall govern the use of"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.66666666666667,
+            "t": 162.33333333333337,
+            "r": 517.0,
+            "b": 140.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "DM-CT-2024-030 dated 29 January 2024, entitled \"Guidelines on the Utilization and Reporting of the Program Support Funds for the Alternative Delivery Mode for Fiscal Year 2024.",
+      "text": "DM-CT-2024-030 dated 29 January 2024, entitled \"Guidelines on the Utilization and Reporting of the Program Support Funds for the Alternative Delivery Mode for Fiscal Year 2024."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.0,
+            "t": 139.0,
+            "r": 310.3333333333333,
+            "b": 125.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Page 870, Glossary of Terms, Department of Budget and Management.",
+      "text": "Page 870, Glossary of Terms, Department of Budget and Management."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.36839167353072,
+            "t": 112.28781331136827,
+            "r": 310.3333333333333,
+            "b": 98.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "855, Glossary of Terms, Department of Budget and Management. Page",
+      "text": "855, Glossary of Terms, Department of Budget and Management. Page"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.36839167353072,
+            "t": 125.62114664470164,
+            "r": 310.3333333333333,
+            "b": 112.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "870, Glossary of Terms, Department of Budget and Management. Page",
+      "text": "870, Glossary of Terms, Department of Budget and Management. Page"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.66666666666667,
+            "t": 98.33333333333337,
+            "r": 310.3333333333333,
+            "b": 85.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Page 870, Glossary of Terms; Department of Budget and Management.",
+      "text": "Page 870, Glossary of Terms; Department of Budget and Management."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.68377223398316,
+            "t": 85.0,
+            "r": 307.6666666666667,
+            "b": 72.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "875, Glossary 0f Terms, Department of Budget and Management. Page",
+      "text": "875, Glossary 0f Terms, Department of Budget and Management. Page"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 507.6666666666667,
+            "t": 47.0,
+            "r": 514.3333333333334,
+            "b": 38.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.666666666666664,
+            "t": 771.0,
+            "r": 518.6666666666666,
+            "b": 715.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "balances of unobligated funds for the FY 2025 within the same line item to priority strategic PAPs allowing the efficient use of public funds, and the timely implementation of programs, activities, and projects directed towards completing learning resources of students and providing comprehensive toolkits for teachers.",
+      "text": "balances of unobligated funds for the FY 2025 within the same line item to priority strategic PAPs allowing the efficient use of public funds, and the timely implementation of programs, activities, and projects directed towards completing learning resources of students and providing comprehensive toolkits for teachers."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 692.3333333333334,
+            "r": 155.0,
+            "b": 680.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "V PROCEDURE",
+      "text": "V PROCEDURE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 61.333333333333336,
+            "t": 667.3333333333334,
+            "r": 518.3333333333334,
+            "b": 577.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "The PSFs downloaded to the ROs are allocated to specified PAPs under four (4) categories: (1) Basic Education Curriculum, (2) Flexible Learning Options (both Learning Resources, and Alternative   Delivery Modes) , Tools and Equipment, and (4) Textbooks and Other Instructional Materials, as enumerated in Annex A The directly released funds to the ROs are detailed in Annex B The amounts therein are based on the budget utilization reports submitted as of 30 June 2025.",
+      "text": "The PSFs downloaded to the ROs are allocated to specified PAPs under four (4) categories: (1) Basic Education Curriculum, (2) Flexible Learning Options (both Learning Resources, and Alternative   Delivery Modes) , Tools and Equipment, and (4) Textbooks and Other Instructional Materials, as enumerated in Annex A The directly released funds to the ROs are detailed in Annex B The amounts therein are based on the budget utilization reports submitted as of 30 June 2025."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 62.0,
+            "t": 565.6666666666667,
+            "r": 518.6666666666666,
+            "b": 485.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "Accordingly, a review of the unobligated funds of the covered PAPs has identified unobligated funds from certain PAPs of the ROs under each line item that will be discontinued. Thus, to ensure alignment with the  approved purpose of these unobligated funds, the said funds shall be used to support other priority PAPs that are of the same nature as those originally funded within the respective line item, as outlined in Annex C.",
+      "text": "Accordingly, a review of the unobligated funds of the covered PAPs has identified unobligated funds from certain PAPs of the ROs under each line item that will be discontinued. Thus, to ensure alignment with the  approved purpose of these unobligated funds, the said funds shall be used to support other priority PAPs that are of the same nature as those originally funded within the respective line item, as outlined in Annex C."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 61.333333333333336,
+            "t": 475.6666666666667,
+            "r": 519.6666666666666,
+            "b": 381.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            565
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 62.0,
+            "t": 372.0,
+            "r": 518.3333333333334,
+            "b": 328.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            566,
+            778
+          ]
+        }
+      ],
+      "orig": "Thus, the ROs, within fifteen (15) from the issuance of this Order, are hereby directed to submit to the Office of the Undersecretary for Learning Systems (OULS) the actual balances of their respective funds as of the date of the issuance of this Order . In the event that such balances are insufficient to cover the funding requirements of the priority projects listed in Annex C, the same shall likewise be reported to the OULS. The OULS may download additional funds to cover priority projects with insufficient funding subject to the availability of funds. days excess amount or resulting balance may be utilized for any other PAPs related to the purpose of this Order, subject to applicable budgeting, accounting, auditing, and procurement laws, rules, and regulations. Any",
+      "text": "Thus, the ROs, within fifteen (15) from the issuance of this Order, are hereby directed to submit to the Office of the Undersecretary for Learning Systems (OULS) the actual balances of their respective funds as of the date of the issuance of this Order . In the event that such balances are insufficient to cover the funding requirements of the priority projects listed in Annex C, the same shall likewise be reported to the OULS. The OULS may download additional funds to cover priority projects with insufficient funding subject to the availability of funds. days excess amount or resulting balance may be utilized for any other PAPs related to the purpose of this Order, subject to applicable budgeting, accounting, auditing, and procurement laws, rules, and regulations. Any"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 61.666666666666664,
+            "t": 319.33333333333337,
+            "r": 518.6666666666666,
+            "b": 239.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            446
+          ]
+        }
+      ],
+      "orig": "Furthermore, for excess and/or unutilized PSFs for FY 2025 further released by the ROs to their respective School Division Offices (SDOs), the ROs shall be granted authority to determine the most appropriate mechanism to optimize the use of such balances whether through pooling of funds or by providing directives to the SDOs on their utilization consistent with the priority PAPs identified in thereby ensuring both efficiency and flexibility .",
+      "text": "Furthermore, for excess and/or unutilized PSFs for FY 2025 further released by the ROs to their respective School Division Offices (SDOs), the ROs shall be granted authority to determine the most appropriate mechanism to optimize the use of such balances whether through pooling of funds or by providing directives to the SDOs on their utilization consistent with the priority PAPs identified in thereby ensuring both efficiency and flexibility ."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.0,
+            "t": 216.33333333333337,
+            "r": 139.0,
+            "b": 204.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "VI. FUNDING",
+      "text": "VI. FUNDING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.333333333333336,
+            "t": 191.66666666666663,
+            "r": 520.0,
+            "b": 125.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "The fund shall be sourced from the existing unobligated PSFs downloaded and / or directly released funds for FY 2025 to chosen priority PAPs. The purpose of the balances of the PSFs and/or directly released funds is for the efficient utilization of public funds to ensure that the Department's programs and   projects deliver maximum benefits to their intended stakeholders. yet using",
+      "text": "The fund shall be sourced from the existing unobligated PSFs downloaded and / or directly released funds for FY 2025 to chosen priority PAPs. The purpose of the balances of the PSFs and/or directly released funds is for the efficient utilization of public funds to ensure that the Department's programs and   projects deliver maximum benefits to their intended stakeholders. yet using"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.0,
+            "t": 113.0,
+            "r": 518.3333333333334,
+            "b": 84.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "The PSFs shall be flexible. This means that the excess funds for any of the abovementioned eligible expenses may be used for other expenses not mentioned in",
+      "text": "The PSFs shall be flexible. This means that the excess funds for any of the abovementioned eligible expenses may be used for other expenses not mentioned in"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 771.0,
+            "r": 519.3333333333334,
+            "b": 743.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "this Order provided that such shall be utilized solely for the conduct of identified priority PAPs.",
+      "text": "this Order provided that such shall be utilized solely for the conduct of identified priority PAPs."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.0,
+            "t": 730.6666666666666,
+            "r": 519.6666666666666,
+            "b": 675.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "In case that the downloaded PSFs are insufficient to cover the eligible expenses as directly released funds of the ROs, may be utilized for the priority PAPs identified in this Order, subject to the applicable government accounting and auditing rules and regulations.",
+      "text": "In case that the downloaded PSFs are insufficient to cover the eligible expenses as directly released funds of the ROs, may be utilized for the priority PAPs identified in this Order, subject to the applicable government accounting and auditing rules and regulations."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.666666666666664,
+            "t": 667.3333333333334,
+            "r": 521.0,
+            "b": 613.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "However, PSFs already allocated for the Academic Recovery and Accessible Learning (ARAL) Program, under the Joint Memorandum dated utilized to fund the priority PAPs identified in Annex C of this Order, subject to future guidelines that may be issued by the OULS.",
+      "text": "However, PSFs already allocated for the Academic Recovery and Accessible Learning (ARAL) Program, under the Joint Memorandum dated utilized to fund the priority PAPs identified in Annex C of this Order, subject to future guidelines that may be issued by the OULS."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 590.0,
+            "r": 168.66666666666666,
+            "b": 577.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "VII. MONITORING",
+      "text": "VII. MONITORING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.666666666666664,
+            "t": 566.0,
+            "r": 520.3333333333334,
+            "b": 523.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "The implementation of this Order shall be closely monitored by the LS Strand, through the OULS, to ensure the integrity, transparency, and effective execution of the use of balances of unobligated PSFs.",
+      "text": "The implementation of this Order shall be closely monitored by the LS Strand, through the OULS, to ensure the integrity, transparency, and effective execution of the use of balances of unobligated PSFs."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.0,
+            "t": 511.6666666666667,
+            "r": 519.6666666666666,
+            "b": 445.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": "To facilitate the implementation of this Order, the Technical Assistant III hired by the RO shall continue to monitor fund utilization and the status of procurement activities relating to LS programs in line with the provisions of this Order. The OULS shall download additional funds for the salaries of the Technical Assistant IIIs for the period 1 January 2026 to 31 December 2026.",
+      "text": "To facilitate the implementation of this Order, the Technical Assistant III hired by the RO shall continue to monitor fund utilization and the status of procurement activities relating to LS programs in line with the provisions of this Order. The OULS shall download additional funds for the salaries of the Technical Assistant IIIs for the period 1 January 2026 to 31 December 2026."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.0,
+            "t": 436.6666666666667,
+            "r": 520.0,
+            "b": 366.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "Monitoring activities shall include, among others, the regular submission of Physical and Financial Accomplishment Reports by the Regional Office to the OULS and the assessment of these reports by the OULS in compliance with the   prescribed guidelines and with the intended purposes under the same line items. Any deviations or irregularities shall be promptly reported to the OULS for appropriate action.",
+      "text": "Monitoring activities shall include, among others, the regular submission of Physical and Financial Accomplishment Reports by the Regional Office to the OULS and the assessment of these reports by the OULS in compliance with the   prescribed guidelines and with the intended purposes under the same line items. Any deviations or irregularities shall be promptly reported to the OULS for appropriate action."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 344.3333333333333,
+            "r": 213.66666666666666,
+            "b": 331.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "VIII. REPEALING CLAUSE",
+      "text": "VIII. REPEALING CLAUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 62.0,
+            "t": 319.33333333333337,
+            "r": 519.6666666666666,
+            "b": 277.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "All previously issued guidelines, rules, and orders governing the initial use of the identified PSFs are hereby repealed or rescinded, including, but not limited the following: to,",
+      "text": "All previously issued guidelines, rules, and orders governing the initial use of the identified PSFs are hereby repealed or rescinded, including, but not limited the following: to,"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 81.66666666666667,
+            "t": 172.33333333333337,
+            "r": 519.0,
+            "b": 151.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Guidelines on the Budget Allocation and Fund Utilization for the Academic Recovery and Accessible Learning (ARAL) Program for SY 2025-2026.",
+      "text": "Guidelines on the Budget Allocation and Fund Utilization for the Academic Recovery and Accessible Learning (ARAL) Program for SY 2025-2026."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 137.66666666666663,
+            "r": 520.3333333333334,
+            "b": 104.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "11 Guidelines for the Regional Offices on the Utilization of Program Support Funds (PSF) for the Travel Expenses of Participants in Various Student Inclusion Division (SID) Activities Under Fiscal Year (FY) 2025 Basic Education Curriculum (BEC) Current Funds.",
+      "text": "11 Guidelines for the Regional Offices on the Utilization of Program Support Funds (PSF) for the Travel Expenses of Participants in Various Student Inclusion Division (SID) Activities Under Fiscal Year (FY) 2025 Basic Education Curriculum (BEC) Current Funds."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 151.66666666666663,
+            "r": 431.0,
+            "b": 136.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "10 Implementing Guidelines for the Program Support Funds (PSF) for Kindergarten Education.",
+      "text": "10 Implementing Guidelines for the Program Support Funds (PSF) for Kindergarten Education."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 105.66666666666663,
+            "r": 519.6666666666666,
+            "b": 72.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "12 Guidelines for the Regional Offices on the Utilization of Program Support Funds (PSF) for the Conduct of Division and Regional Festival of Talents (DFOT and RFOT), and Host Region and Transportation of Participants for the Conduct of the National Festival of Talents (NFOT) for Fiscal Year (FY) 2025.",
+      "text": "12 Guidelines for the Regional Offices on the Utilization of Program Support Funds (PSF) for the Conduct of Division and Regional Festival of Talents (DFOT and RFOT), and Host Region and Transportation of Participants for the Conduct of the National Festival of Talents (NFOT) for Fiscal Year (FY) 2025."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.0,
+            "t": 627.6666666666666,
+            "r": 521.0,
+            "b": 575.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "All other DepEd Orders and related issuances inconsistent with this Order are repealed, rescinded, or modified accordingly. The provisions of this Order and any succeeding guidelines pertaining to the new PAPs funded under existing line items, shall supersede the aforementioned issuances.",
+      "text": "All other DepEd Orders and related issuances inconsistent with this Order are repealed, rescinded, or modified accordingly. The provisions of this Order and any succeeding guidelines pertaining to the new PAPs funded under existing line items, shall supersede the aforementioned issuances."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 561.6666666666667,
+            "r": 234.33333333333334,
+            "b": 549.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "IX. TRANSITORY PROVISION",
+      "text": "IX. TRANSITORY PROVISION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 537.3333333333333,
+            "r": 521.0,
+            "b": 444.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "All PAPs already under procurement and/or payment processes initiated pursuant to previous guidelines and ongoing at the time of effectivity of this Order shall be allowed to continue until its completion, subject to applicable government accounting and auditing rules and regulations. ROs and SDOs are hereby directed to ensure the settlement of payments for obligations arising from duly conducted activities and valid contracts. activity commenced thereafter shall be governed by the provisions of this Order. Any",
+      "text": "All PAPs already under procurement and/or payment processes initiated pursuant to previous guidelines and ongoing at the time of effectivity of this Order shall be allowed to continue until its completion, subject to applicable government accounting and auditing rules and regulations. ROs and SDOs are hereby directed to ensure the settlement of payments for obligations arising from duly conducted activities and valid contracts. activity commenced thereafter shall be governed by the provisions of this Order. Any"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 429.0,
+            "r": 169.66666666666666,
+            "b": 417.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "X. SEPARABILITY",
+      "text": "X. SEPARABILITY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.0,
+            "t": 404.0,
+            "r": 520.3333333333334,
+            "b": 365.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "If any provision of this Order is declared invalid or unenforceable by a court of competent jurisdiction; all other provisions not affected shall remain in force and in effect.",
+      "text": "If any provision of this Order is declared invalid or unenforceable by a court of competent jurisdiction; all other provisions not affected shall remain in force and in effect."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 351.3333333333333,
+            "r": 166.33333333333334,
+            "b": 339.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "XI. EFFECTIVITY",
+      "text": "XI. EFFECTIVITY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 326.66666666666663,
+            "r": 519.6666666666666,
+            "b": 297.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "This Order shall take effect immediately upon its approval; issuance, and publication on the DepEd website. Certified copies shall be registered with the Office of the",
+      "text": "This Order shall take effect immediately upon its approval; issuance, and publication on the DepEd website. Certified copies shall be registered with the Office of the"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.0,
+            "t": 274.66666666666663,
+            "r": 519.6666666666666,
+            "b": 249.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "13 Guidelines on the Utilization of Directly Released FY 2025 LTE Funds for the Provision of Learning Tools and Equipment for Public Elementary and Senior High Schools.",
+      "text": "13 Guidelines on the Utilization of Directly Released FY 2025 LTE Funds for the Provision of Learning Tools and Equipment for Public Elementary and Senior High Schools."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.0,
+            "t": 228.0,
+            "r": 519.6666666666666,
+            "b": 196.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "15 Guidelines for the Regional Offices the Utilization of Proaram Support Funds (PSF) for the Travel Expenses of Participants in Various Student Inclusion Division (SID) Activities Under Fiscal Year (FY) 2025 Basic Education Curriculum (BEC) Continuing Funds.",
+      "text": "15 Guidelines for the Regional Offices the Utilization of Proaram Support Funds (PSF) for the Travel Expenses of Participants in Various Student Inclusion Division (SID) Activities Under Fiscal Year (FY) 2025 Basic Education Curriculum (BEC) Continuing Funds."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 251.0,
+            "r": 519.6666666666666,
+            "b": 225.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "14 Guidelines on the Release; Utilization; Monitoring; and Reporting of the Program Support Funds for the Alternative Delivery Mode (ADM)",
+      "text": "14 Guidelines on the Release; Utilization; Monitoring; and Reporting of the Program Support Funds for the Alternative Delivery Mode (ADM)"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.0,
+            "t": 198.0,
+            "r": 520.3333333333334,
+            "b": 173.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "16 Guidelines on the Utilization of Program Support Funds (PSF) to DepEd Regional Offices for the Implementation of the Early Language Literacy and Numeracy Program.",
+      "text": "16 Guidelines on the Utilization of Program Support Funds (PSF) to DepEd Regional Offices for the Implementation of the Early Language Literacy and Numeracy Program."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.0,
+            "t": 151.33333333333337,
+            "r": 519.6666666666666,
+            "b": 117.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "18 Guidelines on the Release, Utilization and Reporting of the Program Support Funds to the Regional Offices for the Conduct of Regional Orientation on the Utilization of Self-Instructional Learning Action Cell (LAC) Resources on Science; Technology; Engineering and Mathematics (STEM) Education Collaborative Expertise Sessions.",
+      "text": "18 Guidelines on the Release, Utilization and Reporting of the Program Support Funds to the Regional Offices for the Conduct of Regional Orientation on the Utilization of Self-Instructional Learning Action Cell (LAC) Resources on Science; Technology; Engineering and Mathematics (STEM) Education Collaborative Expertise Sessions."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 174.33333333333337,
+            "r": 519.0,
+            "b": 149.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "17 Guidelines on the Utilization of Program Support Funds for the Travel Expenses of Field Participants to Various Activities of the Burau of Learning Delivery-Teaching and Learning Division.",
+      "text": "17 Guidelines on the Utilization of Program Support Funds for the Travel Expenses of Field Participants to Various Activities of the Burau of Learning Delivery-Teaching and Learning Division."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 119.0,
+            "r": 518.6666666666666,
+            "b": 94.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "19 Guidelines on the Utilization of Program Support Funds (PSF) for the Implementation of the National reading Program and National Mathematics Program.",
+      "text": "19 Guidelines on the Utilization of Program Support Funds (PSF) for the Implementation of the National reading Program and National Mathematics Program."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 96.33333333333337,
+            "r": 518.6666666666666,
+            "b": 73.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "20 Implementing Guidelines on the Allocation and Utilization of the Program Support Funds (PSF)   for the Implementation of Science Process Skills Enhancement for Grades 3-6 Science Teachers_",
+      "text": "20 Implementing Guidelines on the Allocation and Utilization of the Program Support Funds (PSF)   for the Implementation of Science Process Skills Enhancement for Grades 3-6 Science Teachers_"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 510.0,
+            "t": 48.0,
+            "r": 518.0,
+            "b": 38.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 770.6666666666666,
+            "r": 520.6666666666666,
+            "b": 741.3713062149558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City .",
+      "text": "National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City ."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 718.3333333333334,
+            "r": 173.0,
+            "b": 706.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "XII. REFERENCES",
+      "text": "XII. REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 692.3333333333334,
+            "r": 520.0,
+            "b": 664.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "The government issuances related to the use of balances of the PSFs are the following:",
+      "text": "The government issuances related to the use of balances of the PSFs are the following:"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 100.66666666666667,
+            "t": 653.0,
+            "r": 495.6666666666667,
+            "b": 627.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "a Republic Act No. 12116 titled, \"General Appropriations Act Fiscal Year 2025;",
+      "text": "a Republic Act No. 12116 titled, \"General Appropriations Act Fiscal Year 2025;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 100.0,
+            "t": 615.6666666666666,
+            "r": 496.6666666666667,
+            "b": 587.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "b. National Budget Circular No. 595 titled, \"Guidelines on the Release of Funds for Fiscal Year (FY) 2025.",
+      "text": "National Budget Circular No. 595 titled, \"Guidelines on the Release of Funds for Fiscal Year (FY) 2025.",
+      "enumerated": true,
+      "marker": "b."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.94744873046875,
+            "t": 63.8087158203125,
+            "r": 230.11717224121094,
+            "b": 45.15142822265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 372.6442565917969,
+            "t": 63.38140869140625,
+            "r": 390.0516357421875,
+            "b": 44.9224853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 485.1977844238281,
+            "t": 60.28265380859375,
+            "r": 496.376953125,
+            "b": 43.77020263671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 267.11968994140625,
+            "t": 825.4775390625,
+            "r": 324.6383972167969,
+            "b": 768.4717483520508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 219.40760803222656,
+            "t": 782.7535934448242,
+            "r": 398.80133056640625,
+            "b": 740.4013977050781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.24458694458008,
+            "t": 74.404052734375,
+            "r": 63.55059051513672,
+            "b": 31.5723876953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.112300872802734,
+            "t": 79.2607421875,
+            "r": 64.42508697509766,
+            "b": 47.3427734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 11.031587600708008,
+            "t": 57.952392578125,
+            "r": 21.10814094543457,
+            "b": 40.2808837890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 17.2574462890625,
+            "t": 352.9089813232422,
+            "r": 27.21630096435547,
+            "b": 332.9080505371094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.92839050292969,
+            "t": 267.21832275390625,
+            "r": 478.79656982421875,
+            "b": 202.36981201171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 125.33333333333333,
+              "t": 574.0,
+              "r": 284.3333333333333,
+              "b": 589.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Guidelines, Rules, or Order",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.6666666666667,
+              "t": 575.6666666666666,
+              "r": 472.6666666666667,
+              "b": 589.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Issuance Date",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.33333333333333,
+              "t": 588.3333333333334,
+              "r": 340.3333333333333,
+              "b": 602.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Joint Memorandum to All Regional Directors and",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.3333333333333,
+              "t": 589.0,
+              "r": 473.6666666666667,
+              "b": 601.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "07 March 2024",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 600.6666666666666,
+              "r": 196.33333333333334,
+              "b": 614.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "All Others Concerned1o",
+            "column_header": false,
+            "row_header": false,
+            "row_section": true,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.0,
+              "t": 613.6666666666666,
+              "r": 254.33333333333334,
+              "b": 626.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-01211",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 383.0,
+              "t": 615.0,
+              "r": 479.0,
+              "b": 628.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "09 January 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 383.0,
+              "t": 627.0,
+              "r": 479.0,
+              "b": 640.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "27 January 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 125.33333333333333,
+                "t": 574.0,
+                "r": 284.3333333333333,
+                "b": 589.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Guidelines, Rules, or Order",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.6666666666667,
+                "t": 575.6666666666666,
+                "r": 472.6666666666667,
+                "b": 589.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Issuance Date",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 588.3333333333334,
+                "r": 340.3333333333333,
+                "b": 602.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Joint Memorandum to All Regional Directors and",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.3333333333333,
+                "t": 589.0,
+                "r": 473.6666666666667,
+                "b": 601.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "07 March 2024",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 600.6666666666666,
+                "r": 196.33333333333334,
+                "b": 614.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "All Others Concerned1o",
+              "column_header": false,
+              "row_header": false,
+              "row_section": true,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.0,
+                "t": 613.6666666666666,
+                "r": 254.33333333333334,
+                "b": 626.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-01211",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 383.0,
+                "t": 615.0,
+                "r": 479.0,
+                "b": 628.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "09 January 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 383.0,
+                "t": 627.0,
+                "r": 479.0,
+                "b": 640.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "27 January 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.1562728881836,
+            "t": 770.9565811157227,
+            "r": 482.4410095214844,
+            "b": 639.3819580078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 71.66666666666667,
+              "r": 341.0,
+              "b": 97.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Joint Memorandum to All Regional Directors and All Others Concerned13",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 381.3333333333333,
+              "t": 71.0,
+              "r": 482.0,
+              "b": 87.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "03 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 97.0,
+              "r": 255.66666666666666,
+              "b": 109.66666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-05214",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 382.3333333333333,
+              "t": 97.33333333333333,
+              "r": 481.6666666666667,
+              "b": 111.66666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "17 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 110.0,
+              "r": 273.6666666666667,
+              "b": 124.33333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum to Regional Directors1s",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 382.0,
+              "t": 109.66666666666667,
+              "r": 482.0,
+              "b": 125.66666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "17 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 123.66666666666667,
+              "r": 341.0,
+              "b": 151.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum to Regional Directors and School Division Superintendents16",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 383.0,
+              "t": 123.33333333333333,
+              "r": 481.6666666666667,
+              "b": 138.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "18 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 150.33333333333334,
+              "r": 255.66666666666666,
+              "b": 162.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-06217",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 381.3333333333333,
+              "t": 149.66666666666666,
+              "r": 482.0,
+              "b": 165.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "24 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 163.66666666666666,
+              "r": 255.66666666666666,
+              "b": 175.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-06418",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 381.6666666666667,
+              "t": 163.33333333333334,
+              "r": 481.6666666666667,
+              "b": 178.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "24 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 176.0,
+              "r": 255.66666666666666,
+              "b": 188.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-09319",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 381.6666666666667,
+              "t": 176.66666666666666,
+              "r": 481.6666666666667,
+              "b": 191.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "24 February 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.66666666666667,
+              "t": 188.33333333333334,
+              "r": 255.66666666666666,
+              "b": 202.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Memorandum DM-CT-2025-06320",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 389.0,
+              "t": 190.33333333333334,
+              "r": 474.3333333333333,
+              "b": 202.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "07 March 2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 8,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 71.66666666666667,
+                "r": 341.0,
+                "b": 97.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Joint Memorandum to All Regional Directors and All Others Concerned13",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 381.3333333333333,
+                "t": 71.0,
+                "r": 482.0,
+                "b": 87.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "03 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 97.0,
+                "r": 255.66666666666666,
+                "b": 109.66666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-05214",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 382.3333333333333,
+                "t": 97.33333333333333,
+                "r": 481.6666666666667,
+                "b": 111.66666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "17 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 110.0,
+                "r": 273.6666666666667,
+                "b": 124.33333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum to Regional Directors1s",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 382.0,
+                "t": 109.66666666666667,
+                "r": 482.0,
+                "b": 125.66666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "17 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 123.66666666666667,
+                "r": 341.0,
+                "b": 151.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum to Regional Directors and School Division Superintendents16",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 383.0,
+                "t": 123.33333333333333,
+                "r": 481.6666666666667,
+                "b": 138.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "18 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 150.33333333333334,
+                "r": 255.66666666666666,
+                "b": 162.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-06217",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 381.3333333333333,
+                "t": 149.66666666666666,
+                "r": 482.0,
+                "b": 165.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "24 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 163.66666666666666,
+                "r": 255.66666666666666,
+                "b": 175.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-06418",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 381.6666666666667,
+                "t": 163.33333333333334,
+                "r": 481.6666666666667,
+                "b": 178.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "24 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 176.0,
+                "r": 255.66666666666666,
+                "b": 188.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-09319",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 381.6666666666667,
+                "t": 176.66666666666666,
+                "r": 481.6666666666667,
+                "b": 191.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "24 February 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 69.66666666666667,
+                "t": 188.33333333333334,
+                "r": 255.66666666666666,
+                "b": 202.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Memorandum DM-CT-2025-06320",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 389.0,
+                "t": 190.33333333333334,
+                "r": 474.3333333333333,
+                "b": 202.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "07 March 2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 12.464395523071289,
+            "t": 514.8003234863281,
+            "r": 828.7011108398438,
+            "b": 56.374267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 13.450296401977539,
+            "t": 576.0293483734131,
+            "r": 830.1365966796875,
+            "b": 349.37779235839844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 94.40084838867188,
+            "t": 485.02467346191406,
+            "r": 701.8409423828125,
+            "b": 72.76397705078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 43.79304885864258,
+            "t": 504.3672790527344,
+            "r": 775.018798828125,
+            "b": 32.65960693359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 43.13835525512695,
+            "t": 577.5246143341064,
+            "r": 778.8124389648438,
+            "b": 31.95672607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 44.52484893798828,
+            "t": 579.7921857833862,
+            "r": 779.603515625,
+            "b": 384.5568084716797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.5,
+        "height": 842.25
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.5,
+        "height": 842.25
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 842.0,
+        "height": 595.0
+      },
+      "page_no": 14
+    }
+  }
+}
