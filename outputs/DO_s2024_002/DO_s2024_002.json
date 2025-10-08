@@ -1,0 +1,5382 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2024_002",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3973224964117771120,
+    "filename": "DO_s2024_002.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/groups/18"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/groups/19"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/groups/20"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/119"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/143"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.84,
+            "t": 665.9739853515625,
+            "r": 170.054,
+            "b": 653.9489853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "DepEd ORD ER",
+      "text": "DepEd ORD ER"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.84,
+            "t": 656.6069853515625,
+            "r": 171.716,
+            "b": 641.2499853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "No. ,  s.2O24",
+      "text": "No. ,  s.2O24"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.04,
+            "t": 617.3779853515625,
+            "r": 436.608,
+            "b": 594.6029853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "IUUEDIATE RTUOVAL  OF ADUIMSTRATIVE  TASKfI OF PT'BLIC SCH(X)L TEACHERS",
+      "text": "IUUEDIATE RTUOVAL  OF ADUIMSTRATIVE  TASKfI OF PT'BLIC SCH(X)L TEACHERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.48,
+            "t": 579.9399853515625,
+            "r": 90.15,
+            "b": 570.6899853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "To",
+      "text": "To"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 113.76,
+            "t": 580.6579853515625,
+            "r": 197.503,
+            "b": 570.4829853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Undersecretaries",
+      "text": "Undersecretaries"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 113.4,
+            "t": 568.7779853515625,
+            "r": 216.538,
+            "b": 558.6029853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Assistant  Secretaries",
+      "text": "Assistant  Secretaries"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 113.76,
+            "t": 556.8979853515625,
+            "r": 259.64,
+            "b": 546.7229853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Bureau and Service Directors",
+      "text": "Bureau and Service Directors"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.12,
+            "t": 544.6579853515625,
+            "r": 203.84,
+            "b": 534.4829853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Regional Directors",
+      "text": "Regional Directors"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.12,
+            "t": 532.7779853515625,
+            "r": 279.542,
+            "b": 522.6029853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Schools Division  Superintendents",
+      "text": "Schools Division  Superintendents"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.12,
+            "t": 520.8989853515625,
+            "r": 413.025,
+            "b": 510.7229853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Public and Private  Elementary and Secondar5r School Heads",
+      "text": "Public and Private  Elementary and Secondar5r School Heads"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.12,
+            "t": 508.6589853515625,
+            "r": 426.084,
+            "b": 498.4829853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Public and Private Elementar5r  and Secondaqr School Teachers",
+      "text": "Public and Private Elementar5r  and Secondaqr School Teachers"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 113.76,
+            "t": 497.1369853515625,
+            "r": 218.527,
+            "b": 486.4999853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "All Others Concemed",
+      "text": "All Others Concemed"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.2,
+            "t": 475.52998535156246,
+            "r": 514.61,
+            "b": 401.89998535156246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            442
+          ]
+        }
+      ],
+      "orig": "1. The Department of klucation  (DepEd)  believes that the core of quality basic education is a vibrant and quality teaching  worldorce.  Under the MATATAG  Agenda, the Department is committed to enhancing the delivery of quality basic education while promoting teacher quality and teacher welfare.  In this regard,  the Department issues the enclosed guidelines on the luacdlate f,s66v6l 6f fl{trlnirtratlvc  Tarlr of Rrbllc School Teachers.",
+      "text": "The Department of klucation  (DepEd)  believes that the core of quality basic education is a vibrant and quality teaching  worldorce.  Under the MATATAG  Agenda, the Department is committed to enhancing the delivery of quality basic education while promoting teacher quality and teacher welfare.  In this regard,  the Department issues the enclosed guidelines on the luacdlate f,s66v6l 6f fl{trlnirtratlvc  Tarlr of Rrbllc School Teachers.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.2,
+            "t": 392.72698535156246,
+            "r": 513.971,
+            "b": 354.01998535156247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "2. This DepEd Order (DO) is guided  by agenry directions  to remove the nonteaching tasks of teacher to give support to teachers to teach better. This is geared toward building  a conducive environment  for effective teaching and leaming to thrive.",
+      "text": "This DepEd Order (DO) is guided  by agenry directions  to remove the nonteaching tasks of teacher to give support to teachers to teach better. This is geared toward building  a conducive environment  for effective teaching and leaming to thrive.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.56,
+            "t": 344.1269853515625,
+            "r": 514.853,
+            "b": 318.48298535156255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "3. All DOs and other related issuances, rules, regulations,  and provisions  that are inconsistent  ydth  these guidelines  are repealed,  rescinded, or modified accordingly.",
+      "text": "All DOs and other related issuances, rules, regulations,  and provisions  that are inconsistent  ydth  these guidelines  are repealed,  rescinded, or modified accordingly.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.56,
+            "t": 308.48698535156245,
+            "r": 515.148,
+            "b": 258.36298535156243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "4. This DO shall take effect immediately upon its approval, issuance, and publication on the DepEd website.  This shall be registered  with the Office of the National Administrative Register (ONAR) at the University  of the Philippines  Law Center (UP LC), UP Diliman,  Quezon  City.",
+      "text": "This DO shall take effect immediately upon its approval, issuance, and publication on the DepEd website.  This shall be registered  with the Office of the National Administrative Register (ONAR) at the University  of the Philippines  Law Center (UP LC), UP Diliman,  Quezon  City.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.92,
+            "t": 247.28998535156245,
+            "r": 516.699,
+            "b": 186.36298535156243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "5. Any clarification regarding this DO shall be coordinated with the Bureau of Human Rclource aad Orgaalzationcl  Dcvclopaeat€chool  Efiectivelea. Dlvlslon, 4th Floor, Mabini Building, Depa.rtment  of Education Centra.l  Offrce, DepEd Complex, Meralco Avenue, Pasig City through email at bhrod.sed@deped.gov.ph or telephone number  at (02) 8633-5397.",
+      "text": "Any clarification regarding this DO shall be coordinated with the Bureau of Human Rclource aad Orgaalzationcl  Dcvclopaeat€chool  Efiectivelea. Dlvlslon, 4th Floor, Mabini Building, Depa.rtment  of Education Centra.l  Offrce, DepEd Complex, Meralco Avenue, Pasig City through email at bhrod.sed@deped.gov.ph or telephone number  at (02) 8633-5397.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.64,
+            "t": 163.40998535156245,
+            "r": 498.547,
+            "b": 149.53498535156245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "6. Immediate dissemination  of and strict compliance with this Order is directed.",
+      "text": "Immediate dissemination  of and strict compliance with this Order is directed.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.72,
+            "t": 74.83898535156254,
+            "r": 375.794,
+            "b": 55.87698535156244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Pa633^72OA I  4633-7  22a  I  A632-t36r",
+      "text": "Pa633^72OA I  4633-7  22a  I  A632-t36r"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.08,
+            "t": 66.22298535156244,
+            "r": 484.334,
+            "b": 57.743985351562515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "a636-4a7  6  /a637  -6209",
+      "text": "a636-4a7  6  /a637  -6209"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.08,
+            "t": 83.46298535156245,
+            "r": 393.33,
+            "b": 57.100985351562485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "fl",
+      "text": "fl"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 488.52,
+            "t": 73.04598535156254,
+            "r": 567.984,
+            "b": 57.32098535156251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "awww.dep€d.gov.ph",
+      "text": "awww.dep€d.gov.ph"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.48,
+            "t": 733.2979853515625,
+            "r": 360.766,
+            "b": 721.3229853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Segubtic ot tDe  ?Dilippineg",
+      "text": "Segubtic ot tDe  ?Dilippineg",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 206.64,
+            "t": 717.4469853515625,
+            "r": 387.655,
+            "b": 702.1849853515624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Depsrtment of @Ducation",
+      "text": "Depsrtment of @Ducation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.0,
+            "t": 804.0266520182291,
+            "r": 303.0,
+            "b": 797.3599853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.6666666666667,
+            "t": 749.3599853515625,
+            "r": 303.0,
+            "b": 744.6933186848959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 300.75721431975694,
+            "t": 801.0043613582085,
+            "r": 330.5761190135764,
+            "b": 780.3822760115833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.0574647037992,
+            "t": 755.7530743665874,
+            "r": 322.9425352962008,
+            "b": 749.6335630032042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "PILIPINAS",
+      "text": "PILIPINAS"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.47855578400566,
+            "t": 755.6662290192767,
+            "r": 294.188110882661,
+            "b": 743.0537416838483,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "UBLIKA",
+      "text": "UBLIKA"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.0,
+            "t": 685.0266520182291,
+            "r": 516.6666666666666,
+            "b": 668.3599853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JaN 2 6 2024",
+      "text": "JaN 2 6 2024"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.24,
+            "t": 64.78398535156248,
+            "r": 220.112,
+            "b": 57.3839853515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "DcpEd  Complex,  Mc.alco Avenu€,  Pasig  City 1600",
+      "text": "DcpEd  Complex,  Mc.alco Avenu€,  Pasig  City 1600"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.56,
+            "t": 677.8579877929687,
+            "r": 100.955,
+            "b": 667.6829877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Encl",
+      "text": "Encl"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.12,
+            "t": 665.9789877929688,
+            "r": 158.562,
+            "b": 656.2669877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "As stated",
+      "text": "As stated"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.56,
+            "t": 640.7799877929688,
+            "r": 133.47,
+            "b": 631.5299877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "References:",
+      "text": "References:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.48,
+            "t": 629.2589877929688,
+            "r": 321.421,
+            "b": 596.7499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "DepEd Order No. 16, s. 2OO9 DepEd Memorandum  No. 291, s. 2OO8 E",
+      "text": "DepEd Order No. 16, s. 2OO9 DepEd Memorandum  No. 291, s. 2OO8 E"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.28,
+            "t": 768.8849877929688,
+            "r": 509.843,
+            "b": 732.8659877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "S^*^u {6--'\"'t:",
+      "text": "S^*^u {6--'\"'t:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 326.88,
+            "t": 738.6979877929688,
+            "r": 425.622,
+            "b": 728.2669877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SARA Z. DUTERTE",
+      "text": "SARA Z. DUTERTE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 274.68,
+            "t": 726.8179877929688,
+            "r": 506.065,
+            "b": 704.5069877929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Vce President  ofthe  Republic of the Philippines Secretary  of the Depaftmert of Edumtion",
+      "text": "Vce President  ofthe  Republic of the Philippines Secretary  of the Depaftmert of Edumtion"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.72,
+            "t": 666.6769877929688,
+            "r": 321.061,
+            "b": 646.7899877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 357.48,
+            "t": 667.0379877929688,
+            "r": 371.487,
+            "b": 647.6129877929689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.2,
+            "t": 593.9779877929687,
+            "r": 268.826,
+            "b": 583.6499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.48,
+            "t": 582.0979877929688,
+            "r": 257.606,
+            "b": 571.4599877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            39,
+            69
+          ]
+        }
+      ],
+      "orig": "To be indicated  in the Pemetual Index under the following  subjects:",
+      "text": "To be indicated  in the Pemetual Index under the following  subjects:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.48,
+            "t": 557.6189877929688,
+            "r": 202.472,
+            "b": 487.4269877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "BENEFITS POLICY SERVICE TEACHERS TEACHING  LOAD WORK HOURS",
+      "text": "BENEFITS POLICY SERVICE TEACHERS TEACHING  LOAD WORK HOURS"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.56,
+            "t": 464.0249877929688,
+            "r": 248.092,
+            "b": 449.8379877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "JDMC/APA  DO r@.diet R.li@d of AdEln  t!.ks Folid OOO2  - Jsury  s, 2024",
+      "text": "JDMC/APA  DO r@.diet R.li@d of AdEln  t!.ks Folid OOO2  - Jsury  s, 2024"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 377.64,
+            "t": 656.2009877929688,
+            "r": 434.718,
+            "b": 619.6639877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "r:,#",
+      "text": "r:,#"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 401.0,
+            "t": 664.1333211263021,
+            "r": 411.6666666666667,
+            "b": 657.4666544596354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 518.4,
+            "t": 779.3849877929688,
+            "r": 568.597,
+            "b": 736.8079877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Dgitallysigned by Duterte  Sara Zimrnerman Date:2024.0r.26 1336:07  +08'm'",
+      "text": "Dgitallysigned by Duterte  Sara Zimrnerman Date:2024.0r.26 1336:07  +08'm'"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 79.92,
+            "t": 752.7269877929688,
+            "r": 312.149,
+            "b": 736.8029877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(Enclosure to DepEd  Order No. ,  s.2O24l",
+      "text": "(Enclosure to DepEd  Order No. ,  s.2O24l"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.28,
+            "t": 712.4159877929688,
+            "r": 444.509,
+            "b": 688.0989877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "IMMEDIATE RTMOVAL OF ADMINISTRATIVE  TASKS OF PI'BLIC SCH(X)L TEACIIERS",
+      "text": "IMMEDIATE RTMOVAL OF ADMINISTRATIVE  TASKS OF PI'BLIC SCH(X)L TEACIIERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.28,
+            "t": 678.2069877929688,
+            "r": 160.665,
+            "b": 662.9439877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "I. RATIOITALE",
+      "text": "I. RATIOITALE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.12,
+            "t": 649.0569877929688,
+            "r": 517.29,
+            "b": 587.7629877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "The Department  of Education (DepEd) fervenfly  believes that the core of quality basic education is a vibrant and quality teaching  worldorce.  With this commitment, it is imperative  to build a work environment  for teachers that upholds and protects their welfare. This shall include  measures to protect the workload  and working hours of teachers.",
+      "text": "The Department  of Education (DepEd) fervenfly  believes that the core of quality basic education is a vibrant and quality teaching  worldorce.  With this commitment, it is imperative  to build a work environment  for teachers that upholds and protects their welfare. This shall include  measures to protect the workload  and working hours of teachers."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.48,
+            "t": 573.4569877929688,
+            "r": 517.191,
+            "b": 462.0189877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            721
+          ]
+        }
+      ],
+      "orig": "Reports and studies have indicated that teachers are being assigned additional tasks that shift their focus from teaching.  The 2018 Teacher  Workload  Balalce Study identifred  approximately fifty (50) common  ancillaqr services  assigned to teachers in addition  to their regular teaching  load. These extra duties are often the result of understaffed  schools  being unable to provide  sufficient support services. The absence of standardized guidelines and a mechanism to review these tasks further compounds the issue. Research from various institutions suggests that the increase in administrative  assignments  signilicantly impacts teacher workload,  ultimately  affecting teaching quality and teacher well-being.",
+      "text": "Reports and studies have indicated that teachers are being assigned additional tasks that shift their focus from teaching.  The 2018 Teacher  Workload  Balalce Study identifred  approximately fifty (50) common  ancillaqr services  assigned to teachers in addition  to their regular teaching  load. These extra duties are often the result of understaffed  schools  being unable to provide  sufficient support services. The absence of standardized guidelines and a mechanism to review these tasks further compounds the issue. Research from various institutions suggests that the increase in administrative  assignments  signilicantly impacts teacher workload,  ultimately  affecting teaching quality and teacher well-being."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.12,
+            "t": 447.81598779296877,
+            "r": 518.745,
+            "b": 361.2189877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            531
+          ]
+        }
+      ],
+      "orig": "Through this Order, the Department  aims to remove the administrative tasks of teachers  to enable them to maximiz€  their time in actual classroom  teaching. With this endeavor, they shall be able to focus on the teaching and leaming process  and become effective  facilitators  of learning. Furthermore, this initiative by the Department shall help protect and uplift the welfare and wellbeing of public school  teachers  to support them to teach better which in turn shall rea-lize quality  learning among the Filipino learners.",
+      "text": "Through this Order, the Department  aims to remove the administrative tasks of teachers  to enable them to maximiz€  their time in actual classroom  teaching. With this endeavor, they shall be able to focus on the teaching and leaming process  and become effective  facilitators  of learning. Furthermore, this initiative by the Department shall help protect and uplift the welfare and wellbeing of public school  teachers  to support them to teach better which in turn shall rea-lize quality  learning among the Filipino learners."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.32,
+            "t": 352.4009877929688,
+            "r": 134.41,
+            "b": 334.36298779296885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "II. scoPE",
+      "text": "II. scoPE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.48,
+            "t": 321.8159877929688,
+            "r": 516.816,
+            "b": 298.21898779296885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "This DepEd Order provides  guidelines on the immediate removal  of administrative tasks of public  school teachers.",
+      "text": "This DepEd Order provides  guidelines on the immediate removal  of administrative tasks of public  school teachers."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.48,
+            "t": 284.3759877929688,
+            "r": 517.44,
+            "b": 248.2829877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "This Order covers all DepEd-employed teachers engaged in classroom teaching, on a fuIl-time basis, under permanent, provisional,  or substitute status in all public elementary and seconda4r  schools.",
+      "text": "This Order covers all DepEd-employed teachers engaged in classroom teaching, on a fuIl-time basis, under permanent, provisional,  or substitute status in all public elementary and seconda4r  schools."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.48,
+            "t": 234.33698779296878,
+            "r": 517.207,
+            "b": 197.67598779296873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "This policy  shall be implemented  across  all governance levels. The guidelines, parameters,  and processes  outlined  herein shall guide DepEd schools, Schools Division Offrces (SDOs),  Regional Offices  (ROs), and Central  OIIice  (CO).",
+      "text": "This policy  shall be implemented  across  all governance levels. The guidelines, parameters,  and processes  outlined  herein shall guide DepEd schools, Schools Division Offrces (SDOs),  Regional Offices  (ROs), and Central  OIIice  (CO)."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.36,
+            "t": 186.8069877929688,
+            "r": 228.17,
+            "b": 171.54398779296878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "III. DEFINITION  OF TERMS",
+      "text": "III. DEFINITION  OF TERMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 97.56,
+            "t": 158.01798779296882,
+            "r": 431.234,
+            "b": 147.84298779296876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "For this purpose, the following  terms shall be defined as follows:",
+      "text": "For this purpose, the following  terms shall be defined as follows:"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 97.2,
+            "t": 135.3309877929688,
+            "r": 513.12,
+            "b": 85.09898779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "a. Adminlstratlve tasts refer to tasks related to the effective and eflicient operations  of schools or programs,  projects,  and services which are not directly related to teaching and academic  learning.  These shall be performed by School  Heads and non-teaching  personnel.",
+      "text": "Adminlstratlve tasts refer to tasks related to the effective and eflicient operations  of schools or programs,  projects,  and services which are not directly related to teaching and academic  learning.  These shall be performed by School  Heads and non-teaching  personnel.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 450.0,
+            "t": 831.5699877929688,
+            "r": 464.175,
+            "b": 817.6949877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "EI",
+      "text": "EI"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.04,
+            "t": 829.7709877929688,
+            "r": 513.742,
+            "b": 816.3579877929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "EI",
+      "text": "EI"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 519.12,
+            "t": 818.5109877929688,
+            "r": 576.46,
+            "b": 758.8479877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "*i:",
+      "text": "*i:"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.8,
+            "t": 786.5809877929688,
+            "r": 505.777,
+            "b": 777.7929877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "E,",
+      "text": "E,"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 492.48,
+            "t": 779.0199877929688,
+            "r": 506.1,
+            "b": 769.7699877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "b='",
+      "text": "b='"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 543.6666666666666,
+            "t": 830.1333211263021,
+            "r": 554.3333333333334,
+            "b": 823.4666544596354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 518.2528637223655,
+            "t": 824.2229546488395,
+            "r": 544.0804696109678,
+            "b": 818.7103542704314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 448.56,
+            "t": 785.8379877929688,
+            "r": 481.554,
+            "b": 766.4129877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "E r",
+      "text": "E r"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.4,
+            "t": 752.0100024414062,
+            "r": 510.234,
+            "b": 701.0600024414061,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "b. I[oa-Teachlng PeEonaoll refer to those occupying  non-teaching  positions whose primary duties and responsibilities contribute  to the delivery of basic education services and achievement  of agenry outcomes,  but neither involve nor directly support  the actual  conduct  of teaching or delivery of instruction.",
+      "text": "I[oa-Teachlng PeEonaoll refer to those occupying  non-teaching  positions whose primary duties and responsibilities contribute  to the delivery of basic education services and achievement  of agenry outcomes,  but neither involve nor directly support  the actual  conduct  of teaching or delivery of instruction.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.4,
+            "t": 689.7280024414061,
+            "r": 511.524,
+            "b": 638.1630024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "c. School Headlz refer to persons responsible  for the administrative and instructional supervision  of the school or cluster of schools as provided  for in RA No. 9155. For the purpose of this policy, a duly designated  Teacher-inCharge  (TIC) is considered  as a School Head.",
+      "text": "School Headlz refer to persons responsible  for the administrative and instructional supervision  of the school or cluster of schools as provided  for in RA No. 9155. For the purpose of this policy, a duly designated  Teacher-inCharge  (TIC) is considered  as a School Head.",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.76,
+            "t": 626.0140024414062,
+            "r": 511.594,
+            "b": 574.8530024414061,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "d. Tcachorc refer to those occupying teaching  Positions  directly engaged  in teaching or delivery  of instruction  in the elementar5r and seconda4r levels $unior  high school and senior high school) in schools and Community learning Centers (CLCs).",
+      "text": "Tcachorc refer to those occupying teaching  Positions  directly engaged  in teaching or delivery  of instruction  in the elementar5r and seconda4r levels $unior  high school and senior high school) in schools and Community learning Centers (CLCs).",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.0,
+            "t": 564.0870024414062,
+            "r": 210.012,
+            "b": 548.8250024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "IV. FOLICY STATE}IEI|T",
+      "text": "IV. FOLICY STATE}IEI|T",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.76,
+            "t": 538.1750024414061,
+            "r": 518.385,
+            "b": 486.75600244140617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "This DepEd Order aims to enable teachers  to focus on their core function of teaching through the removal of administrative  tasks assiSned to teachers. This Order shall ensure that teachers'workload and working  hours are maximized for actual classroom teaching and tasks incidental to their normal  teaching duties.",
+      "text": "This DepEd Order aims to enable teachers  to focus on their core function of teaching through the removal of administrative  tasks assiSned to teachers. This Order shall ensure that teachers'workload and working  hours are maximized for actual classroom teaching and tasks incidental to their normal  teaching duties."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.68,
+            "t": 475.8870024414062,
+            "r": 275.976,
+            "b": 460.6250024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "V. GIIIDELIITES AIID PROCEDURES",
+      "text": "V. GIIIDELIITES AIID PROCEDURES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.48,
+            "t": 448.8920024414062,
+            "r": 299.124,
+            "b": 435.9420024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "A. Rcnoval of Adminlstratlve  Tasks",
+      "text": "A. Rcnoval of Adminlstratlve  Tasks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 115.92,
+            "t": 425.8470024414062,
+            "r": 518.271,
+            "b": 348.6200024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "l.  Administrative tasks shall be removed from the workload of teachers, without prejudice to the teacher  ancillary tasks as defined by other DepEd issuances.  Accordingly, School Heads and non-teaching personnel shall have the sole responsibility to  perform the administrative tasks enumerated  hereunder.  These tasks shall include, but are not limited to the following:",
+      "text": " Administrative tasks shall be removed from the workload of teachers, without prejudice to the teacher  ancillary tasks as defined by other DepEd issuances.  Accordingly, School Heads and non-teaching personnel shall have the sole responsibility to  perform the administrative tasks enumerated  hereunder.  These tasks shall include, but are not limited to the following:",
+      "enumerated": true,
+      "marker": "l."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.84,
+            "t": 336.5700024414062,
+            "r": 280.164,
+            "b": 322.69500244140613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "a. PersonnelAdministration",
+      "text": "PersonnelAdministration",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.84,
+            "t": 312.08800244140616,
+            "r": 316.704,
+            "b": 297.2880024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "c. General Administrative Support",
+      "text": "General Administrative Support",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.84,
+            "t": 324.32900244140615,
+            "r": 373.392,
+            "b": 309.99200244140616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "b. Property/Physical  Facilities  Custodianship",
+      "text": "Property/Physical  Facilities  Custodianship",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 133.2,
+            "t": 299.1300024414062,
+            "r": 266.876,
+            "b": 285.2550024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "d. Financial Management",
+      "text": "Financial Management",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 133.2,
+            "t": 275.00700244140626,
+            "r": 265.474,
+            "b": 259.7450024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "f.  Program  Management",
+      "text": " Program  Management",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 133.2,
+            "t": 286.8890024414062,
+            "r": 262.954,
+            "b": 272.5520024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "e. Records Management",
+      "text": "Records Management",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 158.76,
+            "t": 262.76700244140625,
+            "r": 212.183,
+            "b": 247.50400244140621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "i.  Feeding",
+      "text": " Feeding",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 158.76,
+            "t": 247.29400244140618,
+            "r": 243.589,
+            "b": 235.2690024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "ii. School  DRRM",
+      "text": "School  DRRM",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.12,
+            "t": 235.0570024414062,
+            "r": 296.605,
+            "b": 223.0290024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "iii. Other related programs",
+      "text": "Other related programs",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 116.64,
+            "t": 211.29700244140622,
+            "r": 519.265,
+            "b": 185.18000244140626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "2. To augment the non-teaching  personnel  requirements  of schools, the following  measures  may be implemented:",
+      "text": "To augment the non-teaching  personnel  requirements  of schools, the following  measures  may be implemented:",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.28,
+            "t": 174.21500244140623,
+            "r": 519.749,
+            "b": 135.14000244140618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "a. SDOs may cluster deployed non-teaching  personnel  in accordance with the deployment  Patameters  issued by the Bureau of Human Resource and Organizational  Development (BHROD); and",
+      "text": "SDOs may cluster deployed non-teaching  personnel  in accordance with the deployment  Patameters  issued by the Bureau of Human Resource and Organizational  Development (BHROD); and",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.08,
+            "t": 120.93800244140618,
+            "r": 513.522,
+            "b": 95.13000244140619,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "I DepEd Order No. 007, s. 2023 or the Guidelines  on the Recruitment Selection,  and Appointment  in the Departnent of Education",
+      "text": "I DepEd Order No. 007, s. 2023 or the Guidelines  on the Recruitment Selection,  and Appointment  in the Departnent of Education"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.44,
+            "t": 95.0240024414062,
+            "r": 398.736,
+            "b": 85.97700244140617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "z  Republic Act No. 9155 or the fuvernance  of Basic  Education  Act of 2001",
+      "text": "z  Republic Act No. 9155 or the fuvernance  of Basic  Education  Act of 2001"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.4,
+            "t": 764.9690024414062,
+            "r": 518.745,
+            "b": 713.5560024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "b. SDOs and schools may hire personnel under Contract  of Service (COS) or Job Order (JO) which may be charged either against Maintenance and Other Operating Expenses  (MOOE)  or other alternative sources of funding.",
+      "text": "SDOs and schools may hire personnel under Contract  of Service (COS) or Job Order (JO) which may be charged either against Maintenance and Other Operating Expenses  (MOOE)  or other alternative sources of funding.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 96.12,
+            "t": 700.8920024414062,
+            "r": 230.804,
+            "b": 687.9420024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "B. Tools and Procedurea",
+      "text": "B. Tools and Procedurea",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.56,
+            "t": 677.8470024414062,
+            "r": 516.828,
+            "b": 600.8270024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        }
+      ],
+      "orig": "1 . To provide guidance and fi.rttrer details  for the implementation  of this policy, the O{Iice of the Undersecretarlr  for Human  Resource arrd Organizational Development (OUHROD)  shall provide  all necessar5r tools and procedures through a strand Memorandum,  particularly  on clustering of schools  and provision  of additional MOOE for the hiring of COS/JO personnel, if necessaqz.",
+      "text": "1 . To provide guidance and fi.rttrer details  for the implementation  of this policy, the O{Iice of the Undersecretarlr  for Human  Resource arrd Organizational Development (OUHROD)  shall provide  all necessar5r tools and procedures through a strand Memorandum,  particularly  on clustering of schools  and provision  of additional MOOE for the hiring of COS/JO personnel, if necessaqz.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.12,
+            "t": 587.8510024414062,
+            "r": 517.116,
+            "b": 550.3230024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "2. The relevance and applicability  of the tools and procedures  shall be subjected to periodic  review and adjustments by OUHROD as may be necessary.",
+      "text": "The relevance and applicability  of the tools and procedures  shall be subjected to periodic  review and adjustments by OUHROD as may be necessary.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 96.48,
+            "t": 536.7330024414061,
+            "r": 258.545,
+            "b": 524.2460024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "C. Roles and Responsibilities",
+      "text": "C. Roles and Responsibilities",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.56,
+            "t": 511.89300244140617,
+            "r": 208.69,
+            "b": 499.2530024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "1. Certral OfIice",
+      "text": "1. Certral OfIice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.4,
+            "t": 486.6930024414062,
+            "r": 516.987,
+            "b": 462.0200024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "OITHROD  throuSh the Bureeu of Huma! Re3ource  aad Orgarfzatio[el DcYGlopmcnt  (BHRODI:",
+      "text": "OITHROD  throuSh the Bureeu of Huma! Re3ource  aad Orgarfzatio[el DcYGlopmcnt  (BHRODI:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.04,
+            "t": 450.3290024414062,
+            "r": 516.888,
+            "b": 423.9630024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "a. Conducts policy orientation and capacity-building to field ollices as deemed necessary;",
+      "text": "Conducts policy orientation and capacity-building to field ollices as deemed necessary;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.4,
+            "t": 400.2880024414062,
+            "r": 516.533,
+            "b": 361.2200024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "c. Periodically  assesses  and reviews  the implementing guidelines based on gathered  reports and results  of monitoring and evaluation; and",
+      "text": "Periodically  assesses  and reviews  the implementing guidelines based on gathered  reports and results  of monitoring and evaluation; and",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.4,
+            "t": 424.7700024414062,
+            "r": 517.218,
+            "b": 399.0200024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "b. Monitors  and evaluates  compliance  with this Order and provides appropriate  and timely technical assistance to field offices;",
+      "text": "Monitors  and evaluates  compliance  with this Order and provides appropriate  and timely technical assistance to field offices;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.4,
+            "t": 362.1290024414062,
+            "r": 517.465,
+            "b": 336.4830024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "d. Provides supplementar5r  tools to enhance  the implementation  of the Policy.",
+      "text": "Provides supplementar5r  tools to enhance  the implementation  of the Policy.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.84,
+            "t": 323.6110024414062,
+            "r": 221.304,
+            "b": 310.1980024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2. Regional Offices",
+      "text": "2. Regional Offices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.76,
+            "t": 297.69400244140616,
+            "r": 302.18,
+            "b": 285.6690024414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Ofilce of the Regtoaal Dlrector",
+      "text": "Ofilce of the Regtoaal Dlrector",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.76,
+            "t": 261.6890024414063,
+            "r": 516.186,
+            "b": 235.58000244140624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "b. Prepares a regional implementation  plan to support the objectives of this  policy;  and",
+      "text": "Prepares a regional implementation  plan to support the objectives of this  policy;  and",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.4,
+            "t": 286.8890024414062,
+            "r": 519.105,
+            "b": 260.78000244140617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "a. Ensures overall adherence  of the SDOs  and evaluates  the impact  of the implementing  guidelines of the Poliry;",
+      "text": "Ensures overall adherence  of the SDOs  and evaluates  the impact  of the implementing  guidelines of the Poliry;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.76,
+            "t": 236.84800244140615,
+            "r": 516.551,
+            "b": 210.37900244140621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "c. Prepares and submits reports ald provides recommendations regarding this policy.",
+      "text": "Prepares and submits reports ald provides recommendations regarding this policy.",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 132.12,
+            "t": 196.89500244140618,
+            "r": 355.967,
+            "b": 184.86900244140622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Admlniatratlve Unit  -  Perromel  Section",
+      "text": "Admlniatratlve Unit  -  Perromel  Section",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.76,
+            "t": 186.08900244140614,
+            "r": 518.472,
+            "b": 115.18700244140621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "a. Monitors  and evaluates  compliance  with this Order, in coordination with the Policy, Planning  and Research Division, by conducting workload audit through the checking of the consolidated report on eSFT (School Personnel Assignment List and Basic Profile) of the SDO.",
+      "text": "Monitors  and evaluates  compliance  with this Order, in coordination with the Policy, Planning  and Research Division, by conducting workload audit through the checking of the consolidated report on eSFT (School Personnel Assignment List and Basic Profile) of the SDO.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 130.68,
+            "t": 761.0149536132812,
+            "r": 369.027,
+            "b": 747.4459536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Fleld Tcchnlcd  Ald.tilcG lltvtrtoa  lfTADl",
+      "text": "Fleld Tcchnlcd  Ald.tilcG lltvtrtoa  lfTADl",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 148.32,
+            "t": 750.5689536132812,
+            "r": 515.63,
+            "b": 712.6829536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "a. Provides appropriate  technical assistance,  through its composite team, to enhance the capacit5r  of their SDOs in addressing  school concerns.",
+      "text": "Provides appropriate  technical assistance,  through its composite team, to enhance the capacit5r  of their SDOs in addressing  school concerns.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.76,
+            "t": 700.1699536132812,
+            "r": 265.176,
+            "b": 686.2949536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "3. Schoola  Divlcloa  OIIlcee",
+      "text": "3. Schoola  Divlcloa  OIIlcee",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.04,
+            "t": 674.2529536132813,
+            "r": 383.917,
+            "b": 661.6129536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Olnce of thc Schools Dlvlslon  Supcrlate[dert",
+      "text": "Olnce of thc Schools Dlvlslon  Supcrlate[dert",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.4,
+            "t": 637.1699536132812,
+            "r": 518.385,
+            "b": 574.0829536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "b. Coordinates  with the Local Government Unit (LGU) and endeavors that schools without  non-teaching  items shall be provided  with locally-hired personnel pending  the completion  of the Guidelines on ttre School Organizational Structure and Staffing Standards and deployment  of school-based  non-teaching  personnel;",
+      "text": "Coordinates  with the Local Government Unit (LGU) and endeavors that schools without  non-teaching  items shall be provided  with locally-hired personnel pending  the completion  of the Guidelines on ttre School Organizational Structure and Staffing Standards and deployment  of school-based  non-teaching  personnel;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.04,
+            "t": 663.0889536132813,
+            "r": 516.745,
+            "b": 636.9799536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "a. Ensures  overall adherence of schools and evaluates the impact of the implementing  guidelines of the Policy;",
+      "text": "Ensures  overall adherence of schools and evaluates the impact of the implementing  guidelines of the Policy;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.4,
+            "t": 559.7759536132812,
+            "r": 417.148,
+            "b": 547.1869536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "School Governancc attd Operetlons  lXvlslon  {SGODI",
+      "text": "School Governancc attd Operetlons  lXvlslon  {SGODI",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.76,
+            "t": 511.52995361328124,
+            "r": 517.512,
+            "b": 485.77995361328124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "b. Orients, capacitates, and provides appropriate  and timely technical assistance to school  personnel on the implementation  of this Order;",
+      "text": "Orients, capacitates, and provides appropriate  and timely technical assistance to school  personnel on the implementation  of this Order;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.4,
+            "t": 549.6889536132812,
+            "r": 516.914,
+            "b": 510.87595361328124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "a. Revisits  SDO functions and processes  requiring  reports and creating administrative  tasks for teachers  and identifies  measures  to remove other tasks assigned  to teachers;",
+      "text": "Revisits  SDO functions and processes  requiring  reports and creating administrative  tasks for teachers  and identifies  measures  to remove other tasks assigned  to teachers;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.76,
+            "t": 487.4079536132813,
+            "r": 517.105,
+            "b": 460.8359536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "c. Addresses school queries and concerns in  relation to  the implementation of this policy;",
+      "text": "Addresses school queries and concerns in  relation to  the implementation of this policy;",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.76,
+            "t": 449.2489536132813,
+            "r": 518.745,
+            "b": 423.03595361328127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "e. Provides technical  assistance  to schools based  on the results of monitoring and evaluation.",
+      "text": "Provides technical  assistance  to schools based  on the results of monitoring and evaluation.",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.76,
+            "t": 461.84895361328125,
+            "r": 463.062,
+            "b": 447.51195361328126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "d. Monitors  and evaluates the compliance with this Order; and",
+      "text": "Monitors  and evaluates the compliance with this Order; and",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.4,
+            "t": 410.01295361328124,
+            "r": 345.907,
+            "b": 397.52495361328124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Admidctratlvc  Unlt-Pcrcomcl  Scctloa",
+      "text": "Admidctratlvc  Unlt-Pcrcomcl  Scctloa",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.76,
+            "t": 398.84895361328125,
+            "r": 517.589,
+            "b": 347.64295361328124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "a. Ensures strict compliance with the deployment and prescribed workload for school-based  personnel by conducting personnel and workload  audits in coordination with the Planning and Research Section.",
+      "text": "Ensures strict compliance with the deployment and prescribed workload for school-based  personnel by conducting personnel and workload  audits in coordination with the Planning and Research Section.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.84,
+            "t": 335.8499536132813,
+            "r": 174.804,
+            "b": 321.9749536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "4. Schools",
+      "text": "4. Schools",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 132.12,
+            "t": 310.64895361328126,
+            "r": 519.465,
+            "b": 285.0029536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "a. School Heads ensure strict compliance with the prescribed  workload  of teachers  using eSFT; and",
+      "text": "School Heads ensure strict compliance with the prescribed  workload  of teachers  using eSFT; and",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 132.12,
+            "t": 285.80895361328135,
+            "r": 518.05,
+            "b": 259.80295361328126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "b. Strengthens  monitoring  and evaluation of the implementation of this Order.",
+      "text": "Strengthens  monitoring  and evaluation of the implementation of this Order.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 97.56,
+            "t": 246.21395361328132,
+            "r": 236.256,
+            "b": 234.18895361328123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "D. Grievance Mechaniam",
+      "text": "D. Grievance Mechaniam",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.84,
+            "t": 221.37495361328126,
+            "r": 519.465,
+            "b": 159.46695361328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "Concerns, complaints, and/or violations arising from the implementation of this policy shall be addressed  through  the grievance  machinery  provided under DO No. 35, s. 2OO4 (Reuision of the Gieuance  Machineries  of the Department  ofEducation)or  perlinent rules on administrative cases in the civil service.",
+      "text": "Concerns, complaints, and/or violations arising from the implementation of this policy shall be addressed  through  the grievance  machinery  provided under DO No. 35, s. 2OO4 (Reuision of the Gieuance  Machineries  of the Department  ofEducation)or  perlinent rules on administrative cases in the civil service."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.44,
+            "t": 148.2869536132813,
+            "r": 277.524,
+            "b": 133.02495361328124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "VI. MONITORING A]TD EVALUATIOil",
+      "text": "VI. MONITORING A]TD EVALUATIOil",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 97.56,
+            "t": 120.21695361328125,
+            "r": 518.502,
+            "b": 96.72295361328122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.4,
+            "t": 761.3769536132812,
+            "r": 515.617,
+            "b": 736.8029536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            160,
+            272
+          ]
+        }
+      ],
+      "orig": "The Department  of Education,  through the BHROD,  shall monitor, evaluate, and review the implementation  of this policy. Furthermore, BHROD-SED  shall gather feedback on the implementation of these guidelines from concemed  personnel across different  govemance  levels.",
+      "text": "The Department  of Education,  through the BHROD,  shall monitor, evaluate, and review the implementation  of this policy. Furthermore, BHROD-SED  shall gather feedback on the implementation of these guidelines from concemed  personnel across different  govemance  levels."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.4,
+            "t": 725.0170170898438,
+            "r": 516.025,
+            "b": 688.1000170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Anchored  on the principles  of decentralization  and shared governance,  the Department aims to empower the field offtces in terms of monitoring  and evaluating  policy implementation  and providing technical  assistance.",
+      "text": "Anchored  on the principles  of decentralization  and shared governance,  the Department aims to empower the field offtces in terms of monitoring  and evaluating  policy implementation  and providing technical  assistance."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 57.96,
+            "t": 677.1270170898437,
+            "r": 207.598,
+            "b": 661.8650170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "VII. REPEALINGCLAUSE",
+      "text": "VII. REPEALINGCLAUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.76,
+            "t": 651.5680170898437,
+            "r": 515.667,
+            "b": 612.5000170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this order are hereby rescinded or modifted accordingly.",
+      "text": "All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this order are hereby rescinded or modifted accordingly."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 54.0,
+            "t": 601.5270170898438,
+            "r": 223.943,
+            "b": 586.2650170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "V[I. SEPARABILITYCI.AUSE",
+      "text": "V[I. SEPARABILITYCI.AUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 96.12,
+            "t": 574.1770170898437,
+            "r": 516.702,
+            "b": 537.0530170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "If any provision of this Order is declared invalid  or unenforceable  by competent authority  or the Courts, all other provisions  not alfected  shall remain in force and in effect.",
+      "text": "If any provision of this Order is declared invalid  or unenforceable  by competent authority  or the Courts, all other provisions  not alfected  shall remain in force and in effect."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 63.0,
+            "t": 525.9270170898437,
+            "r": 234.143,
+            "b": 510.66501708984373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "IX. TRANSITORYPROVISION",
+      "text": "IX. TRANSITORYPROVISION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 96.12,
+            "t": 498.9370170898437,
+            "r": 516.909,
+            "b": 461.3000170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "To ensure the smooth and effective implementation of this Order, the SDOs shall immediately implement  the following within a period not exceeding sixty (60) calendar days:",
+      "text": "To ensure the smooth and effective implementation of this Order, the SDOs shall immediately implement  the following within a period not exceeding sixty (60) calendar days:"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 96.84,
+            "t": 448.5370170898437,
+            "r": 519.105,
+            "b": 411.2600170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "a. Clustering Strategies  - Schools without existing or suJficient non-teaching personnel shall be clustered,  with each cluster being  composed of a maximum of three (3) schools;",
+      "text": "Clustering Strategies  - Schools without existing or suJficient non-teaching personnel shall be clustered,  with each cluster being  composed of a maximum of three (3) schools;",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 97.2,
+            "t": 398.8560170898437,
+            "r": 518.004,
+            "b": 373.4600170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "b. Deploy administrative  support  personnel  to perform administrative  tasks for the clustered  schools;",
+      "text": "Deploy administrative  support  personnel  to perform administrative  tasks for the clustered  schools;",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 97.2,
+            "t": 360.6970170898437,
+            "r": 518.304,
+            "b": 335.7630170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "c. Immediately  transfer arrd turnover  existing  administrative tasks performed by teachers  to school  heads and non-teaching  personnel; and",
+      "text": "Immediately  transfer arrd turnover  existing  administrative tasks performed by teachers  to school  heads and non-teaching  personnel; and",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 97.56,
+            "t": 321.46001708984363,
+            "r": 438.52,
+            "b": 310.10001708984373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "d. Hire additional Administrative Support  personnel, if necessar5r.",
+      "text": "Hire additional Administrative Support  personnel, if necessar5r.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 97.2,
+            "t": 298.41601708984376,
+            "r": 518.46,
+            "b": 272.91601708984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "The RO and SDO concemed  shall provide schools with the necessa-ry  support during this transition  period.",
+      "text": "The RO and SDO concemed  shall provide schools with the necessa-ry  support during this transition  period."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 98.28,
+            "t": 260.25701708984366,
+            "r": 518.76,
+            "b": 222.51601708984367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "In view of the ongoing  study on the School Organizational  Structure and StaIling Standards, provisions that may be found inconsistent with its implementation shall be subject  to further review.",
+      "text": "In view of the ongoing  study on the School Organizational  Structure and StaIling Standards, provisions that may be found inconsistent with its implementation shall be subject  to further review."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.76,
+            "t": 211.64701708984376,
+            "r": 173.853,
+            "b": 196.3850170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": ")(. EFFE TTUTY",
+      "text": ")(. EFFE TTUTY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 98.28,
+            "t": 184.65701708984375,
+            "r": 519.265,
+            "b": 134.7790170898437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "This DepEd Order shall take effect immediately  upon its approval, issuance, and publication  on its website. Certifred copies of this Order shall be registered with the Offrce of the National Administrative  Register  (ONAR) at the University of the Philippines  law Center (UP LC), UP Diliman,  Quezon  City.",
+      "text": "This DepEd Order shall take effect immediately  upon its approval, issuance, and publication  on its website. Certifred copies of this Order shall be registered with the Offrce of the National Administrative  Register  (ONAR) at the University of the Philippines  law Center (UP LC), UP Diliman,  Quezon  City."
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 65.16,
+            "t": 123.80701708984373,
+            "r": 176.011,
+            "b": 108.54501708984367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "XI. REFEREITCES",
+      "text": "XI. REFEREITCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 100.44,
+            "t": 97.53101708984377,
+            "r": 520.01,
+            "b": 84.11901708984374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "1. Depa-rtment of Education.  (20231. DepEd Order No. OO7, s. 2o23 or the",
+      "text": "Depa-rtment of Education.  (20231. DepEd Order No. OO7, s. 2o23 or the",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.48,
+            "t": 760.6569536132813,
+            "r": 517.636,
+            "b": 737.0599536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Guidelines  on the Recnitment,  *lection, and Appointment in tte Department of Education",
+      "text": "Guidelines  on the Recnitment,  *lection, and Appointment in tte Department of Education"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.48,
+            "t": 700.5289536132813,
+            "r": 517.775,
+            "b": 662.2829536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "3. Department of Education.  l2OO8l.  DepEd Memomndum No. 291, s. 2OO8  Guidelines  for  the Implementation  of CSC Resolution No. O8OO96 on Working Hours  for  Public Sctaol Teachers",
+      "text": "Department of Education.  l2OO8l.  DepEd Memomndum No. 291, s. 2OO8  Guidelines  for  the Implementation  of CSC Resolution No. O8OO96 on Working Hours  for  Public Sctaol Teachers",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.48,
+            "t": 738.3289536132812,
+            "r": 519.939,
+            "b": 699.9299536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "2. Department  of Education. (2OO9l.  DepEd Order No. 16, s. 2OO9  - Add.endum to DepEd Memorandum  No. 291, s. 2OO8 (Guidelines  for  the Implementation  of CSC Resolufion No. O8OO96  on Working Hours  for  Public Sctaol Teachers)",
+      "text": "Department  of Education. (2OO9l.  DepEd Order No. 16, s. 2OO9  - Add.endum to DepEd Memorandum  No. 291, s. 2OO8 (Guidelines  for  the Implementation  of CSC Resolufion No. O8OO96  on Working Hours  for  Public Sctaol Teachers)",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.48,
+            "t": 663.0889536132813,
+            "r": 517.164,
+            "b": 636.4129536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "4. Civil Service Commission.  (2O08).  CSC Resolution No. O8OO96 dated January 28,2008",
+      "text": "Civil Service Commission.  (2O08).  CSC Resolution No. O8OO96 dated January 28,2008",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.84,
+            "t": 600.8069536132813,
+            "r": 520.299,
+            "b": 574.0829536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "6.  Department  of Education. (2OOal.  DepEd  Order No. 35, s. 2OO4  -  Revision of the Grieuane Machineies  of *e Department of Education",
+      "text": " Department  of Education. (2OOal.  DepEd  Order No. 35, s. 2OO4  -  Revision of the Grieuane Machineies  of *e Department of Education",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.84,
+            "t": 637.1699536132812,
+            "r": 516.528,
+            "b": 599.0759536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "5. Department of Education.  l2OO5l.  DepEd Order No. 9, s. 2OOS  -  lnstituting Measures  to Increase Engoged Time-on-Task  and Ensuing Compliane Thereuith",
+      "text": "Department of Education.  l2OO5l.  DepEd Order No. 9, s. 2OOS  -  lnstituting Measures  to Increase Engoged Time-on-Task  and Ensuing Compliane Thereuith",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.84,
+            "t": 574.8889536132813,
+            "r": 516.037,
+            "b": 548.6219536132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "7. Official Gazette of the Philippines.  (20O1). Republic  Act No. 9155 - Governance of Basic  Education  Act of 2OO I",
+      "text": "Official Gazette of the Philippines.  (20O1). Republic  Act No. 9155 - Governance of Basic  Education  Act of 2OO I",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 96.84,
+            "t": 550.4069536132813,
+            "r": 516.747,
+            "b": 523.7869536132813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "8.  Oflicial Gazette  of the Philippines. (1966). Republic  Ad No. 467O - The Magna Carta  for  Public *ftool Teachers",
+      "text": " Oflicial Gazette  of the Philippines. (1966). Republic  Ad No. 467O - The Magna Carta  for  Public *ftool Teachers",
+      "enumerated": true,
+      "marker": "8."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94273376464844,
+            "t": 77.12054443359375,
+            "r": 374.7731628417969,
+            "b": 57.933349609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 377.88934326171875,
+            "t": 78.76202392578125,
+            "r": 484.2499084472656,
+            "b": 58.18536376953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 486.2928466796875,
+            "t": 76.49298095703125,
+            "r": 570.9738159179688,
+            "b": 58.199951171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 205.3070068359375,
+            "t": 806.508358001709,
+            "r": 387.7740783691406,
+            "b": 703.8414459228516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.24887084960938,
+            "t": 770.1708450317383,
+            "r": 516.446044921875,
+            "b": 730.2365264892578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.9383239746094,
+            "t": 667.6147155761719,
+            "r": 371.962646484375,
+            "b": 601.0204010009766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 375.2464294433594,
+            "t": 664.6889801025391,
+            "r": 434.8080139160156,
+            "b": 605.2802124023438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 447.1881103515625,
+            "t": 836.1685562133789,
+            "r": 577.7997436523438,
+            "b": 770.3409118652344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.0,
+        "height": 846.3599853515625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 596.1599731445312,
+        "height": 847.7999877929688
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 596.1599731445312,
+        "height": 847.7999877929688
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 596.1599731445312,
+        "height": 847.4400024414062
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 847.4400024414062
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.0,
+        "height": 845.6399536132812
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 594.7200317382812,
+        "height": 847.0800170898438
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 594.7200317382812,
+        "height": 845.6399536132812
+      },
+      "page_no": 8
+    }
+  }
+}

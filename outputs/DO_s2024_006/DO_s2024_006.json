@@ -1,0 +1,4643 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2024_006",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7992036022657272010,
+    "filename": "DO_s2024_006.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/tables/4"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/122"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 671.4000244140625,
+            "r": 167.0,
+            "b": 645.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "DepEd ORDER No. 006 s. 2024",
+      "text": "DepEd ORDER No. 006 s. 2024"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.3333333333333,
+            "t": 680.7333577473959,
+            "r": 512.3333333333334,
+            "b": 665.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "MAY 1 6 2024",
+      "text": "MAY 1 6 2024"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.33333333333333,
+            "t": 637.4000244140625,
+            "r": 467.3333333333333,
+            "b": 612.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "ADOPTION OF THE PUBLIC AND PRIVATE BASIC EDUCATION COMPLEMENTARITY FRAMEWORK",
+      "text": "ADOPTION OF THE PUBLIC AND PRIVATE BASIC EDUCATION COMPLEMENTARITY FRAMEWORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 602.4000244140625,
+            "r": 86.66666666666667,
+            "b": 591.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "To:",
+      "text": "To:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.66666666666667,
+            "t": 603.0666910807291,
+            "r": 195.0,
+            "b": 590.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Undersecretaries",
+      "text": "Undersecretaries"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.33333333333333,
+            "t": 590.7333577473959,
+            "r": 215.66666666666666,
+            "b": 578.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Assistant Secretaries",
+      "text": "Assistant Secretaries"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.66666666666667,
+            "t": 579.0666910807292,
+            "r": 406.3333333333333,
+            "b": 564.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Minister, Basic, Higher and Technical Education, BARMM",
+      "text": "Minister, Basic, Higher and Technical Education, BARMM"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 103.66666666666667,
+            "t": 565.7333577473958,
+            "r": 259.6666666666667,
+            "b": 553.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Bureau and Service Directors",
+      "text": "Bureau and Service Directors"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.33333333333333,
+            "t": 553.4000244140625,
+            "r": 202.33333333333334,
+            "b": 540.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Regional Directors",
+      "text": "Regional Directors"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.33333333333333,
+            "t": 541.4000244140625,
+            "r": 281.3333333333333,
+            "b": 527.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Schools Division Superintendents",
+      "text": "Schools Division Superintendents"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.33333333333333,
+            "t": 529.7333577473958,
+            "r": 417.0,
+            "b": 514.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Public and Private Elementary and Secondary School Heads",
+      "text": "Public and Private Elementary and Secondary School Heads"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.33333333333333,
+            "t": 515.7333577473958,
+            "r": 217.33333333333334,
+            "b": 505.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "All Others Concerned",
+      "text": "All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 495.0666910807292,
+            "r": 522.3333333333334,
+            "b": 417.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "1 Pursuant to Section 4 (1), Article IV of the 1987 Philippine Constitution, the Department of Education (DepEd) adopts the enclosed Public and Private Basic Education Complementarity Framework which seeks to promote coherence in the development of the   country's mixed education   system and   provides a basis for developing a shared understanding of the goals of public-private partnership programs and strengthening consensus among stakeholders in public-private education.",
+      "text": "1 Pursuant to Section 4 (1), Article IV of the 1987 Philippine Constitution, the Department of Education (DepEd) adopts the enclosed Public and Private Basic Education Complementarity Framework which seeks to promote coherence in the development of the   country's mixed education   system and   provides a basis for developing a shared understanding of the goals of public-private partnership programs and strengthening consensus among stakeholders in public-private education.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 408.4000244140625,
+            "r": 522.3333333333334,
+            "b": 318.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "2. The Public and Private Basic Education Complementarity Framework is in cognizance with Section 4(1), Article XIV of the 1987 Philippine Constitution, which states that the State   recognizes the   complementarity roles of  public and private institutions in the educational system and shall exercise reasonable supervision and regulation of all educational institutions. The Constitution further stipulates how the State must protect and promote the right of all citizens to quality education at all levels, through appropriate steps to make such education accessible to all.",
+      "text": "The Public and Private Basic Education Complementarity Framework is in cognizance with Section 4(1), Article XIV of the 1987 Philippine Constitution, which states that the State   recognizes the   complementarity roles of  public and private institutions in the educational system and shall exercise reasonable supervision and regulation of all educational institutions. The Constitution further stipulates how the State must protect and promote the right of all citizens to quality education at all levels, through appropriate steps to make such education accessible to all.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 312.73335774739587,
+            "r": 523.3333333333334,
+            "b": 224.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            498
+          ]
+        }
+      ],
+      "orig": "3 . The Public and Private Basic Education Complementarity Framework was developed through a series of consultative workshops participated by stakeholders of both public and private education institutions, and private school associations, guided by policy research, and ensure its alignment with the Basic Education Development Plan (BEDP) 2030 and the DepEd MATATAG Agenda. The following principles and thrusts are provided to guide the application; exercise, and promotion of complementarity: key",
+      "text": "3 . The Public and Private Basic Education Complementarity Framework was developed through a series of consultative workshops participated by stakeholders of both public and private education institutions, and private school associations, guided by policy research, and ensure its alignment with the Basic Education Development Plan (BEDP) 2030 and the DepEd MATATAG Agenda. The following principles and thrusts are provided to guide the application; exercise, and promotion of complementarity: key",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 218.06669108072913,
+            "r": 482.0,
+            "b": 191.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "a. Optimizing the roles of the public and private sectors in basic education,",
+      "text": "Optimizing the roles of the public and private sectors in basic education,",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 168.73335774739587,
+            "r": 482.6666666666667,
+            "b": 141.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "C. Recognition of the inherent value of private education institutions in the education system,",
+      "text": "Recognition of the inherent value of private education institutions in the education system,",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 195.06669108072913,
+            "r": 482.6666666666667,
+            "b": 166.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "b. Mutual understanding by the public and private sectors of their complementary roles,",
+      "text": "Mutual understanding by the public and private sectors of their complementary roles,",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 144.06669108072913,
+            "r": 448.0,
+            "b": 127.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "d Reasonable supervision and regulation of private institutions,",
+      "text": "d Reasonable supervision and regulation of private institutions,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.0,
+            "t": 107.4000244140625,
+            "r": 481.3333333333333,
+            "b": 78.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "f. Equal   regard to the impact of   education   policies and resource allocation decisions on both the public and private sectors, and",
+      "text": "Equal   regard to the impact of   education   policies and resource allocation decisions on both the public and private sectors, and",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 130.06669108072913,
+            "r": 482.3333333333333,
+            "b": 104.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "e Participatory governance to nurture the complementary relationship between public and private institutions,",
+      "text": "e Participatory governance to nurture the complementary relationship between public and private institutions,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 232.66666666666666,
+            "t": 41.06669108072913,
+            "r": 373.3333333333333,
+            "b": 31.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "8633-7208/8633-7228/8632-1361",
+      "text": "8633-7208/8633-7228/8632-1361"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 41.06669108072913,
+            "r": 485.3333333333333,
+            "b": 31.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.3333333333333,
+            "t": 810.7333577473959,
+            "r": 303.0,
+            "b": 804.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.0,
+            "t": 782.7333577473959,
+            "r": 326.3333333333333,
+            "b": 772.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.0,
+            "t": 754.7333577473959,
+            "r": 302.3333333333333,
+            "b": 749.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 300.400849259057,
+            "t": 761.1219777098937,
+            "r": 323.26581740760963,
+            "b": 754.6780711182313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "PILIPINAS",
+      "text": "PILIPINAS"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 279.4882374241426,
+            "t": 761.0423696871492,
+            "r": 293.17842924252403,
+            "b": 747.7576791409758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "UBLIKA",
+      "text": "UBLIKA"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 498.3333333333333,
+            "t": 41.06669108072913,
+            "r": 574.0,
+            "b": 29.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "wwW.deped-gov.ph",
+      "text": "wwW.deped-gov.ph"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 15.333333333333334,
+            "t": 43.06669108072913,
+            "r": 215.33333333333334,
+            "b": 30.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig 1600 City",
+      "text": "DepEd Complex, Meralco Avenue, Pasig 1600 City"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 106.66666666666667,
+            "t": 770.4000244140625,
+            "r": 479.3333333333333,
+            "b": 753.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "g Partnership and collaboration in achieving national education goals.",
+      "text": "g Partnership and collaboration in achieving national education goals.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.0,
+            "t": 744.7333577473959,
+            "r": 520.3333333333334,
+            "b": 680.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "4 The Public and Private Basic Education Complementarity Framework shall be a dynamic document which will serve as a guide to DepEd in all levels of governance, including the field offices and private education institutions, subject to continuing review to strengthen complementarity between public and private educational institutions.",
+      "text": "4 The Public and Private Basic Education Complementarity Framework shall be a dynamic document which will serve as a guide to DepEd in all levels of governance, including the field offices and private education institutions, subject to continuing review to strengthen complementarity between public and private educational institutions.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 65.0,
+            "t": 671.4000244140625,
+            "r": 520.6666666666666,
+            "b": 617.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "5. This Order shall take effect immediately  upon its  approval, issuance,  and publication on the DepEd website.  Certified of this Order shall be registered with the University of the Philippines Law Center-Office of the National Administrative Register (UP LC-ONAR) , UP Diliman, Quezon copies City.",
+      "text": "This Order shall take effect immediately  upon its  approval, issuance,  and publication on the DepEd website.  Certified of this Order shall be registered with the University of the Philippines Law Center-Office of the National Administrative Register (UP LC-ONAR) , UP Diliman, Quezon copies City.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 608.7333577473959,
+            "r": 520.3333333333334,
+            "b": 568.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "6. All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this Order are repealed, rescinded, or modified accordingly.",
+      "text": "All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this Order are repealed, rescinded, or modified accordingly.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 559.7333577473958,
+            "r": 521.3333333333334,
+            "b": 504.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "7 For more information, please contact the Private Education Office (PEO), 4th Floor, Bonifacio Building, Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email private education@deped gov ph or telephone number (02) 8632-1371. City ,",
+      "text": "7 For more information, please contact the Private Education Office (PEO), 4th Floor, Bonifacio Building, Department of Education Central Office, DepEd Complex, Meralco Avenue, Pasig through email private education@deped gov ph or telephone number (02) 8632-1371. City ,",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 498.4000244140625,
+            "r": 504.6666666666667,
+            "b": 480.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "8 Immediate dissemination of and strict compliance with this Order is directed.",
+      "text": "8 Immediate dissemination of and strict compliance with this Order is directed.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 271.0,
+            "t": 436.0666910807292,
+            "r": 512.6666666666666,
+            "b": 409.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "SARA Z. DUTERTE 06 Vice President of the Republic of the Philippines",
+      "text": "SARA Z. DUTERTE 06 Vice President of the Republic of the Philippines"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 289.3333333333333,
+            "t": 411.4000244140625,
+            "r": 501.6666666666667,
+            "b": 396.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Secretary of the Department of Education",
+      "text": "Secretary of the Department of Education"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 419.0,
+            "t": 366.7333577473958,
+            "r": 428.3333333333333,
+            "b": 360.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 516.6666666666666,
+            "t": 479.7333577473958,
+            "r": 572.0,
+            "b": 434.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Digitally signed by Duterte Sara Zimmerman Date: 2024.05.15 15.28.53 +08'00'",
+      "text": "Digitally signed by Duterte Sara Zimmerman Date: 2024.05.15 15.28.53 +08'00'"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 370.7333577473958,
+            "r": 125.66666666666667,
+            "b": 358.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 106.0,
+            "t": 357.7333577473958,
+            "r": 134.66666666666666,
+            "b": 347.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "None",
+      "text": "None"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 336.0666910807292,
+            "r": 269.6666666666667,
+            "b": 307.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual Index under the following subjects:",
+      "text": "To be indicated in the Perpetual Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 106.33333333333333,
+            "t": 297.4000244140625,
+            "r": 255.33333333333334,
+            "b": 198.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "BASIC EDUCATION PARTNERSHIPS POLICY PRIVATE EDUCATION PROGRAMS RULES AND REGULATIONS SCHOOLS SUPERVISION",
+      "text": "BASIC EDUCATION PARTNERSHIPS POLICY PRIVATE EDUCATION PROGRAMS RULES AND REGULATIONS SCHOOLS SUPERVISION"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.33333333333333,
+            "t": 176.06669108072913,
+            "r": 381.3333333333333,
+            "b": 158.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "WNBO, APA, MPC, DO_Adoption of the Public and Private Basic Education Complementarity Framework 0110 April 3, 2024",
+      "text": "WNBO, APA, MPC, DO_Adoption of the Public and Private Basic Education Complementarity Framework 0110 April 3, 2024"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.333333333333336,
+            "t": 823.0666910807291,
+            "r": 301.3333333333333,
+            "b": 804.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Enclosure to DepEd Order No. 006 , s. 2024)",
+      "text": "Enclosure to DepEd Order No. 006 , s. 2024)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 178.33333333333334,
+            "t": 768.0666910807291,
+            "r": 422.3333333333333,
+            "b": 742.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "PUBLIC AND PRIVATE BASIC EDUCATION COMPLEMENTARITY FRAMEWORK",
+      "text": "PUBLIC AND PRIVATE BASIC EDUCATION COMPLEMENTARITY FRAMEWORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.66666666666667,
+            "t": 713.0666910807291,
+            "r": 180.0,
+            "b": 702.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "I RATIONALE",
+      "text": "I RATIONALE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.0,
+            "t": 693.4000244140625,
+            "r": 528.6666666666666,
+            "b": 523.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1018
+          ]
+        }
+      ],
+      "orig": "The 1987 Philippine Constitution states that '[tJhe State recognizes the complementary roles of public and private institutions in the educational system and shall exercise reasonable supervision and regulation of all educational institutions\" (Art. XIV , Sec. 4.1). The Department of Education (DepEd) is mandated, as provided for in the Governance of Basic Education Act of 2001 (Republic Act No. 9155), to exercise regulatory and supervisory functions for both public and private educational institutions The Constitution further stipulates how the State has to 'protect and promote the right of all citizens to quality education at all levels ; through appropriate steps to make such education accessible to all\" (Art. XIV, Sec. 1), and that the State shall maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people and society\" (Art. XIV, Sec. 2.1). These statements show how the Constitution does not delineate between the public sector and private sector.",
+      "text": "The 1987 Philippine Constitution states that '[tJhe State recognizes the complementary roles of public and private institutions in the educational system and shall exercise reasonable supervision and regulation of all educational institutions\" (Art. XIV , Sec. 4.1). The Department of Education (DepEd) is mandated, as provided for in the Governance of Basic Education Act of 2001 (Republic Act No. 9155), to exercise regulatory and supervisory functions for both public and private educational institutions The Constitution further stipulates how the State has to 'protect and promote the right of all citizens to quality education at all levels ; through appropriate steps to make such education accessible to all\" (Art. XIV, Sec. 1), and that the State shall maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people and society\" (Art. XIV, Sec. 2.1). These statements show how the Constitution does not delineate between the public sector and private sector."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 518.7333577473958,
+            "r": 528.6666666666666,
+            "b": 373.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            833
+          ]
+        }
+      ],
+      "orig": "The Philippine basic education system is a mixture of public and private education institutions intended to work complementarily to optimize the education of all Filipino children. The shift to the K to 12 Basic Education Program has brought about new opportunities for learners and graduates. With its mixed education system (i.e a system composed of both public and private educational institutions) , the country has become one of the performers in basic education in terms of the average number of years that children can expect to complete by the time are 18 years old, the age when most senior high school learners graduate from basic education. Sustained   improvements in student learning achievement, however, remain a challenge given the varying levels of children's access to quality education across the country. top they",
+      "text": "The Philippine basic education system is a mixture of public and private education institutions intended to work complementarily to optimize the education of all Filipino children. The shift to the K to 12 Basic Education Program has brought about new opportunities for learners and graduates. With its mixed education system (i.e a system composed of both public and private educational institutions) , the country has become one of the performers in basic education in terms of the average number of years that children can expect to complete by the time are 18 years old, the age when most senior high school learners graduate from basic education. Sustained   improvements in student learning achievement, however, remain a challenge given the varying levels of children's access to quality education across the country. top they"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 368.0666910807292,
+            "r": 529.0,
+            "b": 265.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            595
+          ]
+        }
+      ],
+      "orig": "When the Philippines transitioned to the K to 12 Basic Education Program, it also articulated the kind of graduates that the system aims to produce holistically developed Filipinos with 21st-century skills. This objective became the common for all educational institutions; both public and private, while the diversity of learning objectives, philosophies, and approaches that respond to specific social and cultural needs of learners and communities is recognized and guaranteed expression. Public and private educational institutions are intended to collaborate in working toward this end goal",
+      "text": "When the Philippines transitioned to the K to 12 Basic Education Program, it also articulated the kind of graduates that the system aims to produce holistically developed Filipinos with 21st-century skills. This objective became the common for all educational institutions; both public and private, while the diversity of learning objectives, philosophies, and approaches that respond to specific social and cultural needs of learners and communities is recognized and guaranteed expression. Public and private educational institutions are intended to collaborate in working toward this end goal"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.0,
+            "t": 257.06669108072913,
+            "r": 529.3333333333334,
+            "b": 73.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1156
+          ]
+        }
+      ],
+      "orig": "One policy and program area that can further help improve access to quality education is public-private partnerships: Partnerships between public and private basic education institutions can enable the effective and efficient use of resources in the delivery of quality education. It can facilitate the effective harnessing of resources and strengths of private educational institutions to contribute to the achievement of national education goals (ADB-SHSSP TA, 2021). Current public-private partnership programs have shown that clearly articulated and strategically designed partnerships lead to better education delivery, and therefore, promote not only better student achievement and brokers inclusivity but also enable advantages for teachers and schools. For example, through programs under the Government Assistance to Students and Teachers in Private Education (GASTPE), financial assistance and subsidies for enrollment in private schools have been provided. These programs have been shown to have been successful in augmenting the lack of facilities and teachers in some public schools. Through these programs, learners can enroll in schools that",
+      "text": "One policy and program area that can further help improve access to quality education is public-private partnerships: Partnerships between public and private basic education institutions can enable the effective and efficient use of resources in the delivery of quality education. It can facilitate the effective harnessing of resources and strengths of private educational institutions to contribute to the achievement of national education goals (ADB-SHSSP TA, 2021). Current public-private partnership programs have shown that clearly articulated and strategically designed partnerships lead to better education delivery, and therefore, promote not only better student achievement and brokers inclusivity but also enable advantages for teachers and schools. For example, through programs under the Government Assistance to Students and Teachers in Private Education (GASTPE), financial assistance and subsidies for enrollment in private schools have been provided. These programs have been shown to have been successful in augmenting the lack of facilities and teachers in some public schools. Through these programs, learners can enroll in schools that"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 525.0,
+            "t": 816.0666910807291,
+            "r": 534.3333333333334,
+            "b": 810.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 550.3333333333334,
+            "t": 795.4000244140625,
+            "r": 555.0,
+            "b": 782.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "é",
+      "text": "é"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 501.6286093236459,
+            "t": 810.8048810565106,
+            "r": 525.7047240096874,
+            "b": 804.3285011049478,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "AWARAN",
+      "text": "AWARAN"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 267.0,
+            "t": 59.4000244140625,
+            "r": 330.3333333333333,
+            "b": 45.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Page 1 of 14",
+      "text": "Page 1 of 14"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 770.0666910807291,
+            "r": 528.6666666666666,
+            "b": 718.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "are better able to attend to their needs more effectively . However, public-private partnerships may not just be through these kinds of programs but can involve other efforts specific to other aspects to further facilitate the effective delivery of basic education.",
+      "text": "are better able to attend to their needs more effectively . However, public-private partnerships may not just be through these kinds of programs but can involve other efforts specific to other aspects to further facilitate the effective delivery of basic education."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.0,
+            "t": 709.7333577473959,
+            "r": 529.3333333333334,
+            "b": 527.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1116
+          ]
+        }
+      ],
+      "orig": "As the national education system expands in response to the growing demands of an increasing school-age population, particularly in the public sector as can be seen in the number of public schools and teachers, maintaining the complementary roles of public and private educational institutions requires deliberate attention. A framework that provides a clear vision of the direction and forward wherein government and private educational institutions work complementarily, as envisioned by the 1987 Philippine Constitution, to achieve national education objectives is therefore presented through this policy document. This framework seeks to promote coherence in the development of the country's mixed education system, as the diverse contributions of various stakeholders are harnessed. Furthermore, this Framework aims to improve the collaboration between   public and private schools in providing access to quality education for Filipino learners, provide a basis for developing a shared understanding of the goals of public-private partnership programs, and facilitate consensus building among stakeholders. path",
+      "text": "As the national education system expands in response to the growing demands of an increasing school-age population, particularly in the public sector as can be seen in the number of public schools and teachers, maintaining the complementary roles of public and private educational institutions requires deliberate attention. A framework that provides a clear vision of the direction and forward wherein government and private educational institutions work complementarily, as envisioned by the 1987 Philippine Constitution, to achieve national education objectives is therefore presented through this policy document. This framework seeks to promote coherence in the development of the country's mixed education system, as the diverse contributions of various stakeholders are harnessed. Furthermore, this Framework aims to improve the collaboration between   public and private schools in providing access to quality education for Filipino learners, provide a basis for developing a shared understanding of the goals of public-private partnership programs, and facilitate consensus building among stakeholders. path"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 500.4000244140625,
+            "r": 150.66666666666666,
+            "b": 488.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "SCOPE",
+      "text": "SCOPE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 479.4000244140625,
+            "r": 528.3333333333334,
+            "b": 400.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "This Public and Private Basic Education Complementarity Framework shall be applicable to both public and private elementary and secondary schools nationwide. This Framework guides DepEd offices across governance levels and stakeholders in developing a shared understanding of the complementary relationship of public and private educational institutions in the education system and strengthening consensus among stakeholders.",
+      "text": "This Public and Private Basic Education Complementarity Framework shall be applicable to both public and private elementary and secondary schools nationwide. This Framework guides DepEd offices across governance levels and stakeholders in developing a shared understanding of the complementary relationship of public and private educational institutions in the education system and strengthening consensus among stakeholders."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 373.0666910807292,
+            "r": 231.0,
+            "b": 360.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "III POLICY STATEMENT",
+      "text": "III POLICY STATEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 352.7333577473958,
+            "r": 528.6666666666666,
+            "b": 285.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "The DepEd seeks to transform the basic education system into one that is highly capable of ensuring that learners become holistically developed individuals with 21st_ century skills and attain high levels of competencies essential for them to thrive, live well, and become productive citizens in a democracy and who can contribute to the public good.",
+      "text": "The DepEd seeks to transform the basic education system into one that is highly capable of ensuring that learners become holistically developed individuals with 21st_ century skills and attain high levels of competencies essential for them to thrive, live well, and become productive citizens in a democracy and who can contribute to the public good."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 280.73335774739587,
+            "r": 529.0,
+            "b": 148.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            794
+          ]
+        }
+      ],
+      "orig": "Cognizant of the Philippine Constitution's recognition of the complementary roles of public and private education institutions in the countrys national education system, DepEd shall transform itself into a learner-centered high-performance institution responsible for developing and harnessing both public and private schools, working together collaboratively, for the delivery of quality basic education to all learners. With an analytically and empirically sound policy framework on ways to optimize the roles of DepEd and other government agencies,  public schools and private educational institutions, the Philippine education system taken as a whole will see more rapid, sustained, and inclusive improvements in learning outcomes as well as the achievement of a near-zero learning poverty.",
+      "text": "Cognizant of the Philippine Constitution's recognition of the complementary roles of public and private education institutions in the countrys national education system, DepEd shall transform itself into a learner-centered high-performance institution responsible for developing and harnessing both public and private schools, working together collaboratively, for the delivery of quality basic education to all learners. With an analytically and empirically sound policy framework on ways to optimize the roles of DepEd and other government agencies,  public schools and private educational institutions, the Philippine education system taken as a whole will see more rapid, sustained, and inclusive improvements in learning outcomes as well as the achievement of a near-zero learning poverty."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 121.4000244140625,
+            "r": 325.0,
+            "b": 109.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "IV DEFINITION OF COMPLEMENTARITY",
+      "text": "IV DEFINITION OF COMPLEMENTARITY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 101.4000244140625,
+            "r": 527.3333333333334,
+            "b": 71.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "This Public and Private Basic Education Complementarity Framework is anchored on DepEds mandate under the 1987 Philippine Constitution to recognize the",
+      "text": "This Public and Private Basic Education Complementarity Framework is anchored on DepEds mandate under the 1987 Philippine Constitution to recognize the"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 267.0,
+            "t": 60.06669108072913,
+            "r": 330.3333333333333,
+            "b": 46.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Page 2 of 14",
+      "text": "Page 2 of 14"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.66666666666667,
+            "t": 770.0666910807291,
+            "r": 529.6666666666666,
+            "b": 727.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "complementary roles of public and private educational institutions. For purposes of this Order, public and private education complementarity shall mean or be understood, but not limited to the following:",
+      "text": "complementary roles of public and private educational institutions. For purposes of this Order, public and private education complementarity shall mean or be understood, but not limited to the following:"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.0,
+            "t": 723.4000244140625,
+            "r": 529.0,
+            "b": 679.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "a Public and private institutions are working together harmoniously and collaboratively in the planning and delivery of educational services , sharing resources, expertise, and best practices, as appropriate.",
+      "text": "a Public and private institutions are working together harmoniously and collaboratively in the planning and delivery of educational services , sharing resources, expertise, and best practices, as appropriate.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.66666666666667,
+            "t": 658.4000244140625,
+            "r": 529.6666666666666,
+            "b": 630.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "When public and private institutions complement each other, the viability and success of each sector are mutually and equally valued and desired",
+      "text": "When public and private institutions complement each other, the viability and success of each sector are mutually and equally valued and desired",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.0,
+            "t": 685.0666910807291,
+            "r": 528.6666666666666,
+            "b": 654.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "b Public and private institutions have a common vision and commitment in achieving national education goals.",
+      "text": "b Public and private institutions have a common vision and commitment in achieving national education goals.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 109.66666666666667,
+            "t": 633.4000244140625,
+            "r": 530.0,
+            "b": 589.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "d. The co-existence of   public and private educational institutions is complementary as both institutions mutually provide each other's lack of resources to improve the delivery of quality education to Filipino learners.",
+      "text": "The co-existence of   public and private educational institutions is complementary as both institutions mutually provide each other's lack of resources to improve the delivery of quality education to Filipino learners.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 594.0666910807291,
+            "r": 480.0,
+            "b": 576.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "e Other grounds and/or circumstances analogous to the foregoing:",
+      "text": "e Other grounds and/or circumstances analogous to the foregoing:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 573.4000244140625,
+            "r": 528.6666666666666,
+            "b": 543.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "Manifestations of complementarity between public and private institutions that are recognized in educational practice and discourse include the following:",
+      "text": "Manifestations of complementarity between public and private institutions that are recognized in educational practice and discourse include the following:"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 539.4000244140625,
+            "r": 528.0,
+            "b": 497.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "a DepEd utilizes accredited private schools unused capacity for a reasonable fee to educate more learners instead of building new classrooms and facilities and hiring more teachers.",
+      "text": "a DepEd utilizes accredited private schools unused capacity for a reasonable fee to educate more learners instead of building new classrooms and facilities and hiring more teachers.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 462.7333577473958,
+            "r": 529.0,
+            "b": 419.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "C. DepEd and the private education sector mutually enhance the national capacity to cost-effectively achieve better access to inclusive quality education through service contracting and use of vouchers.",
+      "text": "DepEd and the private education sector mutually enhance the national capacity to cost-effectively achieve better access to inclusive quality education through service contracting and use of vouchers.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 499.4000244140625,
+            "r": 530.0,
+            "b": 459.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "b Public schools focus their free education program on the expansion of free basic education, while private schools cater to provide unmet demands of families for better access to quality education.",
+      "text": "b Public schools focus their free education program on the expansion of free basic education, while private schools cater to provide unmet demands of families for better access to quality education.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 417.4000244140625,
+            "r": 529.3333333333334,
+            "b": 208.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1169
+          ]
+        }
+      ],
+      "orig": "Adherence to the principle of public and private education complementarity also implies that the government duly recognizes the distinct role that private institutions perform in the free expression of culture, religion, and social objectives that may be unique to certain communities and social groups. There are aspects in this role that only private educational institutions can perform and deliver. In the case of indigenous peoples, the Philippine State shall XIV , Sec. 2.4); and further in the Indigenous Peoples Rights Act (IPRA) of 1997 it is stipulated that \"[tJhe State shall provide equal access to various cultural opportunities to the indigenous cultural communities /indigenous peoples through the educational system, public or private cultural entities without prejudice to their right to establish and control their educational systems and institutions by providing education in their own language, in a manner appropriate to their cultural methods of teaching and learning (Sec. 30)\" With regard to Muslim communities, the madrasah as a distinct educational institution and other aspects of Muslim education are recognized and supported by government.",
+      "text": "Adherence to the principle of public and private education complementarity also implies that the government duly recognizes the distinct role that private institutions perform in the free expression of culture, religion, and social objectives that may be unique to certain communities and social groups. There are aspects in this role that only private educational institutions can perform and deliver. In the case of indigenous peoples, the Philippine State shall XIV , Sec. 2.4); and further in the Indigenous Peoples Rights Act (IPRA) of 1997 it is stipulated that \"[tJhe State shall provide equal access to various cultural opportunities to the indigenous cultural communities /indigenous peoples through the educational system, public or private cultural entities without prejudice to their right to establish and control their educational systems and institutions by providing education in their own language, in a manner appropriate to their cultural methods of teaching and learning (Sec. 30)\" With regard to Muslim communities, the madrasah as a distinct educational institution and other aspects of Muslim education are recognized and supported by government."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 203.4000244140625,
+            "r": 529.6666666666666,
+            "b": 109.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            561
+          ]
+        }
+      ],
+      "orig": "The contributions of nonprofit private learning institutions; especially those that provide free services to learners with limited means, in ensuring that all Filipinos have access to basic education are acknowledged. These private institutions are seen as partners the government in efforts to provide education services in areas where service delivery is difficult, as in the case of geographically isolated and disadvantaged areas (GIDAs) , and education delivery coupled with other social services and programs aligned with socio-economic upliftment. key by",
+      "text": "The contributions of nonprofit private learning institutions; especially those that provide free services to learners with limited means, in ensuring that all Filipinos have access to basic education are acknowledged. These private institutions are seen as partners the government in efforts to provide education services in areas where service delivery is difficult, as in the case of geographically isolated and disadvantaged areas (GIDAs) , and education delivery coupled with other social services and programs aligned with socio-economic upliftment. key by"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 267.6666666666667,
+            "t": 60.06669108072913,
+            "r": 331.0,
+            "b": 46.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Page 3 of 14",
+      "text": "Page 3 of 14"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 74.66666666666667,
+            "t": 770.0666910807291,
+            "r": 530.3333333333334,
+            "b": 742.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "V KEY PRINCIPLES THAT SHALL GUIDE BASIC EDUCATION   POLICY, PROGRAMS, AND GOVERNANCE",
+      "text": "V KEY PRINCIPLES THAT SHALL GUIDE BASIC EDUCATION   POLICY, PROGRAMS, AND GOVERNANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.66666666666667,
+            "t": 737.4000244140625,
+            "r": 530.3333333333334,
+            "b": 656.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "Realizing the Constitutional vision of public and private education institutions performing complementary roles in the basic education system requires purposeful consideration in the different aspects of policy, programs, and governance. Based on consultations with both public and private education representatives, and informed by policy research, the following principles and thrusts are provided to the application, exercise, and promotion of complementarity: guide",
+      "text": "Realizing the Constitutional vision of public and private education institutions performing complementary roles in the basic education system requires purposeful consideration in the different aspects of policy, programs, and governance. Based on consultations with both public and private education representatives, and informed by policy research, the following principles and thrusts are provided to the application, exercise, and promotion of complementarity: guide"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 93.33333333333333,
+            "t": 650.7333577473959,
+            "r": 530.3333333333334,
+            "b": 465.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1040
+          ]
+        }
+      ],
+      "orig": "1) Optimizing the roles of the public and private sectors in basic education. The country's mixed education system is driven by public schools and private education enterprises that function in a competitive but regulated market environment. This mixture allows Philippine society to take advantage of the strengths of the said drivers; and attenuate the weaknesses of a system that is located on either extremes of the spectrum that range from total government control to unfettered   private   enterprise Private education in healthy competitive environment can play an important role in raising the performance of the basic education system This forms part of the policy foundation and rationale for government spending through financial assistance and subsidy programs which allows the government to subsidize children's education in private schools to raise learning outcomes to socially optimal levels. Public-private   partnerships in education are part of the governments long-term strategy and not just temporary stop-gap measures.",
+      "text": "Optimizing the roles of the public and private sectors in basic education. The country's mixed education system is driven by public schools and private education enterprises that function in a competitive but regulated market environment. This mixture allows Philippine society to take advantage of the strengths of the said drivers; and attenuate the weaknesses of a system that is located on either extremes of the spectrum that range from total government control to unfettered   private   enterprise Private education in healthy competitive environment can play an important role in raising the performance of the basic education system This forms part of the policy foundation and rationale for government spending through financial assistance and subsidy programs which allows the government to subsidize children's education in private schools to raise learning outcomes to socially optimal levels. Public-private   partnerships in education are part of the governments long-term strategy and not just temporary stop-gap measures.",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 457.0666910807292,
+            "r": 530.3333333333334,
+            "b": 220.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1387
+          ]
+        }
+      ],
+      "orig": "DepEd shall gradually move toward the operationalization of this principle: for optimal investment in education as seen from the whole of society perspective, the basic amount of education subsidy per student shall be commensurate with the value of public benefits the government expects Filipino children to generate, after acquiring more and better education from public or private schools. If the same amount of education subsidy generates public benefits of equal value regardless of whether a person graduated from public or private schools, it is sound to adopt the principle that the same amount of education subsidy can also be extended to private school learners. The said principle is a reasonable starting point for determining the value of financial assistance to learners who prefer to enroll in eligible private schools of their choice. In applying this principle, however, other considerations need to be factored in One of those is the fact that some learners face higher cost of than others, depending on their location To ensure that learners receive the same amount of financial assistance in real terms, the estimated national average subsidy shall be adjusted to reflect cost-of-living differences across the national / Philippine geographic areas. In pursuing this principle; DepEd shall issue appropriate policy guidelines to make the necessary adjustments. living",
+      "text": "DepEd shall gradually move toward the operationalization of this principle: for optimal investment in education as seen from the whole of society perspective, the basic amount of education subsidy per student shall be commensurate with the value of public benefits the government expects Filipino children to generate, after acquiring more and better education from public or private schools. If the same amount of education subsidy generates public benefits of equal value regardless of whether a person graduated from public or private schools, it is sound to adopt the principle that the same amount of education subsidy can also be extended to private school learners. The said principle is a reasonable starting point for determining the value of financial assistance to learners who prefer to enroll in eligible private schools of their choice. In applying this principle, however, other considerations need to be factored in One of those is the fact that some learners face higher cost of than others, depending on their location To ensure that learners receive the same amount of financial assistance in real terms, the estimated national average subsidy shall be adjusted to reflect cost-of-living differences across the national / Philippine geographic areas. In pursuing this principle; DepEd shall issue appropriate policy guidelines to make the necessary adjustments. living"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 213.06669108072913,
+            "r": 530.0,
+            "b": 92.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            697
+          ]
+        }
+      ],
+      "orig": "Further, considering fiscal constraints, government education budget may not be enough to subsidize all learners who want to go to private schools. Under such situation, DepEd shall establish a system of rationing available financial assistance for learners wanting to enroll in eligible private schools of their choice. Available slots shall be rationed among learners that meet eligibility criteria designed to promote greater inclusion of children from poor families and disadvantaged communities. To a limited extent; the methodology for rationing available slots shall also be designed to give opportunities to learners who demonstrate high academic and intellectual aptitude or extraordinary",
+      "text": "Further, considering fiscal constraints, government education budget may not be enough to subsidize all learners who want to go to private schools. Under such situation, DepEd shall establish a system of rationing available financial assistance for learners wanting to enroll in eligible private schools of their choice. Available slots shall be rationed among learners that meet eligibility criteria designed to promote greater inclusion of children from poor families and disadvantaged communities. To a limited extent; the methodology for rationing available slots shall also be designed to give opportunities to learners who demonstrate high academic and intellectual aptitude or extraordinary"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 269.3333333333333,
+            "t": 59.4000244140625,
+            "r": 332.3333333333333,
+            "b": 46.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Page 4 of 14",
+      "text": "Page 4 of 14"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 109.33333333333333,
+            "t": 769.4000244140625,
+            "r": 530.3333333333334,
+            "b": 743.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "of socioeconomic status to enroll in accredited private schools.",
+      "text": "of socioeconomic status to enroll in accredited private schools."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 108.33333333333333,
+            "t": 731.0666910807291,
+            "r": 529.6666666666666,
+            "b": 701.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "The table below provides an overview of the functions and roles of the public and private sectors in the mixed basic education system of the country. key",
+      "text": "The table below provides an overview of the functions and roles of the public and private sectors in the mixed basic education system of the country. key"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 269.0,
+            "t": 60.06669108072913,
+            "r": 332.3333333333333,
+            "b": 46.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Page 5 of 14",
+      "text": "Page 5 of 14"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 83.0,
+            "t": 747.7333577473959,
+            "r": 538.6666666666666,
+            "b": 614.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            758
+          ]
+        }
+      ],
+      "orig": "2) Mutual understanding by the public and private sectors Of their complementary roles. A basic principle upon which complementarity can be fully operationalized is the recognition both public and private stakeholders of its meaning and corresponding implications; as articulated in this framework. A consensus on complementarity shall guide policy formulation, program design and implementation; the exercise of DepEds regulatory function, and interactions between the public and private sectors. Having a shared understanding of each other's roles and the principles upon which these roles are based will be essential to fully realizing the Constitutional intent. Sustained efforts to build and maintain the said consensus shall be deliberately pursued. by",
+      "text": "Mutual understanding by the public and private sectors Of their complementary roles. A basic principle upon which complementarity can be fully operationalized is the recognition both public and private stakeholders of its meaning and corresponding implications; as articulated in this framework. A consensus on complementarity shall guide policy formulation, program design and implementation; the exercise of DepEds regulatory function, and interactions between the public and private sectors. Having a shared understanding of each other's roles and the principles upon which these roles are based will be essential to fully realizing the Constitutional intent. Sustained efforts to build and maintain the said consensus shall be deliberately pursued. by",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 83.66666666666667,
+            "t": 605.7333577473959,
+            "r": 538.6666666666666,
+            "b": 382.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1285
+          ]
+        }
+      ],
+      "orig": "3) Recognition of the inherent value of private education institutions in the education system. The permanent mix of public and private institutions in the education system is valued and deemed a desirable characteristic of the countrys overall education framework. Even in the scenario when the government can address most of the resource gaps in public schools, as well as the resources to further expand its capacity and reach; the environment for the continued growth of private institutions shall be guaranteed. While private schools are tapped by the government through its service contracting and subsidy programs to ease congestion and address the lack of facilities in public schools, their value in the system is not limited to this. The existence of private schools and the services can provide are not merely a 'stop-gap solution. Private schools contribute to the diversity of providers, educational approaches, and even institutional cultures that enrich the system as a whole. Educational options for learners and their families are expanded through the existence of private schools, more so when a variety of types and program offerings are available. This in turn enhances the educational aspect of their quality of life by expanding the freedoms that enjoy. they they",
+      "text": "Recognition of the inherent value of private education institutions in the education system. The permanent mix of public and private institutions in the education system is valued and deemed a desirable characteristic of the countrys overall education framework. Even in the scenario when the government can address most of the resource gaps in public schools, as well as the resources to further expand its capacity and reach; the environment for the continued growth of private institutions shall be guaranteed. While private schools are tapped by the government through its service contracting and subsidy programs to ease congestion and address the lack of facilities in public schools, their value in the system is not limited to this. The existence of private schools and the services can provide are not merely a 'stop-gap solution. Private schools contribute to the diversity of providers, educational approaches, and even institutional cultures that enrich the system as a whole. Educational options for learners and their families are expanded through the existence of private schools, more so when a variety of types and program offerings are available. This in turn enhances the educational aspect of their quality of life by expanding the freedoms that enjoy. they they",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 84.66666666666667,
+            "t": 373.4000244140625,
+            "r": 539.0,
+            "b": 125.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1513
+          ]
+        }
+      ],
+      "orig": "4) Reasonable supervision and regulation of private institutions. The reasonable exercise of the governments regulatory function is one of the aspects that has been stipulated in the brief Constitutional provision on public and private education complementarity. The basic principle that governs supervision and regulation is ultimately the protection of the interest and welfare of the learner while ensuring the fair treatment of private schools and guaranteeing their rights and entitlements as legally existing enterprises. Private institutions shall be guaranteed access to clear and complete information; in a timely manner , on matters that govern their   supervision and regulation, and benefit from effective communication that would facilitate ample understanding of policies and requirements. While ensuring that the interest of the learner remains the primary consideration, the supervision and regulation of private institutions shall be facilitative and fair in line with the appreciation that these institutions serve as the complement of public institutions in the mixed basic education system: Due application of this principle and responsiveness to context shall be observed in the case of private institutions serving specific private ends and covered by distinct legal provisions (such as those of schools established and operated by and in partnership with indigenous peoples communities in light of provisions in the Constitution and IPRA cited above), and those providing free or subsidized",
+      "text": "Reasonable supervision and regulation of private institutions. The reasonable exercise of the governments regulatory function is one of the aspects that has been stipulated in the brief Constitutional provision on public and private education complementarity. The basic principle that governs supervision and regulation is ultimately the protection of the interest and welfare of the learner while ensuring the fair treatment of private schools and guaranteeing their rights and entitlements as legally existing enterprises. Private institutions shall be guaranteed access to clear and complete information; in a timely manner , on matters that govern their   supervision and regulation, and benefit from effective communication that would facilitate ample understanding of policies and requirements. While ensuring that the interest of the learner remains the primary consideration, the supervision and regulation of private institutions shall be facilitative and fair in line with the appreciation that these institutions serve as the complement of public institutions in the mixed basic education system: Due application of this principle and responsiveness to context shall be observed in the case of private institutions serving specific private ends and covered by distinct legal provisions (such as those of schools established and operated by and in partnership with indigenous peoples communities in light of provisions in the Constitution and IPRA cited above), and those providing free or subsidized",
+      "enumerated": true,
+      "marker": "4)"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 267.0,
+            "t": 110.06669108072913,
+            "r": 336.3333333333333,
+            "b": 97.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Page 11 of 14",
+      "text": "Page 11 of 14"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 100.66666666666667,
+            "t": 769.7333577473959,
+            "r": 538.3333333333334,
+            "b": 740.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "education in underserved and disadvantaged areas, which effectively complement government's efforts to guarantee the right to basic education.",
+      "text": "education in underserved and disadvantaged areas, which effectively complement government's efforts to guarantee the right to basic education."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 83.33333333333333,
+            "t": 731.4000244140625,
+            "r": 538.3333333333334,
+            "b": 598.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            713
+          ]
+        }
+      ],
+      "orig": "5)   Participatory governance to nurture the complementary relationship between  public and private institutions. The of private institutions in the different processes of policy-making and program design, implementation, and assessment in areas in which they have a stake shall be promoted. Aside from policies and programs benefitting from the insights and inputs of private sector counterparts, participatory approaches in governance and regulation facilitate trust-building and promote interaction and initiatives that reinforce complementarity. Consultations and dialogue shall be a regular tool in the formulation of responsive policies, program and performance monitoring, and addressing governance issues.",
+      "text": "  Participatory governance to nurture the complementary relationship between  public and private institutions. The of private institutions in the different processes of policy-making and program design, implementation, and assessment in areas in which they have a stake shall be promoted. Aside from policies and programs benefitting from the insights and inputs of private sector counterparts, participatory approaches in governance and regulation facilitate trust-building and promote interaction and initiatives that reinforce complementarity. Consultations and dialogue shall be a regular tool in the formulation of responsive policies, program and performance monitoring, and addressing governance issues.",
+      "enumerated": true,
+      "marker": "5)"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 100.0,
+            "t": 589.4000244140625,
+            "r": 539.3333333333334,
+            "b": 406.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1059
+          ]
+        }
+      ],
+      "orig": "Equal regard to the impact of education policies and resource allocation decisions on both the public and private sectors. Maintaining the vitality of both the public and private sectors, as the two components of the integrated system envisioned by the Constitution, shall be consideration of government in policy setting and allocating resources for various programs and inputs. Certain aspects of government policies and decisions, while intended mainly for public schools, have unintended consequences for private schools (such as decisions on the salary rate of public school teachers) . Due regard to the possible effects of government policy actions on private institutions shall be an essential factor in policy discussions and education planning This shall include the design and implementation of impact mitigation measures as needed. Private institutions, as partners and co-equal of public institutions in the national education system, shall be enabled to thrive as enterprises through a responsive policy and fair regulatory environment. key pair",
+      "text": "Equal regard to the impact of education policies and resource allocation decisions on both the public and private sectors. Maintaining the vitality of both the public and private sectors, as the two components of the integrated system envisioned by the Constitution, shall be consideration of government in policy setting and allocating resources for various programs and inputs. Certain aspects of government policies and decisions, while intended mainly for public schools, have unintended consequences for private schools (such as decisions on the salary rate of public school teachers) . Due regard to the possible effects of government policy actions on private institutions shall be an essential factor in policy discussions and education planning This shall include the design and implementation of impact mitigation measures as needed. Private institutions, as partners and co-equal of public institutions in the national education system, shall be enabled to thrive as enterprises through a responsive policy and fair regulatory environment. key pair",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 100.33333333333333,
+            "t": 396.4000244140625,
+            "r": 538.3333333333334,
+            "b": 225.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            938
+          ]
+        }
+      ],
+      "orig": "Partnership and collaboration in achieving national education goals. Building and strengthening the partnership between public and private institutions shall be employed as one of the major strategies in the planning and implementation of efforts to improve education access and achieve the objectives of the national basic education curriculum A shared sense of responsibility in improving basic education outcomes, based on the mutual appreciation of each sector's strengths and advantages, shall be fostered. The private education sector shall be   engaged in discussions on national basic education development plans and targets. This discussion shall include how national goals can be translated into specific interventions relevant to and can be implemented at the level of the region, schools division, and school. The relationship desired in this thrust is characterized by collaboration that leads to greater sectoral impact. key",
+      "text": "Partnership and collaboration in achieving national education goals. Building and strengthening the partnership between public and private institutions shall be employed as one of the major strategies in the planning and implementation of efforts to improve education access and achieve the objectives of the national basic education curriculum A shared sense of responsibility in improving basic education outcomes, based on the mutual appreciation of each sector's strengths and advantages, shall be fostered. The private education sector shall be   engaged in discussions on national basic education development plans and targets. This discussion shall include how national goals can be translated into specific interventions relevant to and can be implemented at the level of the region, schools division, and school. The relationship desired in this thrust is characterized by collaboration that leads to greater sectoral impact. key",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 101.0,
+            "t": 200.73335774739587,
+            "r": 475.6666666666667,
+            "b": 188.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ENABLING COMPLEMENTARITY ACROSS GOVERNANCE LEVELS",
+      "text": "ENABLING COMPLEMENTARITY ACROSS GOVERNANCE LEVELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 181.4000244140625,
+            "r": 539.0,
+            "b": 125.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "To promote and implement the intent of this framework, DepEd, in consultation with the private sector , shall establish mechanisms and processes for regular policy dialogue, consultation, and coordination at different governance levels (i.e. central, regional and schools division) These mechanisms shall be defined and governed by   specific",
+      "text": "To promote and implement the intent of this framework, DepEd, in consultation with the private sector , shall establish mechanisms and processes for regular policy dialogue, consultation, and coordination at different governance levels (i.e. central, regional and schools division) These mechanisms shall be defined and governed by   specific"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 266.3333333333333,
+            "t": 110.06669108072913,
+            "r": 335.6666666666667,
+            "b": 96.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Page 12 of 14",
+      "text": "Page 12 of 14"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 771.0666910807291,
+            "r": 538.6666666666666,
+            "b": 730.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "guidelines to be drafted jointly by DepEd and private sector representatives and shall be a permanent feature of DepEd operations and engagement with private education institutions.",
+      "text": "guidelines to be drafted jointly by DepEd and private sector representatives and shall be a permanent feature of DepEd operations and engagement with private education institutions."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 722.0666910807291,
+            "r": 540.0,
+            "b": 629.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "DepEd shall maintain effective communication channels with private education associations and federations. The network of private associations interfacing with DepEd through its various units and schools shall be developed into a community of practice that promotes a vibrant discourse on Philippine education, curriculum and teaching; professional development of school personnel, sustained improvement of school management; and building a consensus on the challenges and solutions facing the education system, as well as collective action to achieve national goals.",
+      "text": "DepEd shall maintain effective communication channels with private education associations and federations. The network of private associations interfacing with DepEd through its various units and schools shall be developed into a community of practice that promotes a vibrant discourse on Philippine education, curriculum and teaching; professional development of school personnel, sustained improvement of school management; and building a consensus on the challenges and solutions facing the education system, as well as collective action to achieve national goals."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 624.7333577473959,
+            "r": 539.0,
+            "b": 442.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1083
+          ]
+        }
+      ],
+      "orig": "DepEd shall also pursue inter-agency discussions with other government agencies, such as the Department of Budget and Management (DBM), the National Economic and Development Authority (NEDA) , and the Commission on Audit (COA) on the rationalization of the governments financial assistance and subsidy programs, particularly on aspects that need a coherent government position and inter-agency support following the principles of this framework. This inter-agency effort shall respond to the need to agree on establishing a transparent formula for making allocation decisions for   public schools and   private schools (through DepEds government assistance and subsidy programs) in the total basic education budget, based on the criteria of   cost-effectiveness (i.e cost per student relative to learning proficiency improvements achieved) and timely   delivery of   agreed results   relating to learning proficiency and reduction in learning poverty, among others. The Government Assistance and Subsidies Office (GASO) of DepEd shall serve as the focal in pursuing this action point",
+      "text": "DepEd shall also pursue inter-agency discussions with other government agencies, such as the Department of Budget and Management (DBM), the National Economic and Development Authority (NEDA) , and the Commission on Audit (COA) on the rationalization of the governments financial assistance and subsidy programs, particularly on aspects that need a coherent government position and inter-agency support following the principles of this framework. This inter-agency effort shall respond to the need to agree on establishing a transparent formula for making allocation decisions for   public schools and   private schools (through DepEds government assistance and subsidy programs) in the total basic education budget, based on the criteria of   cost-effectiveness (i.e cost per student relative to learning proficiency improvements achieved) and timely   delivery of   agreed results   relating to learning proficiency and reduction in learning poverty, among others. The Government Assistance and Subsidies Office (GASO) of DepEd shall serve as the focal in pursuing this action point"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 64.33333333333333,
+            "t": 436.0666910807292,
+            "r": 538.6666666666666,
+            "b": 384.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "The Private Education Office (PEO) of DepEd, under the supervision of the Office of the Assistant Secretary for Operations, shall be the overall focal point in the planning coordination, and implementation of policy and program actions to realize the objectives of this framework",
+      "text": "The Private Education Office (PEO) of DepEd, under the supervision of the Office of the Assistant Secretary for Operations, shall be the overall focal point in the planning coordination, and implementation of policy and program actions to realize the objectives of this framework"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 354.7333577473958,
+            "r": 291.0,
+            "b": 342.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "VII MONITORING AND EVALUATION",
+      "text": "VII MONITORING AND EVALUATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 63.666666666666664,
+            "t": 333.7333577473958,
+            "r": 539.3333333333334,
+            "b": 268.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "Implementation of this DepEd Order shall be monitored and evaluated by the PEO under the supervision of the Office of the Assistant Secretary for Operations. The PEO and the Office of the Assistant Secretary for Operations shall also conduct a periodic review of this DepEd Order and constant consultation with stakeholders to further enhance its provisions and effectiveness.",
+      "text": "Implementation of this DepEd Order shall be monitored and evaluated by the PEO under the supervision of the Office of the Assistant Secretary for Operations. The PEO and the Office of the Assistant Secretary for Operations shall also conduct a periodic review of this DepEd Order and constant consultation with stakeholders to further enhance its provisions and effectiveness."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 66.0,
+            "t": 243.4000244140625,
+            "r": 222.33333333333334,
+            "b": 230.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "VIII. REPEALING CLAUSE",
+      "text": "VIII. REPEALING CLAUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 219.73335774739587,
+            "r": 537.3333333333334,
+            "b": 178.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this Order are hereby repealed, rescinded or modified accordingly .",
+      "text": "All other DepEd Orders, Memoranda, and related issuances, rules and regulations, and provisions which are inconsistent with this Order are hereby repealed, rescinded or modified accordingly ."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 265.6666666666667,
+            "t": 110.06669108072913,
+            "r": 335.0,
+            "b": 96.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Page 13 of 14",
+      "text": "Page 13 of 14"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 767.7333577473959,
+            "r": 182.66666666666666,
+            "b": 757.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "IX AMENDMENT",
+      "text": "IX AMENDMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 66.0,
+            "t": 744.7333577473959,
+            "r": 538.3333333333334,
+            "b": 715.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "In the implementation of this Order, DepEd may introduce modifications hereto through the amendment of specific provisions as the need arises.",
+      "text": "In the implementation of this Order, DepEd may introduce modifications hereto through the amendment of specific provisions as the need arises."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 102.33333333333333,
+            "t": 680.7333577473959,
+            "r": 242.33333333333334,
+            "b": 668.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "SEPARABILITY CLAUSE",
+      "text": "SEPARABILITY CLAUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 657.7333577473959,
+            "r": 540.3333333333334,
+            "b": 628.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "If any provision of this Order is declared invalid or unenforceable by competent authority or the Courts, all other provisions not affected shall remain in force and in effect.",
+      "text": "If any provision of this Order is declared invalid or unenforceable by competent authority or the Courts, all other provisions not affected shall remain in force and in effect."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 593.7333577473959,
+            "r": 371.0,
+            "b": 581.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "XI. EFFECTIVITY AND TRANSITORY PROVISIONS",
+      "text": "XI. EFFECTIVITY AND TRANSITORY PROVISIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 570.0666910807292,
+            "r": 539.3333333333334,
+            "b": 490.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            476
+          ]
+        }
+      ],
+      "orig": "This DepEd Order shall take effect immediately. It shall be published in DepEds official website while its certified shall be registered with the Office of the National Administrative Registrar (ONAR) at the University of the Philippines (UP) Law Center , UP Diliman, Quezon The provisions of existing DepEd issuances inconsistent with this Order are amended or modified accordingly. The provisions of this Order shall remain in force until revoked or rescinded. copies City .",
+      "text": "This DepEd Order shall take effect immediately. It shall be published in DepEds official website while its certified shall be registered with the Office of the National Administrative Registrar (ONAR) at the University of the Philippines (UP) Law Center , UP Diliman, Quezon The provisions of existing DepEd issuances inconsistent with this Order are amended or modified accordingly. The provisions of this Order shall remain in force until revoked or rescinded. copies City ."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 66.0,
+            "t": 454.0666910807292,
+            "r": 185.66666666666666,
+            "b": 442.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "XII. REFERENCES",
+      "text": "XII. REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 121.33333333333333,
+            "t": 430.0666910807292,
+            "r": 422.0,
+            "b": 415.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "1 1987 Constitution of the Republic of the Philippines",
+      "text": "1 1987 Constitution of the Republic of the Philippines",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 404.4000244140625,
+            "r": 539.3333333333334,
+            "b": 337.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "3 Asian Development Bank-Senior High School Support Program Technical Assistance (ADB-SHSSP TA) . (2021)Assessment of the Educational Service   Contracting; Senior High School Voucher   Program and Joint Delivery Voucher Program for Senior High School Technical-VocationalLivelihood Specializations. Unpublished report.",
+      "text": "3 Asian Development Bank-Senior High School Support Program Technical Assistance (ADB-SHSSP TA) . (2021)Assessment of the Educational Service   Contracting; Senior High School Voucher   Program and Joint Delivery Voucher Program for Senior High School Technical-VocationalLivelihood Specializations. Unpublished report.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 138.33333333333334,
+            "t": 416.4000244140625,
+            "r": 507.0,
+            "b": 402.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Republic Act No. 9155 Governance of Basic Education Act of 2001",
+      "text": "Republic Act No. 9155 Governance of Basic Education Act of 2001",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 339.0666910807292,
+            "r": 539.0,
+            "b": 312.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "4. Republic Act No. 6728 Government Assistance to Students and Teachers in Private Education (GASTPE) Act",
+      "text": "Republic Act No. 6728 Government Assistance to Students and Teachers in Private Education (GASTPE) Act",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 248.4000244140625,
+            "r": 491.6666666666667,
+            "b": 234.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "6 Republic Act No. 10533 Enhanced Basic Education Act of 2013",
+      "text": "6 Republic Act No. 10533 Enhanced Basic Education Act of 2013",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 121.33333333333333,
+            "t": 315.06669108072913,
+            "r": 539.3333333333334,
+            "b": 246.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "5 Republic Act No. 8545 An Act Amending   Republic Act No 6728, Otherwise known as An Act Providing Government Assistance to Students and Teachers in Private Education and Appropriating Funds Therefor Establishing a Fund for the Purpose of Subsidizing Salaries of Private School Teachers, and Appropriating Funds Therefor",
+      "text": "5 Republic Act No. 8545 An Act Amending   Republic Act No 6728, Otherwise known as An Act Providing Government Assistance to Students and Teachers in Private Education and Appropriating Funds Therefor Establishing a Fund for the Purpose of Subsidizing Salaries of Private School Teachers, and Appropriating Funds Therefor",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 237.06669108072913,
+            "r": 508.0,
+            "b": 219.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "7 . Republic Act No. 8371 Indigenous Peoples Rights Act (IPRA) of 1997",
+      "text": "7 . Republic Act No. 8371 Indigenous Peoples Rights Act (IPRA) of 1997",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 267.0,
+            "t": 110.06669108072913,
+            "r": 336.3333333333333,
+            "b": 96.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Page 14 of 14",
+      "text": "Page 14 of 14"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.03529357910156,
+            "t": 51.79290771484375,
+            "r": 372.9017028808594,
+            "b": 31.84869384765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 373.8703308105469,
+            "t": 52.34466552734375,
+            "r": 485.8957824707031,
+            "b": 31.456787109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.59010314941406,
+            "t": 813.2221546173096,
+            "r": 389.5395202636719,
+            "b": 707.4654083251953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 486.489501953125,
+            "t": 49.58929443359375,
+            "r": 573.8388671875,
+            "b": 30.677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.7430419921875,
+            "t": 464.5329284667969,
+            "r": 375.13238525390625,
+            "b": 429.6454162597656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.8834533691406,
+            "t": 465.2021179199219,
+            "r": 452.28594970703125,
+            "b": 438.28900146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 460.2149963378906,
+            "t": 463.26617431640625,
+            "r": 515.9945678710938,
+            "b": 447.42669677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 331.2423095703125,
+            "t": 372.13214111328125,
+            "r": 450.06060791015625,
+            "b": 313.1434326171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 440.1043701171875,
+            "t": 818.5916728973389,
+            "r": 499.2315368652344,
+            "b": 760.9167556762695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 503.677734375,
+            "t": 815.9829998016357,
+            "r": 556.7651977539062,
+            "b": 763.6512145996094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 19.77906608581543,
+            "t": 527.6002197265625,
+            "r": 815.7882690429688,
+            "b": 76.4073486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 20.034469604492188,
+            "t": 573.5564117431641,
+            "r": 816.2352294921875,
+            "b": 92.12222290039062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 19.9762020111084,
+            "t": 527.6748962402344,
+            "r": 815.7278442382812,
+            "b": 81.93756103515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 19.77906608581543,
+            "t": 527.6002197265625,
+            "r": 815.7882690429688,
+            "b": 76.4073486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 20.4349365234375,
+            "t": 528.3205871582031,
+            "r": 816.56640625,
+            "b": 88.86007690429688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 19.4965877532959,
+            "t": 527.3253555297852,
+            "r": 815.8753051757812,
+            "b": 258.04010009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.6799926757812
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.6799926757812
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.6799926757812
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.6799926757812
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 842.4000244140625,
+        "height": 595.6799926757812
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 14
+    },
+    "15": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 15
+    },
+    "16": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 16
+    }
+  }
+}
