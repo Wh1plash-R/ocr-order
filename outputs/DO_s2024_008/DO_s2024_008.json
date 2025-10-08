@@ -1,0 +1,1462 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2024_008",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11379424168952123443,
+    "filename": "DO_s2024_008.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 655.7333577473959,
+            "r": 153.0,
+            "b": 641.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "DepEd ORDER",
+      "text": "DepEd ORDER"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.0,
+            "t": 606.7333577473959,
+            "r": 486.3333333333333,
+            "b": 580.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "(Amendment to DepEd Order No. 022, s. 2023 [Implementing Guidelines on the School Calendar and Activities for School Year 2023-2024])",
+      "text": "(Amendment to DepEd Order No. 022, s. 2023 [Implementing Guidelines on the School Calendar and Activities for School Year 2023-2024])"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.3333333333333,
+            "t": 807.4000244140625,
+            "r": 302.3333333333333,
+            "b": 800.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 270.13666772666346,
+            "t": 801.2186927767241,
+            "r": 294.52999894000317,
+            "b": 797.5813560514009,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "NARAN",
+      "text": "NARAN"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.4812588074688,
+            "t": 808.7160194011443,
+            "r": 316.8520745258645,
+            "b": 789.0840294269807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "EDUK",
+      "text": "EDUK"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.66666666666666,
+            "t": 619.4000244140625,
+            "r": 437.0,
+            "b": 606.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "AMENDMENT TO DEPED ORDER NO. 003, s. 2024",
+      "text": "AMENDMENT TO DEPED ORDER NO. 003, s. 2024",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 153.0,
+            "t": 581.4000244140625,
+            "r": 443.6666666666667,
+            "b": 569.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "AND START AND END OF SCHOOL YEAR 2024 2025",
+      "text": "AND START AND END OF SCHOOL YEAR 2024 2025",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.666666666666664,
+            "t": 555.7333577473958,
+            "r": 72.66666666666667,
+            "b": 545.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "To:",
+      "text": "To:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.33333333333333,
+            "t": 556.7333577473958,
+            "r": 393.3333333333333,
+            "b": 469.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "Undersecretaries Assistant Secretaries Bureau and Service Directors Minister, Basic, Higher and Technical Education, BARMM Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads",
+      "text": "Undersecretaries Assistant Secretaries Bureau and Service Directors Minister, Basic, Higher and Technical Education, BARMM Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.0,
+            "t": 471.0666910807292,
+            "r": 204.33333333333334,
+            "b": 458.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "All Others Concerned",
+      "text": "All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.666666666666664,
+            "t": 446.7333577473958,
+            "r": 539.3333333333334,
+            "b": 407.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "1 The Department of Education (DepEd) remains steadfast in its commitment to ensure the health, safety, and well-being of learners and teachers; as articulated under the MATATAG Agenda.",
+      "text": "1 The Department of Education (DepEd) remains steadfast in its commitment to ensure the health, safety, and well-being of learners and teachers; as articulated under the MATATAG Agenda.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.333333333333336,
+            "t": 399.4000244140625,
+            "r": 538.6666666666666,
+            "b": 369.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "2. To fulfill this commitment, DepEd, with the guidance of the Office of the President; recognizes the urgency of reverting the school calendar to the pre-pandemic opening of classes .",
+      "text": "To fulfill this commitment, DepEd, with the guidance of the Office of the President; recognizes the urgency of reverting the school calendar to the pre-pandemic opening of classes .",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.666666666666664,
+            "t": 360.4000244140625,
+            "r": 539.6666666666666,
+            "b": 309.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "3 In view of the foregoing, the provision of Paragraph 6, specifically bullet 4 of DepEd Order (DO) No 003, s. 2024, Amendment to DepEd Order No. 022, s. 2023 (Implementing Guidelines on the School Calendar and Activities for School Year 2023-2024) shall be amended and read as follows:",
+      "text": "3 In view of the foregoing, the provision of Paragraph 6, specifically bullet 4 of DepEd Order (DO) No 003, s. 2024, Amendment to DepEd Order No. 022, s. 2023 (Implementing Guidelines on the School Calendar and Activities for School Year 2023-2024) shall be amended and read as follows:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.33333333333333,
+            "t": 298.06669108072913,
+            "r": 496.3333333333333,
+            "b": 271.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Start and End of SY 2024-2025. SY 2024-2025 shall start on July 29, 2024, Monday and end on April 15, 2025, Tuesday.",
+      "text": "Start and End of SY 2024-2025. SY 2024-2025 shall start on July 29, 2024, Monday and end on April 15, 2025, Tuesday.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.666666666666664,
+            "t": 262.4000244140625,
+            "r": 539.0,
+            "b": 222.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "4 All Orders and issuances inconsistent with this Order are repealed or modified accordingly . All other provisions stated in DO 003, s. 2024 and DO 022, s. 2023, not affected by these amendments, shall remain effective.",
+      "text": "4 All Orders and issuances inconsistent with this Order are repealed or modified accordingly . All other provisions stated in DO 003, s. 2024 and DO 022, s. 2023, not affected by these amendments, shall remain effective.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.666666666666664,
+            "t": 213.06669108072913,
+            "r": 539.0,
+            "b": 172.10294946114868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "5 This Order shall take effect immediately upon approval and after publication on the DepEd website and registration with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City .",
+      "text": "5 This Order shall take effect immediately upon approval and after publication on the DepEd website and registration with the Office of the National Administrative Register (ONAR) at the University of the Philippines Law Center (UP LC), UP Diliman, Quezon City .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 163.73335774739587,
+            "r": 540.0,
+            "b": 126.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "6 For more information, please contact the Office of the Director of the Bureau Of Learning Delivery through email at bld od@deped.gov ph or telephone numbers (02) 8637 4346 and 8637-4347",
+      "text": "6 For more information, please contact the Office of the Director of the Bureau Of Learning Delivery through email at bld od@deped.gov ph or telephone numbers (02) 8637 4346 and 8637-4347",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 235.33333333333334,
+            "t": 47.06669108072913,
+            "r": 375.3333333333333,
+            "b": 37.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "8633-7208/8633-7228/8632-1361",
+      "text": "8633-7208/8633-7228/8632-1361"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 396.0,
+            "t": 46.4000244140625,
+            "r": 489.3333333333333,
+            "b": 36.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8636-4876/8637-6209",
+      "text": "8636-4876/8637-6209"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 455.6666666666667,
+            "t": 682.0666910807291,
+            "r": 517.6666666666666,
+            "b": 667.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JUN 1 8 2024",
+      "text": "JUN 1 8 2024"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.0,
+            "t": 47.73335774739587,
+            "r": 217.0,
+            "b": 35.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DepEd Complex, Meralco Avenue, Pasig City 1600",
+      "text": "DepEd Complex, Meralco Avenue, Pasig City 1600"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.666666666666664,
+            "t": 757.0666910807291,
+            "r": 62.666666666666664,
+            "b": 747.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.33333333333333,
+            "t": 759.0666910807291,
+            "r": 490.0,
+            "b": 742.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Immediate dissemination of and strict compliance with this Order is directed.",
+      "text": "Immediate dissemination of and strict compliance with this Order is directed."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.33333333333334,
+            "t": 714.4000244140625,
+            "r": 202.66666666666666,
+            "b": 706.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 201.47634887895916,
+            "t": 711.389122500451,
+            "r": 231.1903177877075,
+            "b": 679.0775929943406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 185.1643266244789,
+            "t": 661.3540024857817,
+            "r": 192.5023400421878,
+            "b": 655.1127130090099,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "'a",
+      "text": "'a"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 609.7333577473959,
+            "r": 115.66666666666667,
+            "b": 597.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "References:",
+      "text": "References:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.33333333333334,
+            "t": 714.4000244140625,
+            "r": 202.66666666666666,
+            "b": 706.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 335.6666666666667,
+            "t": 683.4000244140625,
+            "r": 440.3333333333333,
+            "b": 670.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SARA Z. DUTERTB",
+      "text": "SARA Z. DUTERTB"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 262.3333333333333,
+            "t": 671.4000244140625,
+            "r": 492.6666666666667,
+            "b": 644.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Vice President of the Republic of the Secretary of the Department of Education",
+      "text": "Vice President of the Republic of the Secretary of the Department of Education"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 201.47634887895916,
+            "t": 711.389122500451,
+            "r": 231.1903177877075,
+            "b": 679.0775929943406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 185.1643266244789,
+            "t": 661.3540024857817,
+            "r": 192.5023400421878,
+            "b": 655.1127130090099,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "'a",
+      "text": "'a"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.66666666666667,
+            "t": 598.7333577473959,
+            "r": 352.6666666666667,
+            "b": 582.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "DepEd Order (Nos. 003, s. 2024 and 022, s. 2023)",
+      "text": "DepEd Order (Nos. 003, s. 2024 and 022, s. 2023)"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.333333333333336,
+            "t": 573.4000244140625,
+            "r": 254.0,
+            "b": 546.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual Index under the following subjects:",
+      "text": "To be indicated in the Perpetual Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 90.33333333333333,
+            "t": 535.0666910807292,
+            "r": 225.0,
+            "b": 437.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "AMENDMENT BUREAUS AND OFFICES CALENDAR CLASSES LEARNERS POLICY SCHOOLS TEACHERS",
+      "text": "AMENDMENT BUREAUS AND OFFICES CALENDAR CLASSES LEARNERS POLICY SCHOOLS TEACHERS"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.333333333333336,
+            "t": 406.4000244140625,
+            "r": 121.33333333333333,
+            "b": 398.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "0212 June 18, 2024",
+      "text": "0212 June 18, 2024"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 335.6666666666667,
+            "t": 683.4000244140625,
+            "r": 440.3333333333333,
+            "b": 670.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SARA Z. DUTERTB",
+      "text": "SARA Z. DUTERTB"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 267.1065979003906,
+            "t": 808.8207092285156,
+            "r": 326.5862731933594,
+            "b": 750.4222030639648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 219.8771514892578,
+            "t": 57.6827392578125,
+            "r": 375.2450256347656,
+            "b": 37.25006103515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 378.3687744140625,
+            "t": 58.95745849609375,
+            "r": 489.0164489746094,
+            "b": 36.95623779296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 491.2939147949219,
+            "t": 56.0047607421875,
+            "r": 577.9345092773438,
+            "b": 36.93475341796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 95.53783416748047,
+            "t": 717.6826171875,
+            "r": 225.59751892089844,
+            "b": 651.7464447021484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 291.96307373046875,
+            "t": 707.7378692626953,
+            "r": 491.119140625,
+            "b": 669.3731079101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 479.0834045410156,
+            "t": 645.1714324951172,
+            "r": 509.2701721191406,
+            "b": 628.3883514404297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.6799926757812,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    }
+  }
+}

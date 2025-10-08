@@ -1,0 +1,2280 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2024_004",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3336600656233777813,
+    "filename": "DO_s2024_004.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/tables/4"
+      },
+      {
+        "$ref": "#/tables/5"
+      },
+      {
+        "$ref": "#/tables/6"
+      },
+      {
+        "$ref": "#/tables/7"
+      },
+      {
+        "$ref": "#/tables/8"
+      },
+      {
+        "$ref": "#/tables/9"
+      },
+      {
+        "$ref": "#/tables/10"
+      },
+      {
+        "$ref": "#/tables/11"
+      },
+      {
+        "$ref": "#/tables/12"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/37"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 239.33,
+            "t": 807.9160244140626,
+            "r": 277.487,
+            "b": 788.1950244140626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Cl.DA.,",
+      "text": "Cl.DA.,"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 6.99,
+            "t": 279.06202441406253,
+            "r": 9.336,
+            "b": 273.91702441406255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "'",
+      "text": "'"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 13.35,
+            "t": 279.06202441406253,
+            "r": 15.906,
+            "b": 273.91702441406255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.33333333333333,
+            "t": 751.7333577473959,
+            "r": 462.6666666666667,
+            "b": 709.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "SUPPLY AND DELIVERY STRATEGY AND CONTRACT IMPLEMENTATION IN THE DEPARTMENT OF EDUCATION CENTRAL OFFICE",
+      "text": "SUPPLY AND DELIVERY STRATEGY AND CONTRACT IMPLEMENTATION IN THE DEPARTMENT OF EDUCATION CENTRAL OFFICE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.0,
+            "t": 692.0666910807291,
+            "r": 153.0,
+            "b": 680.0666910807291,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "I. RATIONALE",
+      "text": "I. RATIONALE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 667.0666910807291,
+            "r": 526.3333333333334,
+            "b": 534.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            733
+          ]
+        }
+      ],
+      "orig": "1 In line with Presidential Decree No. Department of Education   (DepEd) strengthens the procurement and administrative policy where payment of the contract price is demandable only after the inspection and acceptance of procured goods by DepEd or its authorized representatives at the final destination and when and risks thereof are transferred to DepEd, through its schools, Schools Division Offices (SDOs), Regional Offices (ROs) or Central Office (CO). This policy also  acknowledges the business benefits of the supplier and forwarder relationship, or entities with both supply and delivery components wherein capabilities for both supplying and forwarding will be used to acquire and deliver goods to their final destinations.",
+      "text": "1 In line with Presidential Decree No. Department of Education   (DepEd) strengthens the procurement and administrative policy where payment of the contract price is demandable only after the inspection and acceptance of procured goods by DepEd or its authorized representatives at the final destination and when and risks thereof are transferred to DepEd, through its schools, Schools Division Offices (SDOs), Regional Offices (ROs) or Central Office (CO). This policy also  acknowledges the business benefits of the supplier and forwarder relationship, or entities with both supply and delivery components wherein capabilities for both supplying and forwarding will be used to acquire and deliver goods to their final destinations."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 523.7333577473958,
+            "r": 526.0,
+            "b": 458.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "DepEd, through this Order, aims to address the concerns and impediments during the planning and implementation of   procurement contracts by establishing a reliable, efficient, and effective procurement and risk management system that ensures timely delivery of goods to recipient schools, SDOs, ROs, and other DepEd offices.",
+      "text": "DepEd, through this Order, aims to address the concerns and impediments during the planning and implementation of   procurement contracts by establishing a reliable, efficient, and effective procurement and risk management system that ensures timely delivery of goods to recipient schools, SDOs, ROs, and other DepEd offices."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.66666666666667,
+            "t": 444.4000244140625,
+            "r": 526.3333333333334,
+            "b": 367.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "Further , DepEd is committed to applying best practices in the conduct of procurement activities to enable continual improvement of procurement strategies to demonstrate good custodianship and utilization of public funds. These guidelines also seek to strengthen the functions of different DepEd offices relative to procurement, contract implementation, and asset management.",
+      "text": "Further , DepEd is committed to applying best practices in the conduct of procurement activities to enable continual improvement of procurement strategies to demonstrate good custodianship and utilization of public funds. These guidelines also seek to strengthen the functions of different DepEd offices relative to procurement, contract implementation, and asset management."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.0,
+            "t": 353.4000244140625,
+            "r": 253.0,
+            "b": 341.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "II. SCOPE OF THE GUIDELINES",
+      "text": "II. SCOPE OF THE GUIDELINES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 327.4000244140625,
+            "r": 525.3333333333334,
+            "b": 263.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Government  Procurement  Reform  Act This Order Act No. (RA) 9184 or the and its Revised Implementing Rules and Regulations (IRR) . and infrastructure projects or civil works are excluded from the application of this Order .",
+      "text": "Government  Procurement  Reform  Act This Order Act No. (RA) 9184 or the and its Revised Implementing Rules and Regulations (IRR) . and infrastructure projects or civil works are excluded from the application of this Order ."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 227.06669108072913,
+            "r": 526.0,
+            "b": 144.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "2 This Order seeks to attain an effective and efficient policy that upholds the principles of delegation, namely, by results expected, absoluteness of responsibilities; parity of physical operations of projects vested upon them by the General Appropriations Act (GAA) and other relevant laws and regulations.",
+      "text": "2 This Order seeks to attain an effective and efficient policy that upholds the principles of delegation, namely, by results expected, absoluteness of responsibilities; parity of physical operations of projects vested upon them by the General Appropriations Act (GAA) and other relevant laws and regulations."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.95,
+            "t": 103.73335774739587,
+            "r": 278.3333333333333,
+            "b": 90.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "1 Government Auditing Code of the Philippines.",
+      "text": "1 Government Auditing Code of the Philippines."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.89,
+            "t": 89.68602441406256,
+            "r": 270.41,
+            "b": 79.55302441406252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "2 Rule II -Procurement Planning, Rule 7.3.2.",
+      "text": "2 Rule II -Procurement Planning, Rule 7.3.2."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 522.0,
+            "t": 838.4000244140625,
+            "r": 543.3333333333334,
+            "b": 827.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "NGE",
+      "text": "NGE"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 551.0,
+            "t": 810.7333577473959,
+            "r": 555.6666666666666,
+            "b": 801.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 525.0,
+            "t": 784.0666910807291,
+            "r": 532.3333333333334,
+            "b": 779.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.99699693633517,
+            "t": 832.1249491691343,
+            "r": 523.6696697303315,
+            "b": 824.6750996589907,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "WARAN",
+      "text": "WARAN"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 530.7341825923903,
+            "t": 790.1219777098937,
+            "r": 552.599150740943,
+            "b": 783.6780711182313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "PILIPINAS",
+      "text": "PILIPINAS"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 510.47855578400566,
+            "t": 790.03960141511,
+            "r": 523.8547775493277,
+            "b": 777.4271140796817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "UBLIKA",
+      "text": "UBLIKA"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 82.33333333333333,
+            "t": 772.4000244140625,
+            "r": 525.3333333333334,
+            "b": 742.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "All other DepEd issuances, or certain provisions thereof; not consistent with this DepEd Order are repealed, amended, or modified accordingly.",
+      "text": "All other DepEd issuances, or certain provisions thereof; not consistent with this DepEd Order are repealed, amended, or modified accordingly."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 70.33333333333333,
+            "t": 719.4000244140625,
+            "r": 342.3333333333333,
+            "b": 706.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "VIII. TRANSITORY AND EFFECTIVITY CLAUSE",
+      "text": "VIII. TRANSITORY AND EFFECTIVITY CLAUSE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 70.0,
+            "t": 696.0666910807291,
+            "r": 420.3333333333333,
+            "b": 677.7333577473959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "These guidelines shall take effect immediately upon its approval.",
+      "text": "These guidelines shall take effect immediately upon its approval."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 666.7333577473959,
+            "r": 525.6666666666666,
+            "b": 594.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "To ensure smooth transition of the implementation of Supply and Delivery Strategy , at least one signatory for inspection and other documents imperative to process payment shall suffice on those contracts and transactions which at the time of issuance of this Order are still pending and which utilized an unbundled supply and delivery procurement scheme.",
+      "text": "To ensure smooth transition of the implementation of Supply and Delivery Strategy , at least one signatory for inspection and other documents imperative to process payment shall suffice on those contracts and transactions which at the time of issuance of this Order are still pending and which utilized an unbundled supply and delivery procurement scheme."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 583.4000244140625,
+            "r": 525.3333333333334,
+            "b": 538.0998472730073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "Certified true of this Order shall be filed with the University of the Philippines Office of the National Administrative Register (UP-ONAR) at the University of the Philippines (UP) Law Center, UP Diliman, Quezon copies City .",
+      "text": "Certified true of this Order shall be filed with the University of the Philippines Office of the National Administrative Register (UP-ONAR) at the University of the Philippines (UP) Law Center, UP Diliman, Quezon copies City ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 70.0,
+            "t": 511.4000244140625,
+            "r": 179.66666666666666,
+            "b": 499.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "IX REFERENCES",
+      "text": "IX REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 486.0666910807292,
+            "r": 520.3333333333334,
+            "b": 471.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "1. Republic Act No. 9184 and its 2016 Revised Implementing Rules and Regulations",
+      "text": "Republic Act No. 9184 and its 2016 Revised Implementing Rules and Regulations",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 435.7333577473958,
+            "r": 524.6666666666666,
+            "b": 406.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "3. DepEd Order No. 041, s. 2021, titled \"Inspection and Acceptance Protocols for the Procurement of Goods in the Department of Education\"",
+      "text": "DepEd Order No. 041, s. 2021, titled \"Inspection and Acceptance Protocols for the Procurement of Goods in the Department of Education\"",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 474.4000244140625,
+            "r": 524.6666666666666,
+            "b": 432.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "2. DepEd Order No. 001, s. 2023, titled \"Revised Designation of Undersecretaries and Assistant Secretaries to their Strands and Functional Areas of Responsibilities and Revised Signing Authorities\"",
+      "text": "DepEd Order No. 001, s. 2023, titled \"Revised Designation of Undersecretaries and Assistant Secretaries to their Strands and Functional Areas of Responsibilities and Revised Signing Authorities\"",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 66.0,
+            "t": 409.7333577473958,
+            "r": 524.6666666666666,
+            "b": 368.0666910807292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "4 . DepEd Order No_ 048, S 2021 titled \"Operational Guidelines on the Implementation of the Department of Education Integrated Logistics Management System\"",
+      "text": "4 . DepEd Order No_ 048, S 2021 titled \"Operational Guidelines on the Implementation of the Department of Education Integrated Logistics Management System\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 331.0666910807292,
+            "r": 525.0,
+            "b": 303.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "6 . Office Order OO-OSEC-2021-040 dated October 26, 2021 titled \"Reconstitution of the Department of Education Central Office Pool of Inspectors\"",
+      "text": "6 . Office Order OO-OSEC-2021-040 dated October 26, 2021 titled \"Reconstitution of the Department of Education Central Office Pool of Inspectors\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 371.0666910807292,
+            "r": 525.0,
+            "b": 330.7333577473958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "5. DepEd Order No_ 027, S 2020, titled \"Guidelines on the Reconstitution of Inspectorate Team in the Department of Education Central Office, Regional and Schools Division Offices and Schools\"",
+      "text": "DepEd Order No_ 027, S 2020, titled \"Guidelines on the Reconstitution of Inspectorate Team in the Department of Education Central Office, Regional and Schools Division Offices and Schools\"",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 306.06669108072913,
+            "r": 524.3333333333334,
+            "b": 276.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "7 . Office Order OO-OSEC-2021-038 dated October 25, 2021, titled \"Guidelines on the Processing of Billings and Payment of Procurement Contracts\"",
+      "text": "7 . Office Order OO-OSEC-2021-038 dated October 25, 2021, titled \"Guidelines on the Processing of Billings and Payment of Procurement Contracts\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.33333333333333,
+            "t": 255.06669108072913,
+            "r": 524.6666666666666,
+            "b": 212.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "9 COA Circular No. 2023-004 dated June 14, 2023, with subject 'Prescribing the Updated Documentary   Requirements for Common Government Transactions, amending COA Circular No. 2012-001 dated June 14, 2012\"",
+      "text": "9 COA Circular No. 2023-004 dated June 14, 2023, with subject 'Prescribing the Updated Documentary   Requirements for Common Government Transactions, amending COA Circular No. 2012-001 dated June 14, 2012\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 64.66666666666667,
+            "t": 281.06669108072913,
+            "r": 524.0,
+            "b": 252.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "8. DepEd Order No. 029, s. 2022, titled \"Basic Education Monitoring and Evaluation Framework (BEMEF)\"",
+      "text": "DepEd Order No. 029, s. 2022, titled \"Basic Education Monitoring and Evaluation Framework (BEMEF)\"",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 214.73335774739587,
+            "r": 524.3333333333334,
+            "b": 186.4000244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "10.DBM National Budget Circular No. 2015-558 dated June 4,2015, titled Guidelines in the Organization and Staffing of Procurement Units",
+      "text": "10.DBM National Budget Circular No. 2015-558 dated June 4,2015, titled Guidelines in the Organization and Staffing of Procurement Units",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 150.68945713041273,
+            "r": 524.3333333333334,
+            "b": 84.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "also 12.COA Circular No. 2022-004 dated 31, 2022, with subject 'Guidelines on the Implementation of Section 23 of the General Provisions of Republic Act (RA) No 11639 as the General Appropriations Act (GAA) for Fiscal Year (FY) 2022 relative to the increase in the capitalization threshold from P15,000.00 to P5O,000.00 May",
+      "text": "also 12.COA Circular No. 2022-004 dated 31, 2022, with subject 'Guidelines on the Implementation of Section 23 of the General Provisions of Republic Act (RA) No 11639 as the General Appropriations Act (GAA) for Fiscal Year (FY) 2022 relative to the increase in the capitalization threshold from P15,000.00 to P5O,000.00 May",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 65.66666666666667,
+            "t": 190.4000244140625,
+            "r": 525.0,
+            "b": 150.06669108072913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "11 .Government Accounting Manual for National Government Agencies, Volume I Accounting   Policies; Guidelines and Procedures, and Illustrative Accounting Entries",
+      "text": "11 .Government Accounting Manual for National Government Agencies, Volume I Accounting   Policies; Guidelines and Procedures, and Illustrative Accounting Entries",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 260.0,
+            "t": 63.4000244140625,
+            "r": 331.0,
+            "b": 48.73335774739587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Page 21 of 21",
+      "text": "Page 21 of 21"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.39584350585938,
+            "t": 64.3460693359375,
+            "r": 233.5301513671875,
+            "b": 47.72613525390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.39727783203125,
+            "t": 828.6635961532593,
+            "r": 331.2366943359375,
+            "b": 761.6040954589844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 375.92462158203125,
+            "t": 64.0941162109375,
+            "r": 392.5388488769531,
+            "b": 47.30291748046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 487.95037841796875,
+            "t": 61.0599365234375,
+            "r": 498.67572021484375,
+            "b": 45.68634033203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.1244888305664,
+            "t": 738.2486724853516,
+            "r": 176.65867614746094,
+            "b": 671.9507751464844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 179.790771484375,
+            "t": 735.9884796142578,
+            "r": 240.71401977539062,
+            "b": 674.4940948486328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 263.7242126464844,
+            "t": 739.5494766235352,
+            "r": 490.8388671875,
+            "b": 695.1605377197266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 340.3831787109375,
+            "t": 677.2272338867188,
+            "r": 363.19610595703125,
+            "b": 663.4534606933594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 489.8382263183594,
+            "t": 690.0051727294922,
+            "r": 510.86236572265625,
+            "b": 671.7258148193359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 426.2579040527344,
+            "t": 836.706964969635,
+            "r": 493.2830505371094,
+            "b": 776.7214965820312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.0661926269531,
+            "t": 839.7297658920288,
+            "r": 558.0804443359375,
+            "b": 777.2023239135742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.594970703125,
+            "t": 374.5974426269531,
+            "r": 526.4832153320312,
+            "b": 112.0106201171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 70.2767105102539,
+            "t": 775.2206497192383,
+            "r": 527.6317138671875,
+            "b": 356.9023132324219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 70.35460662841797,
+            "t": 553.4389038085938,
+            "r": 524.369140625,
+            "b": 146.8868408203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.96905517578125,
+            "t": 338.0361328125,
+            "r": 540.2850341796875,
+            "b": 88.2340087890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 69.61023712158203,
+            "t": 774.9224014282227,
+            "r": 541.541259765625,
+            "b": 84.046630859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 102.19499969482422,
+            "t": 659.6900634765625,
+            "r": 509.9296875,
+            "b": 542.0358581542969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 98.8756332397461,
+            "t": 675.581298828125,
+            "r": 476.6794128417969,
+            "b": 613.3914947509766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 98.65118408203125,
+            "t": 584.6686706542969,
+            "r": 476.2200622558594,
+            "b": 523.2976379394531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 97.91924285888672,
+            "t": 494.22607421875,
+            "r": 475.7292785644531,
+            "b": 283.01806640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 97.38093566894531,
+            "t": 254.39520263671875,
+            "r": 475.0426940917969,
+            "b": 137.2568359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 69.45005798339844,
+            "t": 459.6756286621094,
+            "r": 549.8084716796875,
+            "b": 132.56988525390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 18,
+          "bbox": {
+            "l": 70.31368255615234,
+            "t": 774.8378067016602,
+            "r": 551.2399291992188,
+            "b": 77.23260498046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 19,
+          "bbox": {
+            "l": 70.52742767333984,
+            "t": 774.7870178222656,
+            "r": 550.5940551757812,
+            "b": 364.23138427734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.27099609375,
+        "height": 842.4000244140625
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 14
+    },
+    "15": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 15
+    },
+    "16": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 16
+    },
+    "17": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 17
+    },
+    "18": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 18
+    },
+    "19": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 19
+    },
+    "20": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 20
+    },
+    "21": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 21
+    },
+    "22": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 842.4000244140625
+      },
+      "page_no": 22
+    },
+    "23": {
+      "size": {
+        "width": 595.27099609375,
+        "height": 842.4000244140625
+      },
+      "page_no": 23
+    }
+  }
+}

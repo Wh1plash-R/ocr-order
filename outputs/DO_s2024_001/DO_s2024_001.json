@@ -1,0 +1,4718 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DO_s2024_001",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15757729112929673623,
+    "filename": "DO_s2024_001.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/pictures/14"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.96,
+            "t": 673.8930004414062,
+            "r": 152.788,
+            "b": 661.4060004414061,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "DepEd ORDER",
+      "text": "DepEd ORDER"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.96,
+            "t": 663.8070004414062,
+            "r": 154.248,
+            "b": 648.2430004414063,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "No. , s.2O24",
+      "text": "No. , s.2O24"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.56,
+            "t": 636.4550004414062,
+            "r": 436.78,
+            "b": 624.8930004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "RwOCATTOIT Or DEPED ORDER rO. O23, S. 2oit3",
+      "text": "RwOCATTOIT Or DEPED ORDER rO. O23, S. 2oit3",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.28,
+            "t": 623.8570004414062,
+            "r": 516.487,
+            "b": 600.6740004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "(Assumption of Authorit5r of the Department of Education Over tl1e 14 R.rblic Schools Affected by the Supreme Court Decision  in G.R. No. 2353f 6)",
+      "text": "(Assumption of Authorit5r of the Department of Education Over tl1e 14 R.rblic Schools Affected by the Supreme Court Decision  in G.R. No. 2353f 6)"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.12,
+            "t": 598.6580004414062,
+            "r": 501.67,
+            "b": 563.6430004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "PURAUATT TO TIIE HEUORAf,DUI  OT AGRTEUE.rT  BET9EEIY TIIE CTTY Otr UANA:TI,  TEE CITT OF TAGT'IG, AIID TEE DEPARruEilT OT EDUCiATIOT",
+      "text": "PURAUATT TO TIIE HEUORAf,DUI  OT AGRTEUE.rT  BET9EEIY TIIE CTTY Otr UANA:TI,  TEE CITT OF TAGT'IG, AIID TEE DEPARruEilT OT EDUCiATIOT"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.6,
+            "t": 548.9790004414062,
+            "r": 339.225,
+            "b": 465.0030004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "To Undersecretaries Assistant Secretaries Bureau and Service  Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned",
+      "text": "To Undersecretaries Assistant Secretaries Bureau and Service  Directors Regional Directors Schools Division Superintendents Public Elementary and Secondary School Heads All Others Concerned"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.6,
+            "t": 454.6470004414062,
+            "r": 537.939,
+            "b": 391.0990004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "1. In line with the final and executory Supreme Cor:rt Decision in the furtctpaltty of Uatatl ve. Uuotclpaltty of T.gtdg  lC.R-  fo. 2353161,  the Department of Education (DepEd), in coordination with the Cities of Makati and Taguig, has prepared for transition  of the manaSement  of the 14 public schools within the EMBO barangays, from DepEd Makati City to DepEd Taguig City.",
+      "text": "In line with the final and executory Supreme Cor:rt Decision in the furtctpaltty of Uatatl ve. Uuotclpaltty of T.gtdg  lC.R-  fo. 2353161,  the Department of Education (DepEd), in coordination with the Cities of Makati and Taguig, has prepared for transition  of the manaSement  of the 14 public schools within the EMBO barangays, from DepEd Makati City to DepEd Taguig City.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.24,
+            "t": 380.4870004414062,
+            "r": 536.948,
+            "b": 305.1630004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            489
+          ]
+        }
+      ],
+      "orig": "2. In cognizance  of tJ:e need to provide  a safe and enabling  environment for learners, teachers  and personnel,  the Departrnent issued on August 16,2023  DepDd  Ordor (DOf [fo. O23, t. 2ot23 titled Arunptfoa  of Authorlt5z of the Deltartncat  of Edscetlon Ovcr thc 14 hrbllc Schoob Aficctcd b5r thc Suprcoc  Court Dcttdoa h  G.R- f,o. 235it 16, thereb5r placing the 14 schools  under direct supervision  of the Office of the Secretary, pending the development  of a transition plan.  r",
+      "text": "In cognizance  of tJ:e need to provide  a safe and enabling  environment for learners, teachers  and personnel,  the Departrnent issued on August 16,2023  DepDd  Ordor (DOf [fo. O23, t. 2ot23 titled Arunptfoa  of Authorlt5z of the Deltartncat  of Edscetlon Ovcr thc 14 hrbllc Schoob Aficctcd b5r thc Suprcoc  Court Dcttdoa h  G.R- f,o. 235it 16, thereb5r placing the 14 schools  under direct supervision  of the Office of the Secretary, pending the development  of a transition plan.  r",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.24,
+            "t": 294.8070004414062,
+            "r": 538.185,
+            "b": 243.49900044140622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "3. The Memorandum of Agreement  (MOA) entered  into by the City of Makati, the City of Taguig,  and the Department provides  that DepEd Taguig City and Pateros shall manage and operate  the 14 schools, subject  to specific issues and appeals  that shall be left to the final determination  of the appropriate authorities.",
+      "text": "The Memorandum of Agreement  (MOA) entered  into by the City of Makati, the City of Taguig,  and the Department provides  that DepEd Taguig City and Pateros shall manage and operate  the 14 schools, subject  to specific issues and appeals  that shall be left to the final determination  of the appropriate authorities.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.6,
+            "t": 233.24700044140627,
+            "r": 537.24,
+            "b": 194.38600044140617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "4. Rrrsuant to said MOA, DO O23, s. 2023 is revoked.  Beginning January 1,2024, the management of the following l4 schools is officially tumed over to DepEd Taguig City and Pateros:",
+      "text": "Rrrsuant to said MOA, DO O23, s. 2023 is revoked.  Beginning January 1,2024, the management of the following l4 schools is officially tumed over to DepEd Taguig City and Pateros:",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.6,
+            "t": 183.20900044140626,
+            "r": 253.947,
+            "b": 168.87100044140618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "a. Makati  Science  Higlr School",
+      "text": "Makati  Science  Higlr School",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 159.0870004414062,
+            "r": 235.587,
+            "b": 143.82400044140627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "c. Rizal Elementary School",
+      "text": "Rizal Elementary School",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 170.96800044140616,
+            "r": 262.227,
+            "b": 156.1680004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "b. Comembo Elementary School",
+      "text": "Comembo Elementary School",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 146.48900044140623,
+            "r": 244.947,
+            "b": 132.15100044140627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "d. Pembo Elementary School",
+      "text": "Pembo Elementary School",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 122.72700044140618,
+            "r": 216.867,
+            "b": 107.46400044140614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "f. Tibagan  High School",
+      "text": "Tibagan  High School",
+      "enumerated": true,
+      "marker": "f."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 134.24900044140622,
+            "r": 312.627,
+            "b": 119.91100044140626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "e. Benigno  \"Nino/  S. Aquino High School",
+      "text": "Benigno  \"Nino/  S. Aquino High School",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 110.12800044140624,
+            "r": 283.107,
+            "b": 95.32800044140618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "g. Fort Bonifacio Elementary School",
+      "text": "Fort Bonifacio Elementary School",
+      "enumerated": true,
+      "marker": "g."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.24,
+            "t": 97.52800044140622,
+            "r": 248.187,
+            "b": 82.72800044140615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "h. Fort Bonifacio High School",
+      "text": "Fort Bonifacio High School",
+      "enumerated": true,
+      "marker": "h."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.96,
+            "t": 70.18500044140615,
+            "r": 231.272,
+            "b": 60.98400044140624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "I  Scction  3, Dcpertmcnt  Ordcr  No. O23, 8. 2023",
+      "text": "I  Scction  3, Dcpertmcnt  Ordcr  No. O23, 8. 2023"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 221.4,
+            "t": 56.83100044140622,
+            "r": 235.022,
+            "b": 34.16800044140621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "p",
+      "text": "p"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 294.48,
+            "t": 797.0040004414062,
+            "r": 299.484,
+            "b": 780.3540004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.92,
+            "t": 773.6190004414062,
+            "r": 308.751,
+            "b": 763.9070004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "FT",
+      "text": "FT"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.6666666666667,
+            "t": 815.7733357747396,
+            "r": 304.3333333333333,
+            "b": 809.1066691080729,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.3333333333333,
+            "t": 759.1066691080729,
+            "r": 304.3333333333333,
+            "b": 753.7733357747396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.81794574688524,
+            "t": 813.7633628114172,
+            "r": 335.18205425311476,
+            "b": 780.1166420713953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.59352615943357,
+            "t": 767.9684184341427,
+            "r": 283.0731405072331,
+            "b": 762.5782531153366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ";",
+      "text": ";"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.82157075747597,
+            "t": 765.0823477144929,
+            "r": 294.8450959091907,
+            "b": 751.7976571683196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "UBLIKA",
+      "text": "UBLIKA"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.12,
+            "t": 746.9650004414062,
+            "r": 365.348,
+            "b": 729.9580004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "irfutlit ot tlr SDilipitr.i",
+      "text": "irfutlit ot tlr SDilipitr.i",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 205.2,
+            "t": 727.5250004414062,
+            "r": 391.44,
+            "b": 710.7210004414062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Desartment of GUuotion",
+      "text": "Desartment of GUuotion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.08,
+            "t": 58.977000441406176,
+            "r": 387.837,
+            "b": 29.839000441406142,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 463.0,
+            "t": 693.1066691080729,
+            "r": 524.3333333333334,
+            "b": 679.1066691080729,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JAN 1 5 2024",
+      "text": "JAN 1 5 2024"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 491.76,
+            "t": 46.04600044140625,
+            "r": 573.677,
+            "b": 30.321000441406227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "asww.deped.gov.ph",
+      "text": "asww.deped.gov.ph"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 19.8,
+            "t": 39.58100044140622,
+            "r": 215.57,
+            "b": 30.793000441406207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "DcpEd Complcx,  Meralco AvcDuc,  Pa.si8  City 16q)",
+      "text": "DcpEd Complcx,  Meralco AvcDuc,  Pa.si8  City 16q)"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 237.24,
+            "t": 39.58100044140622,
+            "r": 375.05,
+            "b": 30.793000441406207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "a633-720a  I  a633-7 22A  I  a632- 136r",
+      "text": "a633-720a  I  a633-7 22A  I  a632- 136r"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.44,
+            "t": 38.86300044140626,
+            "r": 487.215,
+            "b": 30.640000441406187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "a636-4a761a637 -6209",
+      "text": "a636-4a761a637 -6209"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 93.6,
+            "t": 791.9669998828125,
+            "r": 241.707,
+            "b": 776.7049998828126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "i. Pitogo  Elementar5r  School",
+      "text": "Pitogo  Elementar5r  School",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 93.6,
+            "t": 767.1279998828126,
+            "r": 246.387,
+            "b": 752.3279998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "k. Cembo  Elementary School",
+      "text": "Cembo  Elementary School",
+      "enumerated": true,
+      "marker": "k."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.16,
+            "t": 780.8069998828125,
+            "r": 207.147,
+            "b": 765.2429998828126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "j. Pitogo  High School",
+      "text": "Pitogo  High School",
+      "enumerated": true,
+      "marker": "j."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 93.24,
+            "t": 755.2469998828125,
+            "r": 272.667,
+            "b": 739.9849998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "l. East Rembo  Elementary School",
+      "text": "East Rembo  Elementary School",
+      "enumerated": true,
+      "marker": "l."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 93.24,
+            "t": 739.7749998828125,
+            "r": 274.467,
+            "b": 728.1629998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "m. West Rembo Elementary School",
+      "text": "West Rembo Elementary School",
+      "enumerated": true,
+      "marker": "m."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 93.24,
+            "t": 730.0479998828125,
+            "r": 280.587,
+            "b": 715.2479998828126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "n. South Cembo Elementary School",
+      "text": "South Cembo Elementary School",
+      "enumerated": true,
+      "marker": "n."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.6,
+            "t": 705.5669998828125,
+            "r": 338.366,
+            "b": 690.3049998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "5. A copy of the MOA is provided  in tJle Enclosure.",
+      "text": "A copy of the MOA is provided  in tJle Enclosure.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.24,
+            "t": 681.4469998828125,
+            "r": 535.632,
+            "b": 654.2589998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "6. All edsting orders, memoranda,  and other related  issuances inconsistent with this Order are repealed, rescinded,  or modified accordingly.",
+      "text": "All edsting orders, memoranda,  and other related  issuances inconsistent with this Order are repealed, rescinded,  or modified accordingly.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.52,
+            "t": 644.3669998828125,
+            "r": 535.825,
+            "b": 604.9389998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "7. T?ris Order shall take effect immediately  after its publication  on the DepEd  website. This shall be registered  with the Office of the National Administrative Register  (ONAR)  at the Universit5r  of the Philippines Law Center (UP LC), uP Diliman,  Quezon  City.",
+      "text": "T?ris Order shall take effect immediately  after its publication  on the DepEd  website. This shall be registered  with the Office of the National Administrative Register  (ONAR)  at the Universit5r  of the Philippines Law Center (UP LC), uP Diliman,  Quezon  City.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.88,
+            "t": 595.0469998828125,
+            "r": 486.946,
+            "b": 579.7389998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "8. Immediate  dissemination  of and strict compliance  with this Order is directed",
+      "text": "Immediate  dissemination  of and strict compliance  with this Order is directed",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.08,
+            "t": 531.6809998828126,
+            "r": 431.779,
+            "b": 506.40299988281254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "%4\\l*(iah SARA Z. DITTERTE",
+      "text": "%4\\l*(iah SARA Z. DITTERTE"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 456.84,
+            "t": 535.2979998828125,
+            "r": 478.922,
+            "b": 525.1229998828126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "r- ;--",
+      "text": "r- ;--"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 248.04,
+            "t": 533.1019998828125,
+            "r": 296.122,
+            "b": 506.2769998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": ",g^\"",
+      "text": ",g^\""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.08,
+            "t": 531.6809998828126,
+            "r": 431.779,
+            "b": 506.40299988281254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "%4\\l*(iah SARA Z. DITTERTE",
+      "text": "%4\\l*(iah SARA Z. DITTERTE"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 258.48,
+            "t": 506.1349998828125,
+            "r": 494.905,
+            "b": 481.5629998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Vie Presidert ofthe Republic of the Philippines Secretary of the Degrtnent  of M  cation",
+      "text": "Vie Presidert ofthe Republic of the Philippines Secretary of the Degrtnent  of M  cation"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 479.52,
+            "t": 549.7069998828125,
+            "r": 553.498,
+            "b": 509.7509998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Digitally  slgncd bY Duterte  Sara \"-ifi\\zmmerman Dare 2024.0r  .r 5 0912J9  +04'00",
+      "text": "Digitally  slgncd bY Duterte  Sara \"-ifi\\zmmerman Dare 2024.0r  .r 5 0912J9  +04'00"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 456.84,
+            "t": 535.2979998828125,
+            "r": 478.922,
+            "b": 525.1229998828126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "r- ;--",
+      "text": "r- ;--"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 248.04,
+            "t": 533.1019998828125,
+            "r": 296.122,
+            "b": 506.2769998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": ",g^\"",
+      "text": ",g^\""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 382.32,
+            "t": 426.56399988281254,
+            "r": 427.338,
+            "b": 409.9139998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "c_::%",
+      "text": "c_::%"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 379.8,
+            "t": 412.1499998828125,
+            "r": 429.825,
+            "b": 389.0249998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "i.EI,I",
+      "text": "i.EI,I"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.12,
+            "t": 429.4589998828125,
+            "r": 324.039,
+            "b": 419.7459998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 365.4,
+            "t": 430.1789998828125,
+            "r": 368.319,
+            "b": 420.4659998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 403.0,
+            "t": 435.2133382161458,
+            "r": 413.6666666666667,
+            "b": 428.5466715494792,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 405.6666666666667,
+            "t": 383.8800048828125,
+            "r": 413.0,
+            "b": 379.2133382161458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.52,
+            "t": 456.09799988281253,
+            "r": 80.973,
+            "b": 445.9229998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Encl.",
+      "text": "Encl."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.8,
+            "t": 443.4979998828125,
+            "r": 138.324,
+            "b": 433.3229998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "As stated",
+      "text": "As stated"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.16,
+            "t": 418.2989998828125,
+            "r": 107.515,
+            "b": 408.58599988281253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Reference:",
+      "text": "Reference:"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.16,
+            "t": 406.4179998828125,
+            "r": 252.389,
+            "b": 395.7789998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "DepEd Order (No. O23, s.2O23l",
+      "text": "DepEd Order (No. O23, s.2O23l"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.44,
+            "t": 381.93699988281253,
+            "r": 251.329,
+            "b": 359.1629998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "To be indicated in the Perpetual  Index under the following subjects:",
+      "text": "To be indicated in the Perpetual  Index under the following subjects:"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.08,
+            "t": 345.2189998828125,
+            "r": 163.567,
+            "b": 248.7459998828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "CHANGE LEARNERS OFFICIALS POLICY PROGRAMS SCHOOLS SUPERVISION TEACHERS",
+      "text": "CHANGE LEARNERS OFFICIALS POLICY PROGRAMS SCHOOLS SUPERVISION TEACHERS"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.72,
+            "t": 223.18699988281253,
+            "r": 211.016,
+            "b": 208.01699988281257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "JDMC, APA, l,rc, DO R.loetioo  of DO O23. .- 2023 @24  -Jbtdt 12,2024,",
+      "text": "JDMC, APA, l,rc, DO R.loetioo  of DO O23. .- 2023 @24  -Jbtdt 12,2024,"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 425.52,
+            "t": 809.9680002343749,
+            "r": 556.184,
+            "b": 795.168000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SCANNED COPY",
+      "text": "SCANNED COPY"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.292,
+            "t": 784.5590002343749,
+            "r": 337.112,
+            "b": 774.667000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "(Enclosure to DepEd Order No.         , s. 2024)",
+      "text": "(Enclosure to DepEd Order No.         , s. 2024)"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 228.24,
+            "t": 720.3430002343749,
+            "r": 373.159,
+            "b": 711.5540002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "MEMORANOUM OF AGREEMENT",
+      "text": "MEMORANOUM OF AGREEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.08,
+            "t": 692.984000234375,
+            "r": 252.704,
+            "b": 684.657000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "KNOW ALL MEN BY THES€ PRESENTS:",
+      "text": "KNOW ALL MEN BY THES€ PRESENTS:"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 122.76,
+            "t": 669.220000234375,
+            "r": 456.02,
+            "b": 658.7370002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "This  Memorandum of Agreement  is made and entered into by and between:",
+      "text": "This  Memorandum of Agreement  is made and entered into by and between:"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.08,
+            "t": 641.864000234375,
+            "r": 489.016,
+            "b": 592.8570002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "CITY  OF MA(ATI, an entity created  under Republic  Act 7854, with address  at JP Rizal street,  Barangay  Poblacion, Makati  City, Metro  Manila,  represented  in this act by its Mayor, Hon.  Mar-Len AbiBail  Binay  -  campos,  by virtue of a Resolution  issued  by the Sangguniang Panlungsod  of Makati City, hereinafter referred  to as Makati  City.",
+      "text": "CITY  OF MA(ATI, an entity created  under Republic  Act 7854, with address  at JP Rizal street,  Barangay  Poblacion, Makati  City, Metro  Manila,  represented  in this act by its Mayor, Hon.  Mar-Len AbiBail  Binay  -  campos,  by virtue of a Resolution  issued  by the Sangguniang Panlungsod  of Makati City, hereinafter referred  to as Makati  City."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 287.28,
+            "t": 578.4970002343749,
+            "r": 314.121,
+            "b": 567.860000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "-and-",
+      "text": "-and-"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.44,
+            "t": 551.860000234375,
+            "r": 510.04,
+            "b": 499.514000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "CITY  OF TAGUIG, an entity  created under Republic  Act 8487, with address  at Gen' [una St., Barangay Tuktukan, Taguit  City, represented  in this act by its Mayor, Hon Maria Laarni Clyetano, by virtue of a Resolution  issued by the Sangguniang Panlungsod  of TaguiE,  hereinafter referred  to as TaguiS  CitY.",
+      "text": "CITY  OF TAGUIG, an entity  created under Republic  Act 8487, with address  at Gen' [una St., Barangay Tuktukan, Taguit  City, represented  in this act by its Mayor, Hon Maria Laarni Clyetano, by virtue of a Resolution  issued by the Sangguniang Panlungsod  of TaguiE,  hereinafter referred  to as TaguiS  CitY."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 288.0,
+            "t": 486.33700023437495,
+            "r": 314.841,
+            "b": 475.70000023437495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "-and-",
+      "text": "-and-"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.16,
+            "t": 460.059000234375,
+            "r": 509.98,
+            "b": 407.45700023437496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "DEmRfME T oF EDUCATION,  an agency of the Republic  of the Philippines, with address  at DepEd complex, Meralco Avenue, Pasi8,  Metro Manila, represented  in this act by the Secretary  of Education,  the Honorable  sarah Duterte, concurrently  vice President of the Republic  of the Philippines,  hereinafter referred  to as the DEPED'",
+      "text": "DEmRfME T oF EDUCATION,  an agency of the Republic  of the Philippines, with address  at DepEd complex, Meralco Avenue, Pasi8,  Metro Manila, represented  in this act by the Secretary  of Education,  the Honorable  sarah Duterte, concurrently  vice President of the Republic  of the Philippines,  hereinafter referred  to as the DEPED'"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 261.36,
+            "t": 392.74100023437495,
+            "r": 343.73,
+            "b": 383.44100023437494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "WITNESSETH:  That",
+      "text": "WITNESSETH:  That",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.88,
+            "t": 367.54100023437496,
+            "r": 511.353,
+            "b": 315.76100023437493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "WHEREAS,  by virtue  of the Decision  dated December 01, 2021 of the Honorable supreme  court in G.R.  No. 235316 entitled  \"Municipality  of Makati  vs. Municipality of Tagui8\", confirmed that ten  (10) barangays  in Parcels 3 & 4 of Psu-2031  are  part  of the territory oJ Taguig City.",
+      "text": "WHEREAS,  by virtue  of the Decision  dated December 01, 2021 of the Honorable supreme  court in G.R.  No. 235316 entitled  \"Municipality  of Makati  vs. Municipality of Tagui8\", confirmed that ten  (10) barangays  in Parcels 3 & 4 of Psu-2031  are  part  of the territory oJ Taguig City."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 93.6,
+            "t": 302.74100023437495,
+            "r": 462.88,
+            "b": 276.31400023437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "wHEREAS, several  public  schools  located within the said area were previously administered  by DEPED  Makati Division.",
+      "text": "wHEREAS, several  public  schools  located within the said area were previously administered  by DEPED  Makati Division."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 93.6,
+            "t": 263.50100023437494,
+            "r": 486.34,
+            "b": 224.83400023437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "WHEREAs,  Makati  City maintains that the Supreme Court decision does not vest ownership of the school land, building,  facilities  and equipment in favor  of Tagui8 but only provides  that said schools  are within  the territorial  iurisdiction  of Taguig City'",
+      "text": "WHEREAs,  Makati  City maintains that the Supreme Court decision does not vest ownership of the school land, building,  facilities  and equipment in favor  of Tagui8 but only provides  that said schools  are within  the territorial  iurisdiction  of Taguig City'"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 93.96,
+            "t": 210.220000234375,
+            "r": 526.478,
+            "b": 171.090000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "WHEREAS, Taguig City on the other hand asserts that by virtue of the above-mentioned supreme court decision and other applicable  laws,  ownership  of the sch al land, buildine,  andafacilities, and  equipment belong to TaguiS City and/or the DEPED.",
+      "text": "WHEREAS, Taguig City on the other hand asserts that by virtue of the above-mentioned supreme court decision and other applicable  laws,  ownership  of the sch al land, buildine,  andafacilities, and  equipment belong to TaguiS City and/or the DEPED."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.08,
+            "t": 177.08700023437495,
+            "r": 525.78,
+            "b": 161.825000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Lh\")",
+      "text": "Lh\")"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 475.2,
+            "t": 160.874000234375,
+            "r": 526.881,
+            "b": 139.5990002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Lt^W",
+      "text": "Lt^W"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.4,
+            "t": 138.93200023437498,
+            "r": 504.292,
+            "b": 125.98200023437494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.08,
+            "t": 177.08700023437495,
+            "r": 525.78,
+            "b": 161.825000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Lh\")",
+      "text": "Lh\")"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 475.2,
+            "t": 160.874000234375,
+            "r": 526.881,
+            "b": 139.5990002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Lt^W",
+      "text": "Lt^W"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.4,
+            "t": 138.93200023437498,
+            "r": 504.292,
+            "b": 125.98200023437494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 487.44,
+            "t": 748.383000234375,
+            "r": 538.113,
+            "b": 722.0210002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "iE.F",
+      "text": "iE.F"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 425.88,
+            "t": 771.8040002343749,
+            "r": 437.886,
+            "b": 755.154000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 429.12,
+            "t": 725.020000234375,
+            "r": 434.68,
+            "b": 715.770000234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 473.76,
+            "t": 768.942000234375,
+            "r": 476.262,
+            "b": 760.6170002343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 512.3333333333334,
+            "t": 769.9066569010416,
+            "r": 522.3333333333334,
+            "b": 763.239990234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NG",
+      "text": "NG"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.64,
+            "t": 722.1420073242188,
+            "r": 500.89,
+            "b": 685.6340073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "WHtREAS, the impasse  created by conflicting posi60ns of Makati City and TaguiS City towards  the ownership  of the land  and school facilities  prevents  the orderly  transihon of the opera6on  of the subject schools  from DEPED Makati  Oivision  to DEPED  Taguig-Pateros  Division",
+      "text": "WHtREAS, the impasse  created by conflicting posi60ns of Makati City and TaguiS City towards  the ownership  of the land  and school facilities  prevents  the orderly  transihon of the opera6on  of the subject schools  from DEPED Makati  Oivision  to DEPED  Taguig-Pateros  Division"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.36,
+            "t": 669.9420073242187,
+            "r": 477.792,
+            "b": 646.3940073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "WHEREAS, the parties  have agreed that the issue of ownership  of the school land, building,  facilities,  and equipment should  be left to the final determinahon by the courts.",
+      "text": "WHEREAS, the parties  have agreed that the issue of ownership  of the school land, building,  facilities,  and equipment should  be left to the final determinahon by the courts."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.0,
+            "t": 631.0600073242186,
+            "r": 506.02,
+            "b": 568.0170073242188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            452
+          ]
+        }
+      ],
+      "orig": "wHEREAS, it is vital that the educational  services  being extended  to the students  in the afore-mentioned schools  remain  uninterrupted  pending  resolution  of the conflictinB  positions of Makati  City and Taguig City and the DEPED  has brokered  an interim  solution to ensure  the con6nued provision  of education  services  without necessarily  having  the Citv of Makati  and the City of Taguig abandoning  their respective  positions  above.",
+      "text": "wHEREAS, it is vital that the educational  services  being extended  to the students  in the afore-mentioned schools  remain  uninterrupted  pending  resolution  of the conflictinB  positions of Makati  City and Taguig City and the DEPED  has brokered  an interim  solution to ensure  the con6nued provision  of education  services  without necessarily  having  the Citv of Makati  and the City of Taguig abandoning  their respective  positions  above."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.72,
+            "t": 552.2200073242187,
+            "r": 500.84,
+            "b": 528.2100073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "WHEREAS, the parties  have agreed  to conclude  the transition  process  by executing this Memorandum of ABreement.",
+      "text": "WHEREAS, the parties  have agreed  to conclude  the transition  process  by executing this Memorandum of ABreement."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.36,
+            "t": 512.2610073242187,
+            "r": 509.093,
+            "b": 488.6100073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "NOW THEREFORE,  for and in consideration  of the foreSoing  premises,  it is hereby agreed as follows:",
+      "text": "NOW THEREFORE,  for and in consideration  of the foreSoing  premises,  it is hereby agreed as follows:"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.48,
+            "t": 475.1700073242187,
+            "r": 509.568,
+            "b": 436.1540073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "1. Subiect  to the terms  of this Agreement,  DEPED  Taguig-Pateros  Oivision shall continue  to manage and operate  the following  schools  including  their land, buildings, facilities,  and  equipment  be8inning January 1, 2024,  to wit:",
+      "text": "Subiect  to the terms  of this Agreement,  DEPED  Taguig-Pateros  Oivision shall continue  to manage and operate  the following  schools  including  their land, buildings, facilities,  and  equipment  be8inning January 1, 2024,  to wit:",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.32,
+            "t": 418.3040073242187,
+            "r": 316.845,
+            "b": 240.41700732421873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            386
+          ]
+        }
+      ],
+      "orig": "PITOGO ELEMENTARY  SCHOOT PITOGO HIGH SCHOOL SOUTH CEMBO ELEMENTARY  SCHOOT CEMBO  ELEMENTARY  SCHOOL MAKATI  SCIENCE  HIGH SCHOOT' WEST REMBO  ETEMENTARY  SCHOOL TORT BONIFACIO  ELEMENTARY  SCHOOL' FORT EONIFACIO  HIGH  sCHOOI.. EAST REMBO  ELEMENTARY SCHOOL TIBAGAN HIGH SCHOOL COMEMBO  ELEMENTARY SCHOOL BENIGNO  AQUINO  HIGH SCHOOt PEMBO  ELEMENTARY SCHOOT RIZAT ELEMENTARY SCHOOI,'",
+      "text": "PITOGO ELEMENTARY  SCHOOT PITOGO HIGH SCHOOL SOUTH CEMBO ELEMENTARY  SCHOOT CEMBO  ELEMENTARY  SCHOOL MAKATI  SCIENCE  HIGH SCHOOT' WEST REMBO  ETEMENTARY  SCHOOL TORT BONIFACIO  ELEMENTARY  SCHOOL' FORT EONIFACIO  HIGH  sCHOOI.. EAST REMBO  ELEMENTARY SCHOOL TIBAGAN HIGH SCHOOL COMEMBO  ELEMENTARY SCHOOL BENIGNO  AQUINO  HIGH SCHOOt PEMBO  ELEMENTARY SCHOOT RIZAT ELEMENTARY SCHOOI,'"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.68,
+            "t": 224.2600073242187,
+            "r": 500.33,
+            "b": 199.99400732421873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "(rsubject to the decision of OEPEO on the appeal of Makati City to retain  operation of the school)",
+      "text": "(rsubject to the decision of OEPEO on the appeal of Makati City to retain  operation of the school)"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.84,
+            "t": 185.73300732421876,
+            "r": 503.91,
+            "b": 161.0100073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "2. The DEPED  shall allow OEPED Ta8uig-Pateros  Division to operate  the subject  schools to ensure the continuity  of the education  of the students  affected.",
+      "text": "The DEPED  shall allow OEPED Ta8uig-Pateros  Division to operate  the subject  schools to ensure the continuity  of the education  of the students  affected.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.8,
+            "t": 764.9720073242187,
+            "r": 526.854,
+            "b": 726.1070073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "3. The parties  shall abide  by the final determination  of the court on the issue  of ownership. This Atreement shall be deemed modified  to conform with said final determination.",
+      "text": "The parties  shall abide  by the final determination  of the court on the issue  of ownership. This Atreement shall be deemed modified  to conform with said final determination.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.08,
+            "t": 712.4090073242187,
+            "r": 525.606,
+            "b": 672.4170073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "4. Effective January  1,2024 ell expenses  for utilities  (electricity,  water,  etc.), security and .ianitorial  services  for the subject schools shall be for the account  of DEPED/ Taguig City.",
+      "text": "Effective January  1,2024 ell expenses  for utilities  (electricity,  water,  etc.), security and .ianitorial  services  for the subject schools shall be for the account  of DEPED/ Taguig City.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.44,
+            "t": 657.3320073242187,
+            "r": 526.494,
+            "b": 617.8500073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "5. This ASreement shall not in any manner be construed as an abandonment  or waiver of the respective  positions  of Makati  City and Taguig City vis-e-vis  the ownership  of the school  land, building,  facllities  and equipment  subject of this Agreement.",
+      "text": "This ASreement shall not in any manner be construed as an abandonment  or waiver of the respective  positions  of Makati  City and Taguig City vis-e-vis  the ownership  of the school  land, building,  facllities  and equipment  subject of this Agreement.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.08,
+            "t": 600.8200073242188,
+            "r": 524.83,
+            "b": 574.3850073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "lN WITNESS  WHEREOF,  the parties  have sitned this Memorandum  of Agreement this  _ day of November 2023.",
+      "text": "lN WITNESS  WHEREOF,  the parties  have sitned this Memorandum  of Agreement this  _ day of November 2023."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.44,
+            "t": 518.3830073242187,
+            "r": 137.36,
+            "b": 510.5200073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "By",
+      "text": "By"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.44,
+            "t": 479.1390073242187,
+            "r": 308.997,
+            "b": 469.4270073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "HON. MA BINAY.CAMPOS",
+      "text": "HON. MA BINAY.CAMPOS"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 194.04,
+            "t": 465.4590073242187,
+            "r": 221.754,
+            "b": 455.7470073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Oty M",
+      "text": "Oty M"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 160.56,
+            "t": 546.4610073242187,
+            "r": 234.088,
+            "b": 537.5210073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "CITY OF MAKATI",
+      "text": "CITY OF MAKATI"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 387.72,
+            "t": 548.2540073242187,
+            "r": 459.882,
+            "b": 536.2290073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ctw UIG",
+      "text": "ctw UIG"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.44,
+            "t": 518.3830073242187,
+            "r": 137.36,
+            "b": 510.5200073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "By",
+      "text": "By"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 327.24,
+            "t": 518.3830073242187,
+            "r": 337.16,
+            "b": 510.5200073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "By",
+      "text": "By"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.44,
+            "t": 479.1390073242187,
+            "r": 308.997,
+            "b": 469.4270073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "HON. MA BINAY.CAMPOS",
+      "text": "HON. MA BINAY.CAMPOS"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 360.36,
+            "t": 478.7800073242187,
+            "r": 506.119,
+            "b": 453.9330073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "HO I  CAYETANO rd MA TAA",
+      "text": "HO I  CAYETANO rd MA TAA"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 194.04,
+            "t": 465.4590073242187,
+            "r": 221.754,
+            "b": 455.7470073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Oty M",
+      "text": "Oty M"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 387.72,
+            "t": 548.2540073242187,
+            "r": 459.882,
+            "b": 536.2290073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ctw UIG",
+      "text": "ctw UIG"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 360.36,
+            "t": 478.7800073242187,
+            "r": 506.119,
+            "b": 453.9330073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "HO I  CAYETANO rd MA TAA",
+      "text": "HO I  CAYETANO rd MA TAA"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 227.52,
+            "t": 424.0620073242187,
+            "r": 360.018,
+            "b": 415.7370073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "DEPARTMENT OF EDUCANON",
+      "text": "DEPARTMENT OF EDUCANON"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 227.52,
+            "t": 397.0630073242187,
+            "r": 239.803,
+            "b": 389.2010073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "By:",
+      "text": "By:"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 258.84,
+            "t": 377.9460073242187,
+            "r": 407.781,
+            "b": 352.9710073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "1'rr^^-,*'. d')06",
+      "text": "1'rr^^-,*'. d')06"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 226.44,
+            "t": 358.5380073242187,
+            "r": 412.772,
+            "b": 321.31400732421866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "H9l{. s^[A z. DLnERrt  6, Srrtretary of Education Vice President,  Republic of the Philippines",
+      "text": "H9l{. s^[A z. DLnERrt  6, Srrtretary of Education Vice President,  Republic of the Philippines"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 507.24,
+            "t": 358.1430073242187,
+            "r": 543.663,
+            "b": 331.7810073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "uJ'",
+      "text": "uJ'"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 436.68,
+            "t": 339.0930073242187,
+            "r": 448.682,
+            "b": 326.6050073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "El",
+      "text": "El"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 258.84,
+            "t": 377.9460073242187,
+            "r": 407.781,
+            "b": 352.9710073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "1'rr^^-,*'. d')06",
+      "text": "1'rr^^-,*'. d')06"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 226.44,
+            "t": 358.5380073242187,
+            "r": 412.772,
+            "b": 321.31400732421866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "H9l{. s^[A z. DLnERrt  6, Srrtretary of Education Vice President,  Republic of the Philippines",
+      "text": "H9l{. s^[A z. DLnERrt  6, Srrtretary of Education Vice President,  Republic of the Philippines"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 436.68,
+            "t": 339.0930073242187,
+            "r": 448.682,
+            "b": 326.6050073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "El",
+      "text": "El"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 93.6,
+            "t": 263.1400073242187,
+            "r": 209.12,
+            "b": 253.8900073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Signed in the Presence of:",
+      "text": "Signed in the Presence of:"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 467.64,
+            "t": 234.6870073242187,
+            "r": 485.972,
+            "b": 219.42500732421877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "l-/.",
+      "text": "l-/."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 507.24,
+            "t": 358.1430073242187,
+            "r": 543.663,
+            "b": 331.7810073242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "uJ'",
+      "text": "uJ'"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 467.64,
+            "t": 234.6870073242187,
+            "r": 485.972,
+            "b": 219.42500732421877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "l-/.",
+      "text": "l-/."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 219.71127319335938,
+            "t": 51.3419189453125,
+            "r": 234.99392700195312,
+            "b": 34.3680419921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.1482849121094,
+            "t": 818.4602661132812,
+            "r": 330.9800109863281,
+            "b": 751.3131713867188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 377.0961608886719,
+            "t": 52.544921875,
+            "r": 394.5138244628906,
+            "b": 34.99755859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 489.8502502441406,
+            "t": 50.15057373046875,
+            "r": 576.1661987304688,
+            "b": 30.46807861328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 246.5077667236328,
+            "t": 546.0115661621094,
+            "r": 505.04498291015625,
+            "b": 509.85931396484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.24517822265625,
+            "t": 438.8421630859375,
+            "r": 438.8970947265625,
+            "b": 375.5301513671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 469.7378234863281,
+            "t": 190.64410400390625,
+            "r": 532.2587280273438,
+            "b": 124.58941650390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 422.6219482421875,
+            "t": 774.3509063720703,
+            "r": 545.643310546875,
+            "b": 713.2786178588867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 452.2459716796875,
+            "t": 163.3099365234375,
+            "r": 509.5606994628906,
+            "b": 104.04522705078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.67457580566406,
+            "t": 525.8248596191406,
+            "r": 312.06317138671875,
+            "b": 447.9484558105469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 358.10235595703125,
+            "t": 547.9088134765625,
+            "r": 508.4482421875,
+            "b": 455.2890930175781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 193.7943115234375,
+            "t": 393.38702392578125,
+            "r": 415.3214111328125,
+            "b": 320.958984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 434.8305358886719,
+            "t": 384.5884094238281,
+            "r": 491.3356628417969,
+            "b": 328.44677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/128"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 493.6873474121094,
+            "t": 381.0893859863281,
+            "r": 543.947509765625,
+            "b": 330.866455078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/129"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 395.46295166015625,
+            "t": 271.23382568359375,
+            "r": 499.9842529296875,
+            "b": 187.485595703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 847.4400024414062
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.719970703125,
+        "height": 848.8800048828125
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 597.5999755859375,
+        "height": 840.239990234375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 596.8800048828125,
+        "height": 841.3200073242188
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 598.3200073242188,
+        "height": 841.3200073242188
+      },
+      "page_no": 5
+    }
+  }
+}
