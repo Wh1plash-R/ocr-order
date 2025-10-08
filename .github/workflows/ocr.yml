@@ -1,20 +1,24 @@
-name: Run Docling OCR
+name: Run OCR on New PDFs
 
 on:
   push:
     paths:
-      - "orders/**"  # trigger when you add or change PDFs
+      - "orders/**"        # Trigger only when PDFs are added or changed
+    branches:
+      - main               # Or your default branch (e.g., master)
 
 jobs:
   ocr:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.12.8"
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
@@ -24,10 +28,21 @@ jobs:
       - name: Run OCR pipeline
         run: python ocr_script.py
 
-      - name: Commit OCR results
+      # --- Commit only new OCR outputs ---
+      - name: Commit and push new outputs
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add outputs/
-          git commit -m "Add OCR outputs"
-          git push
+
+          # Add only new or modified files under outputs/
+          git add outputs/ -N
+          NEW_FILES=$(git diff --name-only --diff-filter=A outputs/ || true)
+          MODIFIED_FILES=$(git diff --name-only --diff-filter=M outputs/ || true)
+
+          if [ -n "$NEW_FILES" ] || [ -n "$MODIFIED_FILES" ]; then
+            git add outputs/
+            git commit -m "Add new OCR outputs [skip ci]"
+            git push
+          else
+            echo "No new outputs to commit."
+          fi

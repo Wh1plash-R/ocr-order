@@ -27,7 +27,7 @@ def process_pdf(pdf_path: str):
     pdf_output_dir = Path(OUTPUT_DIR) / pdf_name
     pdf_output_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"Processing: {pdf_name}")
+    print(f"🔄 Processing: {pdf_name}")
 
     # Convert PDF → Docling document
     result = doc_converter.convert(pdf_path)
@@ -59,19 +59,38 @@ def process_pdf(pdf_path: str):
     with open(texts_only_file, "w", encoding="utf-8") as f:
         json.dump({"texts": texts_only}, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved outputs to: {pdf_output_dir}")
-    print(f"Extra texts-only JSON saved as: {texts_only_file}")
+    print(f"✅ Saved outputs to: {pdf_output_dir}")
+    print(f"📝 Extra texts-only JSON saved as: {texts_only_file}\n")
 
 
 if __name__ == "__main__":
-    if not os.path.exists(PDF_INPUT_DIR):
-        print(f"Input folder '{PDF_INPUT_DIR}' not found. Please create it and add PDFs.")
+    input_dir = Path(PDF_INPUT_DIR)
+    if not input_dir.exists():
+        print(f"❌ Input folder '{PDF_INPUT_DIR}' not found. Please create it and add PDFs.")
         sys.exit(1)
 
-    pdf_files = list(Path(PDF_INPUT_DIR).glob("*.pdf"))
+    pdf_files = list(input_dir.glob("*.pdf"))
     if not pdf_files:
-        print(f"No PDFs found in {PDF_INPUT_DIR}")
+        print(f"⚠️ No PDFs found in {PDF_INPUT_DIR}")
         sys.exit(1)
+
+    processed_count = 0
+    skipped_count = 0
 
     for pdf in pdf_files:
+        pdf_name = pdf.stem
+        output_folder = Path(OUTPUT_DIR) / pdf_name
+        expected_text_output = output_folder / f"{pdf_name}.text"
+
+        # Skip if already processed (exists and non-empty)
+        if expected_text_output.exists() and expected_text_output.stat().st_size > 0:
+            print(f"⏭️ Skipping '{pdf_name}' — already processed.")
+            skipped_count += 1
+            continue
+
         process_pdf(str(pdf))
+        processed_count += 1
+
+    print(f"\nSummary:")
+    print(f"🆕 Processed new PDFs: {processed_count}")
+    print(f"⏩ Skipped already processed: {skipped_count}")
